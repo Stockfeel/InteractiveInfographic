@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+/*字重有7種（Thin 100、Light 300、DemiLight 350、Regular 400、Medium 500、Bold 700、Black 900）*/
+
 
 body {
   font-family: 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, 微軟正黑體, sans-serif;
@@ -57,3 +59,8 @@ p {
   line-height: 1.5em;
   font-weight: 500;
 }
+
+
+/*#wrapper section:nth-child(1) {
+  background-color: #333;
+}*/
