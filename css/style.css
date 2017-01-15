@@ -1,9 +1,7 @@
-@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
-/*字重有7種（Thin 100、Light 300、DemiLight 350、Regular 400、Medium 500、Bold 700、Black 900）*/
-
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
 
 body {
-  font-family: 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, 微軟正黑體, sans-serif;
+  font-family: 'Lato', 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, "微軟正黑體", 'Microsoft JhengHei', sans-serif;
   font-style: normal;
   line-height: 1.5em;
 }
@@ -14,6 +12,11 @@ h1 {
   letter-spacing: 0.1em;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 span {
+  background-color: #FFF;
 }
 
 h2 {
@@ -23,9 +26,7 @@ h2 {
   font-weight: 700;
   text-align: center;
   position: relative;
-  
-  /*border-top: 2px solid #000;*/
-  /*border-bottom: 2px solid #000;*/
+  margin-bottom: 10px;
 }
 /*增加底線*/
 h2:before{
@@ -52,15 +53,61 @@ h3 {
   font-weight: 700;
   text-align: center;
   color: #666;
+  margin-bottom: 0;
 }
 
 p {
+  font-size: 1.2em;
   text-align: center;
   line-height: 1.5em;
   font-weight: 500;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#twVsJp {
+  text-align: center;
+}
+
+#twVsJp img {
+  width: 400px;
+}
+
+#toTaiwanPeople {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#toTaiwanPeople img {
+  width: 850px;
+}
+
+#worldmap {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#worldmap img {
+  width: 850px;
 }
 
 
-/*#wrapper section:nth-child(1) {
-  background-color: #333;
-}*/
+::selection {
+  background: #E74631;
+  color: #fff;
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+  background: #E74631;
+}
+
+
+#wrapper section:nth-child(1) {
+  background: url("../img/bg1.svg") no-repeat;
+  /*background-size: contain;*/
+  background-size: 1250px auto;
+  background-position: center;
+}

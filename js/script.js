@@ -1,5 +1,6 @@
 $(document).ready(function(){
   $('#wrapper').fullpage({
-    navigation: true
+    navigation: true,
+    scrollOverflow: true
   });
 });
