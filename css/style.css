@@ -1,3 +1,59 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+body {
+  font-family: 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, 微軟正黑體, sans-serif;
+  font-style: normal;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: 3.5em;
+  line-height: 1.5em;
+  letter-spacing: 0.1em;
+  font-weight: 900;
+  text-align: center;
+}
+
 h2 {
-	font-size: 50px;
+  font-size: 2.5em;
+  line-height: 1.5em;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  
+  /*border-top: 2px solid #000;*/
+  /*border-bottom: 2px solid #000;*/
+}
+/*增加底線*/
+h2:before{
+    content: "";
+    position: absolute;
+    width: 70%;
+    top: 0;
+    left: 15%;
+    border-top: 2px solid #000;
+}
+h2:after{
+    content: "";
+    position: absolute;
+    width: 70%;
+    bottom: 0;
+    left: 15%;
+    border-bottom: 2px solid #000;
+}
+/*增加底線*/
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  font-weight: 700;
+  text-align: center;
+  color: #666;
+}
+
+p {
+  text-align: center;
+  line-height: 1.5em;
+  font-weight: 500;
 }
