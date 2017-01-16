@@ -7,19 +7,6 @@ body {
 }
 
 h1 {
-  font-size: 3.5em;
-  line-height: 1.5em;
-  letter-spacing: 0.1em;
-  font-weight: 900;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-h1 span {
-  background-color: #FFF;
-}
-
-h2 {
   font-size: 2.5em;
   line-height: 1.5em;
   letter-spacing: 0.1em;
@@ -28,8 +15,19 @@ h2 {
   position: relative;
   margin-bottom: 10px;
 }
+
+.main-title {
+  font-size: 3.5em;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+
+.main-title span {
+  background-color: #FFF;
+}
+
 /*增加底線*/
-h2:before{
+.headline:before{
     content: "";
     position: absolute;
     width: 70%;
@@ -37,7 +35,7 @@ h2:before{
     left: 15%;
     border-top: 2px solid #000;
 }
-h2:after{
+.headline:after{
     content: "";
     position: absolute;
     width: 70%;
@@ -45,9 +43,10 @@ h2:after{
     left: 15%;
     border-bottom: 2px solid #000;
 }
-/*增加底線*/
 
-h3 {
+
+
+h2 {
   font-size: 1.5em;
   line-height: 1.5em;
   font-weight: 700;

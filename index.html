@@ -8,36 +8,36 @@
 </head>
 <body>
   <div id="wrapper">
-      <section class="section">
-        <h1><span>來台旅客大車拼</span></h1>
+      <section id="scene1" class="section">
+        <h1 class="main-title"><span>來台旅客大車拼</span></h1>
         <div id="twVsJp"><img src="./img/twVsJp.svg"></div>
         <div id="toTaiwanPeople"><img src="./img/toTaiwanPeople.svg"></div>
         <p>到底哪國旅客來台花錢最不手軟？</p>
         <p>讓我們細讀數據，深入了解中國旅客與日本旅客的在台消費力誰強誰弱。</p>
         <div class="mouse"></div>
       </section>
-      <section class="section">
-          <h2>旅客都從哪裡來？</h2>
-          <h3>2014年來台旅客總數：9,910,204人 </h3>
+      <section id="scene2" class="section">
+          <h1 class="headline">旅客都從哪裡來？</h1>
+          <h2>2014年來台旅客總數：9,910,204人 </h2>
           <div id="worldmap"><img src="./img/worldmap.svg"></div>
           <p>根據觀光局來台旅客資料顯示，第一名為中國，占比超過四成</p>
           <p>第二名為日本，人次不到中國的一半</p>
           <p>底下我們就好好的來分析中日旅客創造台灣觀光財的差異在哪吧！</p>
       </section>
       <section class="section">
-          <h2>他們都來做什麼？</h2>
+          <h1 class="headline">他們都來做什麼？</h1>
           <p>2014年的近千萬來台旅客中，有超過7成的人是以觀光為目的</p>
           <p>中國的觀光比例更是超過八成。可見無論國別，觀光仍是來台旅遊的主要原因</p>
       </section>
       <section class="section">
-          <h2>消費習慣的差異</h2>
+          <h1 class="headline">消費習慣的差異</h1>
           <p>為了找出中日旅客對台灣經濟的影響</p>
           <p>我們進一步觀察兩國旅客登台後鈔票的流向。</p>
           <p>攤開兩國旅客花費可發現，在 ”購物費” 與 ”旅館內支出” 兩個項目上</p>
           <p>中日旅客的差異明顯。讓我們往下探究這個現象為何發生</p>
       </section>
       <section class="section">
-          <h2>中國團客v.s.日本團客：掃些什麼貨？</h2>
+          <h1 class="headline">中國團客v.s.日本團客：掃些什麼貨？</h1>
           <p>為了進一步追蹤兩國旅客購物的差異</p>
           <p>我們鎖定最具購物潛力的觀光團客，找出他們到底幫誰加了薪</p>
           <p>發現中國團客在珠寶或玉器類的購買力驚人</p>
@@ -45,7 +45,7 @@
           <p>看來美食寶島的名號果真是名不虛傳</p>
       </section>
       <section class="section">
-          <h2>中國v.s.日本：喜歡住哪裡？</h2>
+          <h1 class="headline">中國v.s.日本：喜歡住哪裡？</h1>
           <p>除了購物費，旅館內支出的差異也是看點十足</p>
           <p>我們以最具規模、最受規範的住宿業類別─觀光旅館業─為探討對象</p>
           <p>依法又可分為國際觀光旅館業與一般觀光旅館業</p>
@@ -55,7 +55,7 @@
           <p>進一步往下追蹤，找出兩國旅客最愛的五大酒店</p>
       </section>
       <section class="section">
-          <h2>聚焦觀光旅館</h2>
+          <h1 class="headline">聚焦觀光旅館</h1>
           <p>往下追蹤中國旅客與日本旅客最愛的五大酒店</p>
           <p>原來日本旅客偏愛的酒店集中於台北地區</p>
           <p>大多是具有商務色彩且價位較高的精品型酒店</p>
@@ -63,10 +63,10 @@
           <p>中國的觀光旅客在此便留下了清晰可見的足跡</p>
       </section>
       <section class="section">
-          <h2>中國v.s.日本 大車拼</h2>
+          <h1 class="headline">中國v.s.日本 大車拼</h1>
       </section>
       <section class="section">
-          <h2>中國選擇購物，日本選擇住宿；你怎麼看？</h2>
+          <h1 class="headline">中國選擇購物，日本選擇住宿；你怎麼看？</h1>
           <p>比了才知道，原來要賺中國旅客的錢，最好去開藝品店</p>
           <p>要賺日本旅客的錢，最好去開大飯店；</p>
           <p>同樣是外國旅客，中國旅客與日本旅客對台灣經濟的影響層面，原來大不相同</p>
@@ -82,6 +82,10 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="./js/lib/scrolloverflow.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.2/jquery.fullPage.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.js"></script>
   <script src="./js/script.js"></script>
 </body>
 </html>
