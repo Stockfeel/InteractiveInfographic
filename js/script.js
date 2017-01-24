@@ -30,7 +30,9 @@ $(document).ready(function(){
 
   // build scene
   var sm_scene1 = new ScrollMagic.Scene({
-                        triggerElement: '#scene1'
+                        triggerElement: '#scene1',
+                        triggerHook: 0,
+                        offset: 300
                     })
           .setTween(tlScene1)
           .addIndicators({name: "1 (duration: 0)"}) // add indicators (requires plugin)
