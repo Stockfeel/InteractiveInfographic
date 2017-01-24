@@ -35,10 +35,10 @@ svg {
 #fp-nav ul:hover .fp-tooltip{
   color: #E74631;
   font-family: 'Lato', "微軟正黑體", 'Microsoft JhengHei', sans-serif;
-  transition: opacity 0.2s ease-in;
+/*  transition: opacity 0.2s ease-in;
   opacity: 1;
   right: 20px;
-  width: auto;
+  width: auto;*/
 }
 
 /*#wrapper section:nth-child(1) {

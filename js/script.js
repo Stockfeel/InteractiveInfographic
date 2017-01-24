@@ -1,42 +1,33 @@
 $(document).ready(function(){
 
 
-  // load all svg
-  $("#scene01").load("img/scene01.svg", function() {
-    // animation();
-  });
+  var $svg01 = $('#svg01'),
+      $svg01Character01 = $('#svg01Character01'),
+      $svg01Character02 = $('#svg01Character02'),
+      $svg01Character03 = $('#svg01Character03'),
+      $svg01Character04 = $('#svg01Character04'),
+      $svg01Character05 = $('#svg01Character05'),
+      $svg01Character06 = $('#svg01Character06'),
+      $svg01Character07 = $('#svg01Character07'),
 
-  $("#scene02").load("img/scene02.svg", function() {
-    // animation();
-  });
+      $svg02 = $('#svg02'),
+      $svg02topLine = $('#svg02topLine'),
+      $svg02bottomLine = $('#svg02bottomLine');
 
-  $("#scene03").load("img/scene03.svg", function() {
-    // animation();
-  });
+  var tlScene01 = new TimelineMax({paused: true }),
+      tlScene02 = new TimelineMax({paused: true });
 
-  $("#scene04").load("img/scene04.svg", function() {
-    // animation();
-  });
 
-  $("#scene05").load("img/scene05.svg", function() {
-    // animation();
-  });
+  tlScene01.from($svg01Character01, 0.4, {y: -100, opacity: 0, scale: 2}, '+=0.5')
+           .from($svg01Character02, 0.4, {y: -100, opacity: 0, scale: 2})
+           .from($svg01Character03, 0.4, {y: -100, opacity: 0, scale: 2})
+           .from($svg01Character04, 0.4, {y: -100, opacity: 0, scale: 2})
+           .from($svg01Character05, 0.4, {y: -100, opacity: 0, scale: 2})
+           .from($svg01Character06, 0.4, {y: -100, opacity: 0, scale: 2})
+           .from($svg01Character07, 0.4, {y: -100, opacity: 0, scale: 2});
 
-  $("#scene06").load("img/scene06.svg", function() {
-    // animation();
-  });
-
-  $("#scene07").load("img/scene07.svg", function() {
-    // animation();
-  });
-
-  $("#scene08").load("img/scene08.svg", function() {
-    // animation();
-  });
-
-  $("#scene09").load("img/scene09.svg", function() {
-    // animation();
-  });
+  tlScene02.from($svg02topLine, 0.4, {y: -100, opacity: 0, scale: 2}, '+=0.5')
+           .from($svg02bottomLine, 0.4, {y: -100, opacity: 0, scale: 2});
 
 
   //init fullpage.js
@@ -50,15 +41,65 @@ $(document).ready(function(){
       '中國團客v.s.日本團客：掃些什麼貨？',
       '中國v.s.日本：喜歡住哪裡？',
       '聚焦觀光旅館',
-      '中國v.s.日本',
-      '大車拼',
-      '中國選擇購物，日本選擇住宿；你怎麼看？'
-    ]
-  });
+      '中國v.s.日本 大車拼',
+      '中國選擇購物，日本選擇住宿'
+    ],
+    afterLoad: function(anchorLink, index) {
+      switch (index) {
+          case 1:
+              tlScene01.play();
+              break;
+          case 2:
+              tlScene02.play();
+              break;
+          case 3:
+              // tlScene03.play(0);
+              break;
+          case 4:
+              // tlScene04.play(0);
+              break;
+          case 5:
+              // tlScene05.play(0);
+              break;
+          case 6:
+              // tlScene06.play(0);
+              break;
+      }
+    },
+    onLeave: function(index, nextIndex, direction) {
+      switch (index) {
+          case 1:
+              tlScene01.pause(0);
+              break;
+          case 2:
+              tlScene02.pause(0);
+              break;
+          case 3:
+              // tlScene03.play(0);
+              break;
+          case 4:
+              // tlScene04.play(0);
+              break;
+          case 5:
+              // tlScene05.play(0);
+              break;
+          case 6:
+              // tlScene06.play(0);
+              break;
+      }
+    }
 
-  function animation() {
-    alert("test");
-  }
+  });   //fullpage.js Init
+
+
+
+
+
+
+
+  // function animation() {
+  //   alert("test");
+  // }
 
   // var $section_scene1 = $('#scene1'),
   //     $main_title = $('#scene1 .main-title'),
