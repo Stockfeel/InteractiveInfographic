@@ -1,42 +1,33 @@
 $(document).ready(function(){
 
-  $('#wrapper').fullpage({
-    navigation: true,
-    scrollOverflow: true
+  $("#scene01").load(".img/scene01.svg", function() {
+    animation();  //動畫開始
   });
 
 
 
-  var $section_scene1 = $('#scene1'),
-      $main_title = $('#scene1 .main-title'),
-      $twVsJp = $('#twVsJp'),
-      $toTaiwanPeople = $('#toTaiwanPeople'),
-      $section_scene1_paragraph = $('#scene1 p');
+  //init fullpage.js
+  $('#wrapper').fullpage({
+    navigation: true
+  });
 
-  var tlScene1 = new TimelineMax();
+  function animation() {
+    alert("test");
+  }
 
-  tlScene1.from($section_scene1, 0.4, {y: -100, opacity: 0})
-          .from($main_title, 0.4, {y: -100, opacity: 0}, 0.1)
-          .from($twVsJp, 0.4, {y: -100, opacity: 0}, 0.2)
-          .from($toTaiwanPeople, 0.4, {y: -100, opacity: 0}, 0.3)
-          .from($section_scene1_paragraph, 0.4, {y: -100, opacity: 0}, 0.4);
+  // var $section_scene1 = $('#scene1'),
+  //     $main_title = $('#scene1 .main-title'),
+  //     $twVsJp = $('#twVsJp'),
+  //     $toTaiwanPeople = $('#toTaiwanPeople'),
+  //     $section_scene1_paragraph = $('#scene1 p');
 
+  // var tlScene1 = new TimelineMax();
 
-  // init controller
-  var controller = new ScrollMagic.Controller();
-
-
-
-
-  // build scene
-  var sm_scene1 = new ScrollMagic.Scene({
-                        triggerElement: '#scene1',
-                        triggerHook: 0,
-                        offset: 300
-                    })
-          .setTween(tlScene1)
-          .addIndicators({name: "1 (duration: 0)"}) // add indicators (requires plugin)
-          .addTo(controller);
+  // tlScene1.from($section_scene1, 0.4, {y: -100, opacity: 0})
+  //         .from($main_title, 0.4, {y: -100, opacity: 0}, 0.1)
+  //         .from($twVsJp, 0.4, {y: -100, opacity: 0}, 0.2)
+  //         .from($toTaiwanPeople, 0.4, {y: -100, opacity: 0}, 0.3)
+  //         .from($section_scene1_paragraph, 0.4, {y: -100, opacity: 0}, 0.4);
 
 
 });

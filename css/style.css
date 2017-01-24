@@ -1,97 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:700');
 
 body {
-  font-family: 'Lato', 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, "微軟正黑體", 'Microsoft JhengHei', sans-serif;
+  font-family: 'Lato', "微軟正黑體", 'Microsoft JhengHei', 'Noto Sans TC', 'Noto Sans CJK TC', sourcehansans-tc, sans-serif;
   font-style: normal;
   line-height: 1.5em;
 }
 
-h1 {
-  font-size: 2.5em;
-  line-height: 1.5em;
-  letter-spacing: 0.1em;
-  font-weight: 700;
-  text-align: center;
-  position: relative;
-  margin-bottom: 10px;
-}
-
-.main-title {
-  font-size: 3.5em;
-  font-weight: 900;
-  margin-bottom: 20px;
-}
-
-.main-title span {
-  background-color: #FFF;
-}
-
-/*增加底線*/
-.headline:before{
-    content: "";
-    position: absolute;
-    width: 70%;
-    top: 0;
-    left: 15%;
-    border-top: 2px solid #000;
-}
-.headline:after{
-    content: "";
-    position: absolute;
-    width: 70%;
-    bottom: 0;
-    left: 15%;
-    border-bottom: 2px solid #000;
-}
 
 
 
-h2 {
-  font-size: 1.5em;
-  line-height: 1.5em;
-  font-weight: 700;
-  text-align: center;
-  color: #666;
-  margin-bottom: 0;
-}
 
-p {
-  font-size: 1.2em;
-  text-align: center;
-  line-height: 1.5em;
-  font-weight: 500;
-  font-weight: bold;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-#twVsJp {
-  text-align: center;
-}
-
-#twVsJp img {
-  width: 400px;
-}
-
-#toTaiwanPeople {
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-#toTaiwanPeople img {
-  width: 850px;
-}
-
-#worldmap {
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 10px;
-}
-
-#worldmap img {
-  width: 850px;
-}
 
 
 ::selection {
@@ -104,9 +22,9 @@ p {
 }
 
 
-#wrapper section:nth-child(1) {
+/*#wrapper section:nth-child(1) {
   background: url("../img/bg1.svg") no-repeat;
-  /*background-size: contain;*/
+  background-size: contain;
   background-size: 1250px auto;
   background-position: center;
-}
+}*/
