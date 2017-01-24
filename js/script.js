@@ -41,7 +41,19 @@ $(document).ready(function(){
 
   //init fullpage.js
   $('#wrapper').fullpage({
-    navigation: true
+    navigation: true,
+    navigationTooltips: [
+      '來台旅客大車拚',
+      '旅客都從哪裡來？',
+      '他們都來做什麼？',
+      '消費習慣的差異',
+      '中國團客v.s.日本團客：掃些什麼貨？',
+      '中國v.s.日本：喜歡住哪裡？',
+      '聚焦觀光旅館',
+      '中國v.s.日本',
+      '大車拼',
+      '中國選擇購物，日本選擇住宿；你怎麼看？'
+    ]
   });
 
   function animation() {

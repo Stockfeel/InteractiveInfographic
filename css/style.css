@@ -12,6 +12,7 @@ body {
 
 svg {
   height: 100%;
+  width: 100%;
   display: block;
   margin: 0 auto;
 }
@@ -25,10 +26,20 @@ svg {
   color: #fff;
 }
 
+/* 導覽列點點顏色 */
 #fp-nav ul li a span, .fp-slidesNav ul li a span {
   background: #E74631;
 }
 
+/* 導覽列tooltip顏色 */
+#fp-nav ul:hover .fp-tooltip{
+  color: #E74631;
+  font-family: 'Lato', "微軟正黑體", 'Microsoft JhengHei', sans-serif;
+  transition: opacity 0.2s ease-in;
+  opacity: 1;
+  right: 20px;
+  width: auto;
+}
 
 /*#wrapper section:nth-child(1) {
   background: url("../img/bg1.svg") no-repeat;
