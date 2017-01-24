@@ -6,7 +6,15 @@ body {
   line-height: 1.5em;
 }
 
+.section > div {
+  height: 100%;
+}
 
+svg {
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+}
 
 
 
