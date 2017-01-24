@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-  $("#scene01").load("img/scene01.svg", function() {
+  $("#scene01").load("./img/scene01.svg", function() {
     animation();  //動畫開始
   });
 
