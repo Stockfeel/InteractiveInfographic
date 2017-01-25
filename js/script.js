@@ -175,12 +175,93 @@ $(document).ready(function(){
       $svg04Floor04RightNumber = $('#svg04Floor04RightNumber'),
       $svg04Floor05RightNumber = $('#svg04Floor05RightNumber'),
 
-      $svg04BottomText = $('#svg04BottomText');
+      $svg04BottomText = $('#svg04BottomText'),
+
+//.....................svg05.....................
+
+      $svg05topLine = $('#svg05topLine'),
+      $svg05bottomLine = $('#svg05bottomLine'),
+
+      $svg05Heading = $('#svg05Heading'),
+      $svg05subHeading = $('#svg05subHeading'),
+      $svg05LittleText = $('#svg05LittleText'),
+
+      $svg05BannerLong = $('#svg05BannerLong'),
+      $svg05BannerChina = $('#svg05BannerChina'),
+      $svg05BannerJapan = $('#svg05BannerJapan'),
+
+      $svg05Lamp01 = $('#svg05Lamp01'),
+      $svg05Lamp02 = $('#svg05Lamp02'),
+
+      $svg05Floor01 = $('#svg05Floor01'),
+      $svg05Floor02 = $('#svg05Floor02'),
+      $svg05Floor03 = $('#svg05Floor03'),
+      $svg05Floor04 = $('#svg05Floor04'),
+      $svg05Floor05 = $('#svg05Floor05'),
+
+      $svg05Floor01People = $('#svg05Floor01People'),
+      $svg05Floor02People = $('#svg05Floor02People'),
+      $svg05Floor03People = $('#svg05Floor03People'),
+      $svg05Floor04People = $('#svg05Floor04People'),
+      $svg05Floor05People = $('#svg05Floor05People'),
+
+      $svg05Floor01LeftBar = $('#svg05Floor01LeftBar'),
+      $svg05Floor02LeftBar = $('#svg05Floor02LeftBar'),
+      $svg05Floor03LeftBar = $('#svg05Floor03LeftBar'),
+      $svg05Floor04LeftBar = $('#svg05Floor04LeftBar'),
+      $svg05Floor05LeftBar = $('#svg05Floor05LeftBar'),
+
+      $svg05Floor01LeftNumber = $('#svg05Floor01LeftNumber'),
+      $svg05Floor02LeftNumber = $('#svg05Floor02LeftNumber'),
+      $svg05Floor03LeftNumber = $('#svg05Floor03LeftNumber'),
+      $svg05Floor04LeftNumber = $('#svg05Floor04LeftNumber'),
+      $svg05Floor05LeftNumber = $('#svg05Floor05LeftNumber'),
+
+      $svg05Floor01RightBar = $('#svg05Floor01RightBar'),
+      $svg05Floor02RightBar = $('#svg05Floor02RightBar'),
+      $svg05Floor03RightBar = $('#svg05Floor03RightBar'),
+      $svg05Floor04RightBar = $('#svg05Floor04RightBar'),
+      $svg05Floor05RightBar = $('#svg05Floor05RightBar'),
+
+      $svg05Floor01RightNumber = $('#svg05Floor01RightNumber'),
+      $svg05Floor02RightNumber = $('#svg05Floor02RightNumber'),
+      $svg05Floor03RightNumber = $('#svg05Floor03RightNumber'),
+      $svg05Floor04RightNumber = $('#svg05Floor04RightNumber'),
+      $svg05Floor05RightNumber = $('#svg05Floor05RightNumber'),
+
+      $svg05Floor05LeftClothes = $('#svg05Floor05LeftClothes'),
+      $svg05Floor03RightPineapple = $('#svg05Floor03RightPineapple'),
+
+      $svg05LeftGirl = $('#svg05LeftGirl'),
+      $svg05RightGirl = $('#svg05RightGirl'),
+
+      $svg05LeftCar = $('#svg05LeftCar'),
+      $svg05RightCar = $('#svg05RightCar'),
+
+      $svg05Floor05Clothes = $('#svg05Floor05Clothes'),
+      $svg05Floor04Ruby = $('#svg05Floor04Ruby'),
+      $svg05Floor03Pineapple = $('#svg05Floor03Pineapple'),
+      $svg05Floor02Tea = $('#svg05Floor02Tea'),
+      $svg05Floor01Perfume = $('#svg05Floor01Perfume'),
+
+      $svg05BottomText = $('#svg05BottomText');
+
+
+
+
+
+
+
+
+
+
+
 
   var tlScene01 = new TimelineMax({paused: true }),
       tlScene02 = new TimelineMax({paused: true }),
       tlScene03 = new TimelineMax({paused: true }),
-      tlScene04 = new TimelineMax({paused: true });
+      tlScene04 = new TimelineMax({paused: true }),
+      tlScene05 = new TimelineMax({paused: true });
 
 
 
@@ -380,6 +461,46 @@ $(document).ready(function(){
            .from($svg04BottomText, 0.4, {y: 50, opacity: 0});
 
 
+  tlScene05.from($svg05topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
+           .from($svg05bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
+           .from($svg05Heading, 0.4, {x: -100, opacity: 0})
+           .from($svg05subHeading, 0.4, {x: -100, opacity: 0})
+
+           .from($svg05BannerLong, 0.4, {y: -100, opacity: 0})
+           .from($svg05BannerChina, 0.4, {y: -50, opacity: 0})
+           .from($svg05BannerJapan, 0.4, {y: -50, opacity: 0}, '-=0.4')
+
+           .from($svg05Lamp01, 0.3, {y: -50, opacity: 0}, '-=0.2')
+           .from($svg05Lamp02, 0.3, {y: -50, opacity: 0}, '-=0.15')
+
+           .from($svg05Floor01, 0.4, {y: -100, opacity: 0, rotation: 15})
+           .from($svg05Floor02, 0.4, {y: -100, opacity: 0, rotation: -15}, '-=0.35')
+           .from($svg05Floor03, 0.4, {y: -100, opacity: 0, rotation: 15}, '-=0.35')
+           .from($svg05Floor04, 0.4, {y: -100, opacity: 0, rotation: -15}, '-=0.35')
+           .from($svg05Floor05, 0.4, {y: -100, opacity: 0, rotation: 15}, '-=0.35')
+
+           .from($svg05Floor01People, 0.4, {x: -50, opacity: 0})
+           .from($svg05Floor02People, 0.4, {x: 50, opacity: 0}, '-=0.35')
+           .from($svg05Floor03People, 0.4, {x: -50, opacity: 0}, '-=0.35')
+           .from($svg05Floor04People, 0.4, {x: 50, opacity: 0}, '-=0.35')
+           .from($svg05Floor05People, 0.4, {x: -50, opacity: 0}, '-=0.35')
+
+           .from($svg05LeftCar, 0.5, {scale: 0})
+           .from($svg05RightCar, 0.5, {scale: 0}, '-=0.5')
+
+           .to($svg05LeftCar, 4, {y: 800})
+           .to($svg05RightCar, 4, {y: 800}, '-=4');
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -446,7 +567,7 @@ $(document).ready(function(){
               tlScene04.pause();
               break;
           case 5:
-              // tlScene05.play(0);
+              tlScene05.pause();
               break;
           case 6:
               // tlScene06.play(0);
@@ -466,7 +587,7 @@ $(document).ready(function(){
               tlScene04.play(0);
               break;
           case 5:
-              // tlScene05.play(0);
+              tlScene05.play(0);
               break;
           case 6:
               // tlScene06.play(0);
