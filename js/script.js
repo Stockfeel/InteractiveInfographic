@@ -406,19 +406,44 @@ $(document).ready(function(){
       '中國v.s.日本 大車拼',
       '中國選擇購物，日本選擇住宿'
     ],
-    afterLoad: function(anchorLink, index) {
+    afterRender: function(){
+      tlScene01.play();
+    },
+    // afterLoad: function(anchorLink, index) {
+    //   switch (index) {
+    //       case 1:
+    //           tlScene01.play();
+    //           break;
+    //       case 2:
+    //           tlScene02.play();
+    //           break;
+    //       case 3:
+    //           tlScene03.play();
+    //           break;
+    //       case 4:
+    //           tlScene04.play();
+    //           break;
+    //       case 5:
+    //           // tlScene05.play(0);
+    //           break;
+    //       case 6:
+    //           // tlScene06.play(0);
+    //           break;
+    //   }
+    // },
+    onLeave: function(index, nextIndex, direction) {
       switch (index) {
           case 1:
-              tlScene01.play();
+              tlScene01.pause();
               break;
           case 2:
-              tlScene02.play();
+              tlScene02.pause();
               break;
           case 3:
-              tlScene03.play();
+              tlScene03.pause();
               break;
           case 4:
-              tlScene04.play();
+              tlScene04.pause();
               break;
           case 5:
               // tlScene05.play(0);
@@ -427,20 +452,18 @@ $(document).ready(function(){
               // tlScene06.play(0);
               break;
       }
-    },
-    onLeave: function(index, nextIndex, direction) {
-      switch (index) {
+      switch (nextIndex) {
           case 1:
-              tlScene01.pause(0);
+              tlScene01.play(0);
               break;
           case 2:
-              tlScene02.pause(0);
+              tlScene02.play(0);
               break;
           case 3:
-              tlScene03.pause(0);
+              tlScene03.play(0);
               break;
           case 4:
-              tlScene04.pause(0);
+              tlScene04.play(0);
               break;
           case 5:
               // tlScene05.play(0);
@@ -452,30 +475,6 @@ $(document).ready(function(){
     }
 
   });   //fullpage.js Init
-
-
-
-
-
-
-
-  // function animation() {
-  //   alert("test");
-  // }
-
-  // var $section_scene1 = $('#scene1'),
-  //     $main_title = $('#scene1 .main-title'),
-  //     $twVsJp = $('#twVsJp'),
-  //     $toTaiwanPeople = $('#toTaiwanPeople'),
-  //     $section_scene1_paragraph = $('#scene1 p');
-
-  // var tlScene1 = new TimelineMax();
-
-  // tlScene1.from($section_scene1, 0.4, {y: -100, opacity: 0})
-  //         .from($main_title, 0.4, {y: -100, opacity: 0}, 0.1)
-  //         .from($twVsJp, 0.4, {y: -100, opacity: 0}, 0.2)
-  //         .from($toTaiwanPeople, 0.4, {y: -100, opacity: 0}, 0.3)
-  //         .from($section_scene1_paragraph, 0.4, {y: -100, opacity: 0}, 0.4);
 
 
 });
