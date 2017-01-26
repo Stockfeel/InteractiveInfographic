@@ -1,6 +1,6 @@
 $(document).ready(function(){
   // load all svg
-  $("#scene01").load("img/scene01.svg");
+  // $("#scene01").load("img/scene01.svg");
   $("#scene02").load("img/scene02.svg");
   $("#scene03").load("img/scene03.svg");
   $("#scene04").load("img/scene04.svg");
