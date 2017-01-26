@@ -319,29 +319,108 @@ $(document).ready(function(){
 
           $svg06TextGeneralHotel = $('#svg06TextGeneralHotel'),
           $svg06TextGeneralHotelLeft = $('#svg06TextGeneralHotelLeft'),
-          $svg06TextGeneralHotelRight = $('#svg06TextGeneralHotelRight');
+          $svg06TextGeneralHotelRight = $('#svg06TextGeneralHotelRight'),
 
+    //.....................svg07.....................
 
+          $svg07topLine = $('#svg07topLine'),
+          $svg07bottomLine = $('#svg07bottomLine'),
 
+          $svg07Heading = $('#svg07Heading'),
+          $svg07subHeading = $('#svg07subHeading'),
 
+          $svg07LittleHotel = $('#svg07LittleHotel'),
+          $svg07PeopleRight = $('#svg07PeopleRight'),
 
+          $svg07BrownBar = $('#svg07BrownBar'),
+          $svg07TextChinaLeft = $('#svg07TextChinaLeft'),
+          $svg07TextJapanRight = $('#svg07TextJapanRight'),
+          $svg07FlagChina = $('#svg07FlagChina'),
+          $svg07FlagJapan = $('#svg07FlagJapan'),
 
+          $svg07Taiwan = $('#svg07Taiwan'),
 
+          $svg07RedTaipei = $('#svg07RedTaipei'),
+          $svg07RedTaoyuan = $('#svg07RedTaoyuan'),
+          $svg07RedTaitung = $('#svg07RedTaitung'),
+          $svg07RedKaohsiung = $('#svg07RedKaohsiung'),
 
+          $svg07RedTaipeiTooltipLeft = $('#svg07RedTaipeiTooltipLeft'),
+          $svg07RedTaipeiTooltipRight = $('#svg07RedTaipeiTooltipRight'),
+          $svg07RedTaoyuanTooltip = $('#svg07RedTaoyuanTooltip'),
+          $svg07RedTaitungTooltip = $('#svg07RedTaitungTooltip'),
+          $svg07RedKaohsiungTooltip = $('#svg07RedKaohsiungTooltip'),
 
+          $svg07Map = $('#svg07Map'),
 
+          $svg07BottomText = $('#svg07BottomText'),
 
+    //.....................svg08.....................
 
+          $svg08topLine = $('#svg08topLine'),
+          $svg08bottomLine = $('#svg08bottomLine'),
 
+          $svg08Heading = $('#svg08Heading'),
 
+          $svg08FlagChina = $('#svg08FlagChina'),
+          $svg08FlagJapan = $('#svg08FlagJapan'),
 
+          $svg08TextChina = $('#svg08TextChina'),
+          $svg08TextJapan = $('#svg08TextJapan'),
 
+          $svg08Buddha = $('#svg08Buddha'),
+          $svg08GirlLeft = $('#svg08GirlLeft'),
 
+          $svg08GirlRight = $('#svg08GirlRight'),
+          $svg08Lamp01 = $('#svg08Lamp01'),
+          $svg08Lamp02 = $('#svg08Lamp02'),
+          $svg08Lamp03 = $('#svg08Lamp03'),
+          $svg08Lamp04 = $('#svg08Lamp04'),
 
+          $svg08Plane = $('#svg08Plane'),
+          $svg08Runway = $('#svg08Runway'),
 
+          $svg08Text01 = $('#svg08Text01'),
+          $svg08Text02 = $('#svg08Text02'),
+          $svg08Text03 = $('#svg08Text03'),
+          $svg08Text04 = $('#svg08Text04'),
+          $svg08Text05 = $('#svg08Text05'),
+          $svg08Text06 = $('#svg08Text06'),
+          $svg08Text07 = $('#svg08Text07'),
+          $svg08Text08 = $('#svg08Text08'),
+          $svg08Text09 = $('#svg08Text09'),
 
+          $svg08Text01Left = $('#svg08Text01Left'),
+          $svg08Text02Left = $('#svg08Text02Left'),
+          $svg08Text03Left = $('#svg08Text03Left'),
+          $svg08Text04Left = $('#svg08Text04Left'),
+          $svg08Text05Left = $('#svg08Text05Left'),
+          $svg08Text06Left = $('#svg08Text06Left'),
+          $svg08Text07Left = $('#svg08Text07Left'),
+          $svg08Text08Left = $('#svg08Text08Left'),
+          $svg08Text09Left = $('#svg08Text09Left'),
 
+          $svg08Text01Right = $('#svg08Text01Right'),
+          $svg08Text02Right = $('#svg08Text02Right'),
+          $svg08Text03Right = $('#svg08Text03Right'),
+          $svg08Text04Right = $('#svg08Text04Right'),
+          $svg08Text05Right = $('#svg08Text05Right'),
+          $svg08Text06Right = $('#svg08Text06Right'),
+          $svg08Text07Right = $('#svg08Text07Right'),
+          $svg08Text08Right = $('#svg08Text08Right'),
+          $svg08Text09Right = $('#svg08Text09Right'),
 
+          $svg08Text01Win = $('#svg08Text01Win'),
+          $svg08Text02Win = $('#svg08Text02Win'),
+          $svg08Text03Win = $('#svg08Text03Win'),
+          $svg08Text04Win = $('#svg08Text04Win'),
+          $svg08Text05Win = $('#svg08Text05Win'),
+          $svg08Text06Win = $('#svg08Text06Win'),
+          $svg08Text07Win = $('#svg08Text07Win'),
+          $svg08Text08Win = $('#svg08Text08Win'),
+          $svg08Text09Win = $('#svg08Text09Win'),
+
+          $svg08Divider = $('#svg08Divider');
 
 
 
@@ -351,7 +430,8 @@ $(document).ready(function(){
           tlScene03 = new TimelineMax({paused: true }),
           tlScene04 = new TimelineMax({paused: true }),
           tlScene05 = new TimelineMax({paused: true }),
-          tlScene06 = new TimelineMax({paused: true });
+          tlScene06 = new TimelineMax({paused: true }),
+          tlScene07 = new TimelineMax({paused: true });
 
 
 
@@ -677,21 +757,41 @@ $(document).ready(function(){
 
 
 
+      tlScene07.from($svg07topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
+               .from($svg07bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
+               .from($svg07Heading, 0.4, {x: -100, opacity: 0})
+               .from($svg07subHeading, 0.4, {x: -100, opacity: 0})
 
+               .from($svg07LittleHotel, 0.4, {x: -20, opacity: 0})
 
+               .from($svg07Map, 0.7, {scale: 0, transformOrigin: '50% 50%'})
+               .to($svg07Map, 0.5, {opacity: 0.14})
 
+               .from($svg07Taiwan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
 
+               .from($svg07BrownBar, 0.2, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg07TextChinaLeft, 0.2, {y: -20})
+               .from($svg07TextJapanRight, 0.2, {y: -20}, '-=0.2')
 
+               .from($svg07FlagChina, 0.3, {y: -50, rotation: -15, opacity: 0})
+               .from($svg07FlagJapan, 0.3, {y: -50, rotation: -15, opacity: 0}, '-=0.3')
 
+               .from($svg07PeopleRight, 0.4, {x: 50, opacity: 0})
 
+               .from($svg07RedTaipei, 0.3, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg07RedTaipeiTooltipLeft, 0.3, {scale: 0, transformOrigin: '100% 0%'})
+               .from($svg07RedTaipeiTooltipRight, 0.3, {scale: 0}, '-=0.3')
 
+               .from($svg07RedTaoyuan, 0.3, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg07RedTaoyuanTooltip, 0.3, {scale: 0, transformOrigin: '100% 0%'})
 
+               .from($svg07RedTaitung, 0.3, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg07RedTaitungTooltip, 0.3, {scale: 0, transformOrigin: '100% 0%'})
 
+               .from($svg07RedKaohsiung, 0.3, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg07RedKaohsiungTooltip, 0.3, {scale: 0, transformOrigin: '100% 0%'})
 
-
-
-
-
+               .from($svg07BottomText, 0.4, {y: 50, opacity: 0}, '-=1');
 
 
 
@@ -750,7 +850,7 @@ $(document).ready(function(){
                 tlScene06.pause();
                 break;
             case 7:
-                // tlScene07.pause();
+                tlScene07.pause();
                 break;
             case 8:
                 // tlScene08.pause();
@@ -779,7 +879,7 @@ $(document).ready(function(){
                 tlScene06.play(0);
                 break;
             case 7:
-                // tlScene07.play(0);
+                tlScene07.play(0);
                 break;
             case 8:
                 // tlScene08.play(0);
