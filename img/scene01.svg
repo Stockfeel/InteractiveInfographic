@@ -1422,7 +1422,7 @@
 			c-0.21-0.45-2.16,0.41-3.49,1.47l-0.14-0.31c1.31-1.19,3.64-2.27,3.87-1.78l0.82,1.75c2.1-1,4.08-1.93,4.7-2.22
 			c1.41-0.66,3.37-1.97,2.86-3.05C897.69,388.6,894.25,388.16,892.68,388.89z"/>
 	</g>
-	<text id="svg01BottomText" transform="matrix(1 0 0 1 762.2505 877.7471)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">到底哪國旅客來台花錢最不手軟？</tspan><tspan x="-224.4" y="38.21" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">讓我們細讀數據，深入了解中國旅客與日本旅客的在台消費力誰強誰弱。</tspan></text>
+	<text id="svg01BottomText" transform="matrix(1 0 0 1 762.2505 877.7471)"><tspan x="0" y="0" font-family="'Lato', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">到底哪國旅客來台花錢最不手軟？</tspan><tspan x="-224.4" y="38.21" font-family="'Lato', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">讓我們細讀數據，深入了解中國旅客與日本旅客的在台消費力誰強誰弱。</tspan></text>
 	<g id="XMLID_3280_">
 		<path id="svg01Character01" d="M785.67,214.26c-1.79-0.44-3.65-1.26-5.58-2.45c-1.93-1.19-3.77-2.61-5.52-4.24
 			c-1.75-1.63-3.3-3.4-4.65-5.3c-1.35-1.9-2.35-3.75-2.98-5.57v20.34l-9,0.53v-16.63c-2.98,2.91-6.11,5.43-9.39,7.55
@@ -1514,12 +1514,22 @@
 			940.67,306.34 921.66,273.42 940.67,240.5 978.69,240.5 997.69,273.42 978.69,306.34 		"/>
 		<g id="XMLID_3312_">
 			
-				<text transform="matrix(0.9 0 0 1 1022.0347 282.6621)" font-family="'MicrosoftJhengHeiBold'" font-size="28.7747px" letter-spacing="2.22">日本</text>
+				<text transform="matrix(0.9 0 0 1 1022.0347 282.6621)" font-family="'Lato', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="28.7747px" letter-spacing="2.22">日本</text>
 		</g>
 		
-			<text id="XMLID_3313_" transform="matrix(0.9 0 0 1 837.2047 282.6621)" font-family="'MicrosoftJhengHeiBold'" font-size="28.7747px" letter-spacing="2.22">中國</text>
-		
-			<text id="XMLID_3314_" transform="matrix(0.9 0 0 1 940.0455 289.1299)" font-family="'Impact'" font-size="37.8008px" letter-spacing="3.33">VS</text>
+			<text id="XMLID_3313_" transform="matrix(0.9 0 0 1 837.2047 282.6621)" font-family="'Lato', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="28.7747px" letter-spacing="2.22">中國</text>
+		<g>
+			<path d="M958.07,259.25l-3.56,29.88h-10.62l-4.04-29.88h7.38c0.86,8.23,1.47,15.2,1.84,20.89c0.36-5.76,0.74-10.87,1.15-15.34
+				l0.49-5.56H958.07z"/>
+			<path d="M977.47,268.29h-6.5v-2.21c0-1.03-0.08-1.69-0.25-1.98c-0.17-0.28-0.44-0.42-0.83-0.42c-0.42,0-0.74,0.19-0.96,0.57
+				s-0.32,0.96-0.32,1.74c0,1,0.12,1.75,0.36,2.25c0.23,0.5,0.89,1.11,1.98,1.83c3.11,2.05,5.07,3.74,5.88,5.05
+				c0.81,1.32,1.21,3.44,1.21,6.37c0,2.13-0.22,3.7-0.67,4.71c-0.45,1.01-1.32,1.85-2.6,2.54c-1.28,0.68-2.78,1.02-4.48,1.02
+				c-1.87,0-3.47-0.39-4.79-1.18s-2.19-1.79-2.6-3.01c-0.41-1.22-0.61-2.95-0.61-5.19v-1.96h6.5v3.64c0,1.12,0.09,1.84,0.27,2.16
+				c0.18,0.32,0.51,0.48,0.97,0.48c0.47,0,0.81-0.2,1.04-0.61c0.23-0.41,0.34-1.01,0.34-1.81c0-1.76-0.22-2.91-0.65-3.45
+				c-0.44-0.54-1.53-1.45-3.27-2.71c-1.74-1.28-2.89-2.21-3.46-2.79c-0.57-0.58-1.03-1.38-1.4-2.4c-0.37-1.02-0.56-2.33-0.56-3.91
+				c0-2.29,0.26-3.96,0.79-5.02c0.53-1.06,1.38-1.89,2.55-2.48c1.17-0.6,2.59-0.9,4.25-0.9c1.82,0,3.36,0.33,4.64,0.98
+				c1.28,0.65,2.13,1.47,2.54,2.46c0.42,0.99,0.62,2.67,0.62,5.05V268.29z"/>
+		</g>
 		
 			<polyline id="XMLID_3315_" fill="none" stroke="#000000" stroke-width="1.6103" stroke-linejoin="round" stroke-miterlimit="10" points="
 			937.08,246.71 813.29,246.71 783.79,270.64 813.14,300.13 937.49,299.83 		"/>

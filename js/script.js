@@ -852,6 +852,7 @@ $(document).ready(function(){
                .from($svg08Runway, 4, {y: 950})
                .from($svg08Plane, 4, {y: -1825}, '-=3.8')
 
+
                .from($svg08Text01, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.9')
                .from($svg08Text02, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.8')
                .from($svg08Text03, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.7')
