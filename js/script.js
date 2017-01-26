@@ -266,7 +266,74 @@ $(document).ready(function(){
           $svg05Floor02Tea = $('#svg05Floor02Tea'),
           $svg05Floor01Perfume = $('#svg05Floor01Perfume'),
 
-          $svg05BottomText = $('#svg05BottomText');
+          $svg05BottomText = $('#svg05BottomText'),
+
+    //.....................svg06.....................
+
+          $svg06topLine01 = $('#svg06topLine01'),
+          $svg06bottomLine01 = $('#svg06bottomLine01'),
+
+          $svg06topLine02 = $('#svg06topLine02'),
+          $svg06bottomLine02 = $('#svg06bottomLine02'),
+
+          $svg06Heading01 = $('#svg06Heading01'),
+          $svg06Heading02 = $('#svg06Heading02'),
+          $svg06subHeading01 = $('#svg06subHeading01'),
+          $svg06subHeading02 = $('#svg06subHeading02'),
+          $svg06subHeading03 = $('#svg06subHeading03'),
+
+          $svg06Ground = $('#svg06Ground'),
+
+          $svg06HotelLeft = $('#svg06HotelLeft'),
+          $svg06HotelRight = $('#svg06HotelRight'),
+
+          $svg06Bling01 = $('#svg06Bling01'),
+          $svg06Bling02 = $('#svg06Bling02'),
+          $svg06Bling03 = $('#svg06Bling03'),
+
+          $svg06CarLeft = $('#svg06CarLeft'),
+          $svg06CarRight = $('#svg06CarRight'),
+
+          $svg06MoneyLeft = $('#svg06MoneyLeft'),
+          $svg06MoneyRight = $('#svg06MoneyRight'),
+
+          $svg06HotelLeftNumber = $('#svg06HotelLeftNumber'),
+          $svg06HotelRightNumber = $('#svg06HotelRightNumber'),
+
+          $svg06GirlLeft = $('#svg06GirlLeft'),
+          $svg06GirlRight = $('#svg06GirlRight'),
+
+          $svg06TextChina = $('#svg06TextChina'),
+          $svg06TextJapan = $('#svg06TextJapan'),
+
+          $svg06LineChina = $('#svg06LineChina'),
+          $svg06LineJapan = $('#svg06LineJapan'),
+
+          $svg06TextTourist = $('#svg06TextTourist'),
+          $svg06TextTouristLeft = $('#svg06TextTouristLeft'),
+          $svg06TextTouristRight = $('#svg06TextTouristRight'),
+
+          $svg06TextInternationalHotel = $('#svg06TextInternationalHotel'),
+          $svg06TextInternationalHotelLeft = $('#svg06TextInternationalHotelLeft'),
+          $svg06TextInternationalHotelRight = $('#svg06TextInternationalHotelRight'),
+
+          $svg06TextGeneralHotel = $('#svg06TextGeneralHotel'),
+          $svg06TextGeneralHotelLeft = $('#svg06TextGeneralHotelLeft'),
+          $svg06TextGeneralHotelRight = $('#svg06TextGeneralHotelRight');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -283,7 +350,8 @@ $(document).ready(function(){
           tlScene02 = new TimelineMax({paused: true }),
           tlScene03 = new TimelineMax({paused: true }),
           tlScene04 = new TimelineMax({paused: true }),
-          tlScene05 = new TimelineMax({paused: true });
+          tlScene05 = new TimelineMax({paused: true }),
+          tlScene06 = new TimelineMax({paused: true });
 
 
 
@@ -511,7 +579,135 @@ $(document).ready(function(){
                .from($svg05RightCar, 0.5, {scale: 0}, '-=0.5')
 
                .to($svg05LeftCar, 4, {y: 800})
-               .to($svg05RightCar, 4, {y: 800}, '-=4');
+               .to($svg05RightCar, 4, {y: 800}, '-=4')
+               .from($svg05LittleText, 0.4, {y: -20, opacity: 0}, '-=4.7')
+    //----------------------------05 animated bar
+               .from($svg05Floor05LeftBar, 0.4, {scale: 0, transformOrigin: '100% 50%'}, '-=4.3')
+               .from($svg05Floor05RightBar, 0.4, {scale: 0, transformOrigin: '0% 50%'}, '-=4.3')
+
+               .from($svg05Floor05LeftNumber, 0.2, {y: -10, opacity: 0}, '-=3.9')
+               .from($svg05Floor05RightNumber, 0.2, {y: -10, opacity: 0}, '-=3.9')
+    //----------------------------04 animated bar
+               .from($svg05Floor04LeftBar, 0.4, {scale: 0, transformOrigin: '100% 50%'}, '-=4')
+               .from($svg05Floor04RightBar, 0.4, {scale: 0, transformOrigin: '0% 50%'}, '-=4')
+
+               .from($svg05Floor04LeftNumber, 0.2, {y: -10, opacity: 0}, '-=3.6')
+               .from($svg05Floor04RightNumber, 0.2, {y: -10, opacity: 0}, '-=3.6')
+    //----------------------------03 animated bar
+               .from($svg05Floor03LeftBar, 0.4, {scale: 0, transformOrigin: '100% 50%'}, '-=3.7')
+               .from($svg05Floor03RightBar, 0.4, {scale: 0, transformOrigin: '0% 50%'}, '-=3.7')
+
+               .from($svg05Floor03LeftNumber, 0.2, {y: -10, opacity: 0}, '-=3.3')
+               .from($svg05Floor03RightNumber, 0.2, {y: -10, opacity: 0}, '-=3.3')
+    //----------------------------02 animated bar
+               .from($svg05Floor02LeftBar, 0.4, {scale: 0, transformOrigin: '100% 50%'}, '-=3.6')
+               .from($svg05Floor02RightBar, 0.4, {scale: 0, transformOrigin: '0% 50%'}, '-=3.6')
+
+               .from($svg05Floor02LeftNumber, 0.2, {y: -10, opacity: 0}, '-=3.2')
+               .from($svg05Floor02RightNumber, 0.2, {y: -10, opacity: 0}, '-=3.2')
+    //----------------------------01 animated bar
+               .from($svg05Floor01LeftBar, 0.4, {scale: 0, transformOrigin: '100% 50%'}, '-=3.5')
+               .from($svg05Floor01RightBar, 0.4, {scale: 0, transformOrigin: '0% 50%'}, '-=3.5')
+
+               .from($svg05Floor01LeftNumber, 0.2, {y: -10, opacity: 0}, '-=3.1')
+               .from($svg05Floor01RightNumber, 0.2, {y: -10, opacity: 0}, '-=3.1')
+
+               .from($svg05Floor05LeftClothes, 0.4, {y: -200, opacity: 0}, '-=2')
+               .from($svg05Floor03RightPineapple, 0.4, {y: -200, opacity: 0}, '-=2')
+
+               .from($svg05LeftGirl, 0.4, {x: -20, opacity: 0}, '-=1.5')
+               .from($svg05RightGirl, 0.4, {x: 200, opacity: 0}, '-=1.5')
+
+               .from($svg05BottomText, 0.4, {y: 50, opacity: 0}, '-=1');
+
+
+
+      tlScene06.from($svg06topLine01, 0.1, {x: -100, opacity: 0}, '+=0.5')
+               .from($svg06bottomLine01, 0.1, {x: -100, opacity: 0}, '-=0.1')
+               .from($svg06Heading01, 0.4, {x: -100, opacity: 0})
+               .from($svg06subHeading01, 0.4, {x: -100, opacity: 0})
+
+               .from($svg06Ground, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+
+               .from($svg06HotelLeft, 0.4, {scale: 0, transformOrigin: '50% 100%'})
+               .from($svg06HotelRight, 0.4, {scale: 0, transformOrigin: '50% 100%'}, '-=0.4')
+
+               .from($svg06CarLeft, 1, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg06CarRight, 1, {scale: 0, transformOrigin: '50% 50%'}, '-=1')
+
+               .to($svg06CarLeft, 1, {x: 200})
+               .to($svg06CarRight, 1, {x: -200}, '-=1')
+
+               .from($svg06MoneyLeft, 0.4, {scale: 0, transformOrigin: '50% 100%'})
+               .from($svg06MoneyRight, 0.4, {scale: 0, transformOrigin: '50% 100%'}, '-=0.4')
+
+               .from($svg06HotelLeftNumber, 0.4, {y: 50, opacity: 0})
+               .from($svg06HotelRightNumber, 0.4, {y: 50, opacity: 0}, '-=0.4')
+
+               .from($svg06subHeading02, 0.4, {x: -100, opacity: 0})
+
+               .from($svg06topLine02, 0.1, {x: -100, opacity: 0})
+               .from($svg06bottomLine02, 0.1, {x: -100, opacity: 0}, '-=0.1')
+               .from($svg06Heading02, 0.4, {x: -100, opacity: 0})
+
+               .from($svg06GirlLeft, 0.8, {x: -200, opacity: 0})
+               .from($svg06GirlRight, 0.8, {x: 200, opacity: 0}, '-=0.8')
+
+               .from($svg06TextChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg06TextJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.4')
+
+               .from($svg06LineChina, 0.1, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg06LineJapan, 0.1, {scale: 0, transformOrigin: '50% 50%'}, '-=0.1')
+
+               .from($svg06TextTourist, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextTouristLeft, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextTouristRight, 0.4, {y: -20, opacity: 0}, '-=0.4')
+
+               .from($svg06TextInternationalHotel, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextInternationalHotelLeft, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextInternationalHotelRight, 0.4, {y: -20, opacity: 0}, '-=0.4')
+
+               .from($svg06TextGeneralHotel, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextGeneralHotelLeft, 0.4, {y: -20, opacity: 0})
+               .from($svg06TextGeneralHotelRight, 0.4, {y: -20, opacity: 0}, '-=0.4')
+
+               .from($svg06subHeading03, 0.4, {y: 50, opacity: 0});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -551,7 +747,16 @@ $(document).ready(function(){
                 tlScene05.pause();
                 break;
             case 6:
-                // tlScene06.play(0);
+                tlScene06.pause();
+                break;
+            case 7:
+                // tlScene07.pause();
+                break;
+            case 8:
+                // tlScene08.pause();
+                break;
+            case 9:
+                // tlScene09.pause();
                 break;
         }
         switch (nextIndex) {
@@ -571,8 +776,20 @@ $(document).ready(function(){
                 tlScene05.play(0);
                 break;
             case 6:
-                // tlScene06.play(0);
+                tlScene06.play(0);
                 break;
+            case 7:
+                // tlScene07.play(0);
+                break;
+            case 8:
+                // tlScene08.play(0);
+                break;
+            case 9:
+                // tlScene09.play(0);
+                break;
+
+
+
         }
       }
 
