@@ -511,15 +511,15 @@
 			<rect id="svg05Floor01RightBar" x="1118.47" y="809.27" fill="#DBDCDC" stroke="#3E3A39" stroke-width="1.0735" stroke-miterlimit="10" width="5.81" height="29.03"/>
 		<g id="svg05Floor05RightNumber">
 			
-				<text transform="matrix(0.9 0 0 1 1185.4858 404.4248)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$16.57</text>
+				<text transform="matrix(1 0 0 1 1185.4858 404.4248)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$16.57</text>
 		</g>
 		<g id="svg05Floor04RightNumber">
 			
-				<text transform="matrix(0.9 0 0 1 1142.3989 504.9492)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$2.01</text>
+				<text transform="matrix(1 0 0 1 1142.3989 504.9492)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$2.01</text>
 		</g>
 		<g id="svg05Floor03RightNumber">
 			
-				<text transform="matrix(0.9 0 0 1 1251.8022 622.3135)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato-Regular'" font-size="25.7645px" letter-spacing="2.22">$38.70</text>
+				<text transform="matrix(1 0 0 1 1251.8022 622.3135)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato'" font-size="25.7645px" letter-spacing="2">$38.70</text>
 		</g>
 		<g id="svg05Floor03RightPineapple">
 			<polygon fill="#E74631" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" points="
@@ -542,11 +542,11 @@
 		</g>
 		<g id="svg05Floor02RightNumber">
 			
-				<text transform="matrix(0.9 0 0 1 1155.397 728.7056)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$7.33</text>
+				<text transform="matrix(1 0 0 1 1155.397 728.7056)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$7.33</text>
 		</g>
 		<g id="svg05Floor01RightNumber">
 			
-				<text transform="matrix(0.9 0 0 1 1136.7153 831.9561)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$1.91</text>
+				<text transform="matrix(1 0 0 1 1136.7153 831.9561)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$1.91</text>
 		</g>
 	</g>
 	<g>
@@ -678,7 +678,8 @@
 			
 				<rect x="853.07" y="397.47" transform="matrix(-1 -3.235468e-11 3.235468e-11 -1 1920 839.4902)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.86" height="44.56"/>
 			<g>
-				<text transform="matrix(1 0 0 1 871.5034 428.3779)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="23px" letter-spacing="2">服飾或相關配件</text>
+				
+					<text transform="matrix(1 0 0 1 871.5034 428.3779)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23px" letter-spacing="2">服飾或相關配件</text>
 			</g>
 			
 				<rect x="853.37" y="438.89" transform="matrix(-1 -3.224988e-11 3.224988e-11 -1 1920.1063 880.9151)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.37" height="3.13"/>
@@ -830,7 +831,8 @@
 			
 				<rect x="853.31" y="544.53" transform="matrix(-1 -3.224988e-11 3.224988e-11 -1 1920 1092.2014)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.37" height="3.13"/>
 			<g>
-				<text transform="matrix(1 0 0 1 884.1003 533.3916)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="23px" letter-spacing="2">珠寶或玉器類</text>
+				
+					<text transform="matrix(1 0 0 1 884.1003 533.3916)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23px" letter-spacing="2">珠寶或玉器類</text>
 			</g>
 		</g>
 	</g>
@@ -971,7 +973,8 @@
 			
 				<rect x="853.31" y="650.75" transform="matrix(-1 -3.224988e-11 3.224988e-11 -1 1920 1304.6265)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.37" height="3.13"/>
 			<g>
-				<text transform="matrix(1 0 0 1 896.7499 638.7295)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="23px" letter-spacing="2">名產或特產</text>
+				
+					<text transform="matrix(1 0 0 1 896.7499 638.7295)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23px" letter-spacing="2">名產或特產</text>
 			</g>
 		</g>
 	</g>
@@ -1129,7 +1132,8 @@
 			
 				<rect x="853.4" y="758.05" transform="matrix(-1 -3.222412e-11 3.222412e-11 -1 1920 1519.2339)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.2" height="3.13"/>
 			<g>
-				<text transform="matrix(1 0 0 1 934.7001 748.251)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="23px" letter-spacing="2">茶葉</text>
+				
+					<text transform="matrix(1 0 0 1 934.7001 748.251)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23px" letter-spacing="2">茶葉</text>
 			</g>
 		</g>
 	</g>
@@ -1299,7 +1303,8 @@
 			
 				<rect x="853.48" y="824.61" transform="matrix(-1 -3.224944e-11 3.224944e-11 -1 1920 1698.5302)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.04" height="49.32"/>
 			<g>
-				<text transform="matrix(1 0 0 1 884.1003 857.7227)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="23px" letter-spacing="2">化妝品或香水</text>
+				
+					<text transform="matrix(1 0 0 1 884.1003 857.7227)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23px" letter-spacing="2">化妝品或香水</text>
 			</g>
 			
 				<rect x="853.48" y="872.36" transform="matrix(-1 -3.229207e-11 3.229207e-11 -1 1920 1747.8462)" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="round" stroke-miterlimit="10" width="213.04" height="3.13"/>
@@ -1318,78 +1323,78 @@
 			<rect id="svg05Floor01LeftBar" x="761.58" y="809.27" fill="#DBDCDC" stroke="#3E3A39" stroke-width="1.0735" stroke-miterlimit="10" width="47.92" height="29.03"/>
 		<g id="svg05Floor05LeftNumber">
 			
-				<text transform="matrix(0.9 0 0 1 580.0307 405.458)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato-Regular'" font-size="25.7645px" letter-spacing="2.22">$47.58</text>
+				<text transform="matrix(1 0 0 1 560.0307 405.458)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato'" font-size="25.7645px" letter-spacing="2">$47.58</text>
 		</g>
 		<g id="svg05Floor04LeftNumber">
 			
-				<text transform="matrix(0.9 0 0 1 638.3276 504.9492)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$30.75</text>
+				<text transform="matrix(1 0 0 1 618.3276 504.9492)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$30.75</text>
 		</g>
 		<g id="svg05Floor03LeftNumber">
 			
-				<text transform="matrix(0.9 0 0 1 625.7973 618.9805)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$34.79</text>
+				<text transform="matrix(1 0 0 1 605.7974 618.9805)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$34.79</text>
 		</g>
 		<g id="svg05Floor02LeftNumber">
 			
-				<text transform="matrix(0.9 0 0 1 719.5449 728.7056)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$8.17</text>
+				<text transform="matrix(1 0 0 1 709.5449 728.7056)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$8.17</text>
 		</g>
 		<g id="svg05Floor01LeftNumber">
 			
-				<text transform="matrix(0.9 0 0 1 679.7763 831.9561)" fill="#595757" font-family="'Lato-Regular'" font-size="21.0203px" letter-spacing="1.11">$16.57</text>
+				<text transform="matrix(1 0 0 1 669.7763 831.9561)" fill="#595757" font-family="'Lato'" font-size="21.0203px" letter-spacing="2">$16.57</text>
 		</g>
 		<g id="svg05Floor05LeftClothes">
-			<path fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-miterlimit="10" d="M556.37,382.41l10.91,4.11l0.35,8.23
+			<path fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-miterlimit="10" d="M536.37,382.41l10.91,4.11l0.35,8.23
 				l-5.85-1.55l12.38,18.1l-14.89,10.18l-11.82-17.29l-1.3,5.73l-8.11-5.1l1.7-11.04l3.72-2.54c0,0,4.02,2.51,6.66,0.71
-				c2.64-1.81,1.41-6.22,1.41-6.22L556.37,382.41z"/>
+				c2.64-1.81,1.41-6.22,1.41-6.22L536.37,382.41z"/>
 			<g>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -133.229 377.104)" fill="#E74631" cx="543.18" cy="403.99" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -136.7196 365.8151)" fill="#E74631" cx="523.18" cy="403.99" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.6895 381.8068)" fill="#E74631" cx="551.05" cy="405.47" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -136.1801 370.5179)" fill="#E74631" cx="531.05" cy="405.47" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -128.5261 376.5641)" fill="#E74631" cx="544.66" cy="396.11" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.0167 365.2752)" fill="#E74631" cx="524.66" cy="396.11" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.1497 386.51)" fill="#E74631" cx="558.93" cy="406.95" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -135.6403 375.221)" fill="#E74631" cx="538.93" cy="406.95" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -127.9864 381.2674)" fill="#E74631" cx="552.53" cy="397.59" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -131.477 369.9784)" fill="#E74631" cx="532.53" cy="397.59" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -136.8529 387.0495)" fill="#E74631" cx="557.45" cy="414.82" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M564.29,418.3c0.07-0.04,0.13-0.1,0.2-0.14c0.48-0.24,0.93-0.52,1.39-0.8c0.23-0.19,0.47-0.37,0.71-0.55
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -140.3435 375.7606)" fill="#E74631" cx="537.45" cy="414.82" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M544.29,418.3c0.07-0.04,0.13-0.1,0.2-0.14c0.48-0.24,0.93-0.52,1.39-0.8c0.23-0.19,0.47-0.37,0.71-0.55
 					c0.31-0.24,0.64-0.43,0.97-0.6c-0.01-0.41-0.12-0.83-0.37-1.19c-0.71-1.03-2.12-1.3-3.15-0.59c-1.03,0.71-1.3,2.12-0.59,3.15
-					C563.67,417.9,563.97,418.14,564.29,418.3z"/>
+					C543.67,417.9,543.97,418.14,544.29,418.3z"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.1497 386.51)" fill="#E74631" cx="558.93" cy="406.95" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M555.27,382.87c-0.29,0.34-0.65,0.61-1.07,0.83c0.75,0.52,1.77,0.57,2.58,0.02
-					c0.17-0.12,0.32-0.26,0.44-0.41C556.55,383.33,555.88,383.16,555.27,382.87z"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -135.6403 375.221)" fill="#E74631" cx="538.93" cy="406.95" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M535.27,382.87c-0.29,0.34-0.65,0.61-1.07,0.83c0.75,0.52,1.77,0.57,2.58,0.02
+					c0.17-0.12,0.32-0.26,0.44-0.41C536.55,383.33,535.88,383.16,535.27,382.87z"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.1497 386.51)" fill="#E74631" cx="558.93" cy="406.95" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M566.73,400.21c-0.15-0.22-0.27-0.46-0.37-0.71c-0.01-0.02-0.03-0.03-0.04-0.05
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -135.6403 375.221)" fill="#E74631" cx="538.93" cy="406.95" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M546.73,400.21c-0.15-0.22-0.27-0.46-0.37-0.71c-0.01-0.02-0.03-0.03-0.04-0.05
 					c-0.41,0.73-0.41,1.65,0.09,2.39c0.52,0.76,1.42,1.08,2.28,0.92c-0.07-0.1-0.15-0.19-0.21-0.3
-					C567.58,401.97,567.01,401.14,566.73,400.21z"/>
+					C547.58,401.97,547.01,401.14,546.73,400.21z"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -127.9864 381.2674)" fill="#E74631" cx="552.53" cy="397.59" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -131.477 369.9784)" fill="#E74631" cx="532.53" cy="397.59" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -122.7442 385.4304)" fill="#E74631" cx="561.89" cy="391.2" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -126.2348 374.1414)" fill="#E74631" cx="541.89" cy="391.2" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -127.4466 385.9703)" fill="#E74631" cx="560.41" cy="399.07" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M563.83,384.6c-0.55-0.07-1.02-0.22-1.44-0.45c-0.34-0.11-0.64-0.25-0.91-0.43
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -130.9372 374.6814)" fill="#E74631" cx="540.41" cy="399.07" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M543.83,384.6c-0.55-0.07-1.02-0.22-1.44-0.45c-0.34-0.11-0.64-0.25-0.91-0.43
 					c-0.11-0.02-0.23-0.03-0.34-0.05c0.05,0.33,0.15,0.65,0.35,0.94c0.71,1.03,2.12,1.3,3.15,0.59c0.09-0.06,0.16-0.13,0.23-0.2
-					c-0.34-0.08-0.65-0.21-0.93-0.37C563.91,384.61,563.87,384.61,563.83,384.6z"/>
+					c-0.34-0.08-0.65-0.21-0.93-0.37C543.91,384.61,543.87,384.61,543.83,384.6z"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -123.2832 380.7276)" fill="#E74631" cx="554.01" cy="389.72" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M555.27,382.87c-0.29,0.34-0.65,0.61-1.07,0.83c0.75,0.52,1.77,0.57,2.58,0.02
-					c0.17-0.12,0.32-0.26,0.44-0.41C556.55,383.33,555.88,383.16,555.27,382.87z"/>
-				<path fill="#E74631" d="M564.29,418.3c0.07-0.04,0.13-0.1,0.2-0.14c0.48-0.24,0.93-0.52,1.39-0.8c0.23-0.19,0.47-0.37,0.71-0.55
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -126.7739 369.4387)" fill="#E74631" cx="534.01" cy="389.72" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M535.27,382.87c-0.29,0.34-0.65,0.61-1.07,0.83c0.75,0.52,1.77,0.57,2.58,0.02
+					c0.17-0.12,0.32-0.26,0.44-0.41C536.55,383.33,535.88,383.16,535.27,382.87z"/>
+				<path fill="#E74631" d="M544.29,418.3c0.07-0.04,0.13-0.1,0.2-0.14c0.48-0.24,0.93-0.52,1.39-0.8c0.23-0.19,0.47-0.37,0.71-0.55
 					c0.31-0.24,0.64-0.43,0.97-0.6c-0.01-0.41-0.12-0.83-0.37-1.19c-0.71-1.03-2.12-1.3-3.15-0.59c-1.03,0.71-1.3,2.12-0.59,3.15
-					C563.67,417.9,563.97,418.14,564.29,418.3z"/>
-				<path fill="#E74631" d="M574.4,411.14c-0.88-0.51-1.46-1.34-1.71-2.3c-0.38,0.72-0.37,1.62,0.12,2.34
-					c0.24,0.35,0.57,0.61,0.93,0.77C573.91,411.65,574.14,411.38,574.4,411.14z"/>
+					C543.67,417.9,543.97,418.14,544.29,418.3z"/>
+				<path fill="#E74631" d="M554.4,411.14c-0.88-0.51-1.46-1.34-1.71-2.3c-0.38,0.72-0.37,1.62,0.12,2.34
+					c0.24,0.35,0.57,0.61,0.93,0.77C553.91,411.65,554.14,411.38,554.4,411.14z"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -131.61 391.213)" fill="#E74631" cx="566.8" cy="408.43" rx="2.27" ry="2.27"/>
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -135.1006 379.9241)" fill="#E74631" cx="546.8" cy="408.43" rx="2.27" ry="2.27"/>
 				
-					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -132.1497 386.51)" fill="#E74631" cx="558.93" cy="406.95" rx="2.27" ry="2.27"/>
-				<path fill="#E74631" d="M566.73,400.21c-0.15-0.22-0.27-0.46-0.37-0.71c-0.01-0.02-0.03-0.03-0.04-0.05
+					<ellipse transform="matrix(0.8255 -0.5644 0.5644 0.8255 -135.6403 375.221)" fill="#E74631" cx="538.93" cy="406.95" rx="2.27" ry="2.27"/>
+				<path fill="#E74631" d="M546.73,400.21c-0.15-0.22-0.27-0.46-0.37-0.71c-0.01-0.02-0.03-0.03-0.04-0.05
 					c-0.41,0.73-0.41,1.65,0.09,2.39c0.52,0.76,1.42,1.08,2.28,0.92c-0.07-0.1-0.15-0.19-0.21-0.3
-					C567.58,401.97,567.01,401.14,566.73,400.21z"/>
+					C547.58,401.97,547.01,401.14,546.73,400.21z"/>
 			</g>
 		</g>
 	</g>
@@ -1754,7 +1759,7 @@
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg05Heading">
-		<text transform="matrix(1 0 0 1 675.343 96.946)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">中國團客</tspan><tspan x="136.4" y="0" font-family="'Lato-Black'" font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="194.21" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">日本團客：掃些什麼貨？</tspan></text>
+		<text transform="matrix(1 0 0 1 676.0325 96.946)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">中國團客</tspan><tspan x="136.4" y="0" font-family="'Lato'" font-weight='bold' font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="192.83" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">日本團客：掃些什麼貨？</tspan></text>
 	</g>
 	
 		<line id="svg05bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
@@ -1919,7 +1924,7 @@
 	</g>
 </g>
 <g id="svg05BottomText">
-	<text transform="matrix(1 0 0 1 484.7861 942.9355)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">發現名產或特產類的商品中日旅客皆愛買，看來美食寶島的名號果真是名不虛傳。</tspan><tspan x="59.76" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">而日客對非必買性質的商品不買單，推測是由於</tspan><tspan x="614.16" y="40.68" font-family="'Lato-Bold'" font-size="24px" letter-spacing="2">2015</tspan><tspan x="679.44" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">年日幣持續走弱，</tspan><tspan x="277.2" y="81.36" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">降低了日客海外高額消費的意願。</tspan></text>
+	<text transform="matrix(1 0 0 1 484.7861 942.9355)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">發現名產或特產類的商品中日旅客皆愛買，看來美食寶島的名號果真是名不虛傳。</tspan><tspan x="59.76" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">而日客對非必買性質的商品不買單，推測是由於</tspan><tspan x="614.16" y="40.68" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">2015</tspan><tspan x="679.44" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">年日幣持續走弱，</tspan><tspan x="277.2" y="81.36" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">降低了日客海外高額消費的意願。</tspan></text>
 </g>
 <g id="svg05LeftGirl">
 	<pattern  id="XMLID_3_" xlink:href="#啣璅脩巨_1" patternTransform="matrix(0.9298 0 0 0.9298 -511.5409 -469.5581)">
@@ -2005,9 +2010,9 @@
 	<circle id="XMLID_2064_" cx="555.45" cy="765.13" r="1.51"/>
 </g>
 <g id="svg05subHeading">
-	<text transform="matrix(1 0 0 1 735.592 169.3525)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24.0008px" letter-spacing="2">為了進一步追蹤兩國旅客購物的差異，</tspan><tspan x="-145.2" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24.0008px" letter-spacing="2">我們鎖定最具購物潛力的觀光團客，找出他們到底幫誰加了薪。</tspan></text>
+	<text transform="matrix(1 0 0 1 735.592 169.3525)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.0008px" letter-spacing="2">為了進一步追蹤兩國旅客購物的差異，</tspan><tspan x="-145.2" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.0008px" letter-spacing="2">我們鎖定最具購物潛力的觀光團客，找出他們到底幫誰加了薪。</tspan></text>
 </g>
-<text id="svg05LittleText" transform="matrix(1 0 0 1 1179.147 358.7432)" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="20px" letter-spacing="2">單位：每人 / 每日消費美金</text>
+<text id="svg05LittleText" transform="matrix(1 0 0 1 1179.147 358.7432)" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="20px" letter-spacing="2">單位：每人 / 每日消費美金</text>
 <g>
 	<g id="svg05BannerLong">
 		
@@ -2026,12 +2031,12 @@
 			1010.55,300.7 		"/>
 		<g id="XMLID_3832_">
 			
-				<text transform="matrix(0.9 0 0 1 918.1606 285.2207)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="21.4704px" letter-spacing="1.11">消費項目</text>
+				<text transform="matrix(1 0 0 1 914.1624 285.2207)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="21.4704px" letter-spacing="2">消費項目</text>
 		</g>
 	</g>
 	<g id="svg05BannerChina">
 		
-			<text id="XMLID_3822_" transform="matrix(0.9 0 0 1 742.2812 283.4629)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="21.4704px" letter-spacing="1.11">中國</text>
+			<text id="XMLID_3822_" transform="matrix(1 0 0 1 732.2812 283.4629)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="21.4704px" letter-spacing="2">中國</text>
 		<g>
 			<rect x="793.82" y="261.6" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="46.8" height="31.2"/>
 			<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" d="M817.22,277.2"/>
@@ -2054,7 +2059,7 @@
 			<circle id="XMLID_3828_" fill="#E50012" cx="1097.53" cy="275.91" r="7.46"/>
 		</g>
 		
-			<text id="XMLID_3829_" transform="matrix(0.9 0 0 1 1129.2827 283.4629)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="21.4704px" letter-spacing="1.11">日本</text>
+			<text id="XMLID_3829_" transform="matrix(1 0 0 1 1139.2827 283.4629)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="21.4704px" letter-spacing="2">日本</text>
 	</g>
 </g>
 </svg>

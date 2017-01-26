@@ -711,19 +711,21 @@
 	</g>
 	<g id="svg09BubbleLeft">
 		
-			<text transform="matrix(0.8241 -0.3619 0.4021 0.9156 501.5676 602.584)" font-family="'MicrosoftJhengHeiBold'" font-size="23.0425px" letter-spacing="2.22">文案編輯  亮</text>
+			<text transform="matrix(0.9156 -0.4021 0.4021 0.9156 497.1381 606.1232)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23.0425px" letter-spacing="2">文案編輯</text>
 		<path fill="none" stroke="#000000" stroke-width="1.3555" stroke-miterlimit="10" d="M504.76,622.44l7.1,16.11l8.37-18.87
 			c0,0,128.02-40.01,117.69-77.66c-9.41-34.28-50.41-25.02-113.29,2.56C461.76,572.15,478.34,608.51,504.76,622.44z"/>
-		<polygon points="583.14,551.37 587.63,563.18 590.61,554.5 		"/>
+		<polygon points="589.18,548.65 593.63,560.18 596.63,551.69 		"/>
+		
+			<text transform="matrix(0.9026 -0.4306 0.4306 0.9026 606.8888 557.4439)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23.0425px" letter-spacing="2">亮</text>
 	</g>
 	<g id="svg09BubbleRight">
-		<path fill="#FFFFFF" stroke="#000000" stroke-width="1.3555" stroke-miterlimit="10" d="M1388.7,628.11l-5.63,16.18l-9.6-17.65
-			c0,0-127.32-28.81-120.24-66.14c6.45-33.99,46.18-25.85,110.1-6.37C1501.98,596.38,1471.1,658.62,1388.7,628.11z"/>
+		<path fill="#FFFFFF" stroke="#000000" stroke-width="1.4567" stroke-miterlimit="10" d="M1389.98,631.94l-6.05,17.39l-10.31-18.97
+			c0,0-136.83-30.96-129.22-71.08c6.93-36.53,49.63-27.78,118.33-6.85C1511.73,597.84,1478.54,664.73,1389.98,631.94z"/>
 		<polygon points="1360.65,601.5 1365.97,583.2 1371.48,595.89 		"/>
 		
-			<text transform="matrix(0.856 0.278 -0.3089 0.9511 1267.3595 568.2767)" font-family="'MicrosoftJhengHeiBold'" font-size="23.0425px" letter-spacing="2.22">圖文製作</text>
+			<text transform="matrix(0.9511 0.3089 -0.3089 0.9511 1256.65 566.7332)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="23.0425px" letter-spacing="2">圖文製作</text>
 		
-			<text transform="matrix(0.856 0.278 -0.3089 0.9511 1377.0554 603.7443)" font-family="'Lato-Italic'" font-size="23.0425px" letter-spacing="2.22">Chieni</text>
+			<text transform="matrix(0.9511 0.3089 -0.3089 0.9511 1375.7548 604.6838)" font-family="'Lato'" font-weight='bold' font-size="23.0425px" letter-spacing="2">Chieni</text>
 	</g>
 	<g>
 		<path id="XMLID_2783_" fill="#FFFFFF" d="M563.83,879.12c0,0-12.78,12.31-1.7,15.16c11.08,2.84,17.38-5.14,16.09-13.57
@@ -872,7 +874,7 @@
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg09Heading">
-		<text transform="matrix(1 0 0 1 636.05 96.946)" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">中國選擇購物，日本選擇住宿；你怎麼看？</text>
+		<text transform="matrix(1 0 0 1 636.05 96.946)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">中國選擇購物，日本選擇住宿；你怎麼看？</text>
 	</g>
 	
 		<line id="svg09bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
@@ -880,10 +882,10 @@
 		<line id="svg09topLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="57.6" x2="1353.89" y2="57.6"/>
 </g>
 <g id="svg09subHeading">
-	<text transform="matrix(1 0 0 1 669.8499 236.6279)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">原來，要賺日本人的錢，最好在市區開個大飯店；</tspan><tspan x="52.8" y="38.21" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">要賺大陸人的錢，最好在景點開藝品店。</tspan><tspan x="-92.4" y="76.41" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">同樣是外國旅客，陸客與日客對台灣經濟的影響層面，大不相同。</tspan></text>
+	<text transform="matrix(1 0 0 1 669.8499 236.6279)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">原來，要賺日本人的錢，最好在市區開個大飯店；</tspan><tspan x="52.8" y="38.21" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">要賺大陸人的錢，最好在景點開藝品店。</tspan><tspan x="-92.4" y="76.41" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">同樣是外國旅客，陸客與日客對台灣經濟的影響層面，大不相同。</tspan></text>
 </g>
 <g id="svg09TextSource">
-	<text transform="matrix(1 0 0 1 702.1973 987.7207)" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">資料來源：交通部觀光局，2015年統計資料</text>
+	<text transform="matrix(1 0 0 1 702.9604 987.7207)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">資料來源：交通部觀光局，</tspan><tspan x="316.8" y="0" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">2015</tspan><tspan x="382.08" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">年統計資料</tspan></text>
 </g>
 <g id="svg09Footer">
 	<path fill-rule="evenodd" clip-rule="evenodd" d="M1887,1106H33v0c0-45.98,37.28-83.26,83.26-83.26h1687.49

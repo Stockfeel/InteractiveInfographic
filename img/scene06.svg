@@ -539,7 +539,7 @@
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg06Heading01">
-		<text transform="matrix(1 0 0 1 743.5432 96.946)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">中國</tspan><tspan x="68.2" y="0" font-family="'Lato-Black'" font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="126.01" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">日本：喜歡住哪裡？</tspan></text>
+		<text transform="matrix(1 0 0 1 744.2327 96.946)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">中國</tspan><tspan x="68.2" y="0" font-family="'Lato'" font-weight='bold' font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="124.63" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">日本：喜歡住哪裡？</tspan></text>
 	</g>
 	
 		<line id="svg06bottomLine01" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
@@ -547,14 +547,14 @@
 		<line id="svg06topLine01" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="57.6" x2="1353.89" y2="57.6"/>
 </g>
 <g id="svg06TextInternationalHotel">
-	<text transform="matrix(1 0 0 1 885.8733 770.7354)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiRegular'" font-size="22.5439px" letter-spacing="2">國際觀光旅館</tspan><tspan x="-55.88" y="25.68" fill="#9E9F9F" font-family="'MicrosoftJhengHeiRegular'" font-size="17.1763px" letter-spacing="1">（旅館接待次數÷來台旅客數）</tspan></text>
+	<text transform="matrix(1 0 0 1 885.8733 770.7354)"><tspan x="0" y="0" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-size="22.5439px" letter-spacing="2">國際觀光旅館</tspan><tspan x="-55.88" y="25.68" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-size="17.1763px" letter-spacing="1">（旅館接待次數÷來台旅客數）</tspan></text>
 </g>
 <g id="svg06TextGeneralHotel">
-	<text transform="matrix(1 0 0 1 885.8733 851.3506)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiRegular'" font-size="22.5439px" letter-spacing="2">一般觀光旅館</tspan><tspan x="-55.88" y="25.68" fill="#9E9F9F" font-family="'MicrosoftJhengHeiRegular'" font-size="17.1763px" letter-spacing="1">（旅館接待次數÷來台旅客數）</tspan></text>
+	<text transform="matrix(1 0 0 1 885.8733 851.3506)"><tspan x="0" y="0" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-size="22.5439px" letter-spacing="2">一般觀光旅館</tspan><tspan x="-55.88" y="25.68" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-size="17.1763px" letter-spacing="1">（旅館接待次數÷來台旅客數）</tspan></text>
 </g>
 <g id="svg06TextJapan">
 	
-		<text transform="matrix(1 0 0 1 1212.1143 637.083)" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">日本</text>
+		<text transform="matrix(1 0 0 1 1212.1143 637.083)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">日本</text>
 	<g>
 		<rect x="1170.75" y="621.73" fill="#FFFFFF" stroke="#231815" stroke-width="0.5368" width="27.69" height="18.46"/>
 		<path fill="#FFFFFF" stroke="#231815" stroke-width="0.5368" d="M1184.59,630.97"/>
@@ -563,29 +563,29 @@
 </g>
 <g id="svg06TextInternationalHotelRight">
 	
-		<text transform="matrix(1 0 0 1 1188.3066 784.6338)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato-Black'" font-size="25.7645px" letter-spacing="2">0.88</text>
+		<text transform="matrix(1 0 0 1 1188.4482 784.6338)" fill="#E74631" stroke="#E74631" stroke-width="0.5368" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="25.7645px" letter-spacing="2">0.88</text>
 </g>
 <g id="svg06TextGeneralHotelRight">
 	
-		<text transform="matrix(1 0 0 1 1179.25 865.4082)" fill="#595757" font-family="'Lato-Black'" font-size="22.5439px" letter-spacing="2">0.2237</text>
+		<text transform="matrix(1 0 0 1 1179.25 865.4082)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22.5439px" letter-spacing="2">0.2237</text>
 </g>
-<text id="svg06TextTouristRight" transform="matrix(1 0 0 1 1152.4082 713.1777)"><tspan x="0" y="0" fill="#595757" font-family="'Lato-Black'" font-size="22.5439px" letter-spacing="2">162.7</tspan><tspan x="68.89" y="0" fill="#595757" font-family="'DFHeiStd-W9-B5pc-H'" font-size="19.3234px" letter-spacing="1">萬人次</tspan></text>
+<text id="svg06TextTouristRight" transform="matrix(1 0 0 1 1152.5312 713.1777)"><tspan x="0" y="0" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22.5439px" letter-spacing="2">162.7</tspan><tspan x="68.64" y="0" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1">萬人次</tspan></text>
 <g id="svg06TextInternationalHotelLeft">
 	
-		<text transform="matrix(1 0 0 1 658.5327 784.6338)" fill="#595757" font-family="'Lato-Black'" font-size="22.5439px" letter-spacing="2">0.4261</text>
+		<text transform="matrix(1 0 0 1 658.6567 784.6338)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22.5439px" letter-spacing="2">0.4261</text>
 </g>
 <g id="svg06TextGeneralHotelLeft">
 	
-		<text transform="matrix(1 0 0 1 661.1396 867.0996)" fill="#595757" font-family="'Lato-Black'" font-size="22.5439px" letter-spacing="2">0.1512</text>
+		<text transform="matrix(1 0 0 1 661.1396 867.0996)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22.5439px" letter-spacing="2">0.1512</text>
 </g>
 <g id="svg06TextTourist">
 	
-		<text transform="matrix(1 0 0 1 898.0042 714.3398)" fill="#3E3A39" font-family="'MicrosoftJhengHeiRegular'" font-size="22.5439px" letter-spacing="2">來台旅客數</text>
+		<text transform="matrix(1 0 0 1 898.0042 714.3398)" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-size="22.5439px" letter-spacing="2">來台旅客數</text>
 </g>
-<text id="svg06TextTouristLeft" transform="matrix(1 0 0 1 634.2979 711.7568)"><tspan x="0" y="0" fill="#595757" font-family="'Lato-Black'" font-size="22.5439px" letter-spacing="2">418.4</tspan><tspan x="68.89" y="0" fill="#595757" font-family="'DFHeiStd-W9-B5pc-H'" font-size="19.3234px" letter-spacing="1">萬人次</tspan></text>
+<text id="svg06TextTouristLeft" transform="matrix(1 0 0 1 634.4219 711.7568)"><tspan x="0" y="0" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22.5439px" letter-spacing="2">418.4</tspan><tspan x="68.65" y="0" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1">萬人次</tspan></text>
 <g>
 	<g id="svg06Heading02">
-		<text transform="matrix(1 0 0 1 857.7002 637.0332)" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">住客國籍統計</text>
+		<text transform="matrix(1 0 0 1 857.7002 637.0332)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">住客國籍統計</text>
 	</g>
 	
 		<line id="svg06bottomLine02" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="861" y1="653.32" x2="1059" y2="653.32"/>
@@ -595,11 +595,11 @@
 <line id="svg06LineChina" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="625.87" y1="654.47" x2="774.89" y2="654.47"/>
 <line id="svg06LineJapan" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="1143.12" y1="654.47" x2="1292.13" y2="654.47"/>
 <g id="svg06subHeading02">
-	<text transform="matrix(1 0 0 1 497.9844 564.1348)" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">從旅客的角度來看，兩者在房價上有較大差異，國際觀光旅館的房價約高三成。</text>
+	<text transform="matrix(1 0 0 1 497.9858 564.1348)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">從旅客的角度來看，兩者在房價上有較大差異，國際觀光旅館的房價約高三成。</text>
 </g>
 <g id="svg06TextChina">
 	
-		<text transform="matrix(1 0 0 1 691.7061 637.083)" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">中國</text>
+		<text transform="matrix(1 0 0 1 691.7061 637.083)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">中國</text>
 	<g>
 		<rect x="656.28" y="621.99" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="27.69" height="18.46"/>
 		<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" d="M670.12,631.22"/>
@@ -616,10 +616,10 @@
 	</g>
 </g>
 <g id="svg06subHeading01">
-	<text transform="matrix(1 0 0 1 682.7998 168.8179)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">除了購物費，旅館內支出的差異也是看點十足。</tspan><tspan x="-125" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">我們以最具規模、最受規範的住宿業類別─觀光旅館業─為探討對象，</tspan><tspan x="-13.2" y="81.36" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">依法又可分為國際觀光旅館業與一般觀光旅館業。</tspan></text>
+	<text transform="matrix(1 0 0 1 682.7998 168.8179)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">除了購物費，旅館內支出的差異也是看點十足。</tspan><tspan x="-125" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">我們以最具規模、最受規範的住宿業類別─觀光旅館業─為探討對象，</tspan><tspan x="-13.2" y="81.36" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">依法又可分為國際觀光旅館業與一般觀光旅館業。</tspan></text>
 </g>
 <g id="svg06subHeading03">
-	<text transform="matrix(1 0 0 1 405.5835 977.6328)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">比較發現，日本旅客在追求舒適的睡眠上毫不手軟，陸客則寧願拿這些錢當作額外的血拚銀彈。</tspan><tspan x="264" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">進一步往下追蹤，找出兩國旅客最愛的五大酒店。</tspan></text>
+	<text transform="matrix(1 0 0 1 405.5835 977.6328)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">比較發現，日本旅客在追求舒適的睡眠上毫不手軟，陸客則寧願拿這些錢當作額外的血拚銀彈。</tspan><tspan x="264" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">進一步往下追蹤，找出兩國旅客最愛的五大酒店。</tspan></text>
 </g>
 <g>
 	<rect id="svg06Ground" x="667.19" y="414.41" opacity="0.32" fill="#B8834E" width="554.81" height="98.08"/>
@@ -875,7 +875,7 @@
 				<rect x="976.15" y="399.68" fill="#FFFFFF" stroke="#000000" stroke-width="1.356" stroke-miterlimit="10" width="171.17" height="37.17"/>
 			<g id="XMLID_803_">
 				
-					<text transform="matrix(1 0 0 1 981.1338 426.9272)" font-family="'MicrosoftJhengHeiBold'" font-size="24.4084px" letter-spacing="2">一般觀光旅館</text>
+					<text transform="matrix(1 0 0 1 981.1338 426.9272)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.4084px" letter-spacing="2">一般觀光旅館</text>
 			</g>
 		</g>
 	</g>
@@ -1073,13 +1073,13 @@
 				<rect x="740.11" y="395.4" fill="#FFFFFF" stroke="#000000" stroke-width="1.356" stroke-miterlimit="10" width="171.17" height="37.17"/>
 			<g id="XMLID_800_">
 				
-					<text transform="matrix(1 0 0 1 745.5703 424.0869)" font-family="'MicrosoftJhengHeiBold'" font-size="24.4084px" letter-spacing="2">國際觀光旅館</text>
+					<text transform="matrix(1 0 0 1 745.5703 424.0869)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.4084px" letter-spacing="2">國際觀光旅館</text>
 			</g>
 		</g>
 	</g>
-	<text id="svg06HotelLeftNumber" transform="matrix(1 0 0 1 558.8169 354.3853)"><tspan x="0" y="0" fill="#E74631" font-family="'DFHeiStd-W9-B5pc-H'" font-size="24.4084px" letter-spacing="2">平均房價</tspan><tspan x="-12.85" y="28.48" fill="#E74631" font-family="'Lato-Black'" font-size="24.4084px" letter-spacing="2">3,981NTD</tspan></text>
+	<text id="svg06HotelLeftNumber" transform="matrix(1 0 0 1 558.8188 354.3853)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.4084px" letter-spacing="2">平均房價</tspan><tspan x="-12.73" y="28.48" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="24.4084px" letter-spacing="2">3,981NTD</tspan></text>
 	<g id="svg06HotelRightNumber">
-		<text transform="matrix(1 0 0 1 1221.1006 368.9756)"><tspan x="0" y="0" fill="#E74631" font-family="'DFHeiStd-W9-B5pc-H'" font-size="24.4084px" letter-spacing="2">平均房價</tspan><tspan x="-12.85" y="28.48" fill="#E74631" font-family="'Lato-Black'" font-size="24.4084px" letter-spacing="2">3,060NTD</tspan></text>
+		<text transform="matrix(1 0 0 1 1221.1016 368.9756)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.4084px" letter-spacing="2">平均房價</tspan><tspan x="-12.73" y="28.48" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="24.4084px" letter-spacing="2">3,060NTD</tspan></text>
 	</g>
 	<g id="svg06MoneyRight">
 		
@@ -1087,7 +1087,7 @@
 		
 			<ellipse id="XMLID_810_" fill="#B8834E" stroke="#00004C" stroke-width="1.1143" stroke-miterlimit="10" cx="1175.63" cy="384.82" rx="15.82" ry="9.75"/>
 		
-			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 1180.8494 391.6312)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="19.3575px" letter-spacing="1.03">$</text>
+			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 1180.8612 391.5052)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3575px" letter-spacing="1.03">$</text>
 	</g>
 	<g id="svg06MoneyLeft">
 		
@@ -1095,7 +1095,7 @@
 		
 			<ellipse id="XMLID_814_" fill="#B8834E" stroke="#00004C" stroke-width="1.1143" stroke-miterlimit="10" cx="713.42" cy="299.75" rx="15.82" ry="9.75"/>
 		
-			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 718.6407 306.5703)" font-family="'DFHeiStd-W9-B5pc-H'" font-size="19.3575px" letter-spacing="1.03">$</text>
+			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 718.6534 306.445)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3575px" letter-spacing="1.03">$</text>
 	</g>
 	
 		<path id="svg06Bling02" opacity="0" fill="#FFFFFF" stroke="#000000" stroke-width="1.0735" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -1265,7 +1265,7 @@
 				c0.1-0.16,0.27-0.27,0.46-0.27h11.03c0.22,0,0.42,0.14,0.5,0.34l1.42,3.66c0.06,0.17,0.04,0.35-0.06,0.5
 				c-0.1,0.15-0.27,0.23-0.44,0.23L675.34,507.73z"/>
 			<path d="M684.31,503.53l1.42,3.66l-10.39,0l-2.05-3.67H684.31 M684.31,502.46h-11.03c-0.38,0-0.73,0.2-0.93,0.53
-				c-0.19,0.33-0.2,0.74-0.01,1.07l2.05,3.67c0.19,0.34,0.55,0.55,0.94,0.55c0,0,0,0,0,0l10.39,0c0.35,0,0.69-0.17,0.89-0.47
+				c-0.19,0.33-0.2,0.74-0.01,1.07l2.05,3.67c0.19,0.34,0.55,0.55,0.94,0.55h0l10.39,0c0.35,0,0.69-0.17,0.89-0.47
 				c0.2-0.29,0.24-0.66,0.11-0.99l-1.42-3.66C685.15,502.73,684.75,502.46,684.31,502.46L684.31,502.46z"/>
 		</g>
 		<g>
@@ -1273,7 +1273,7 @@
 				c0-0.29,0.24-0.53,0.54-0.53h11.53c0.19,0,0.36,0.1,0.46,0.26c0.1,0.16,0.1,0.36,0.02,0.52l-1.88,3.66
 				c-0.09,0.18-0.28,0.29-0.48,0.29L575.01,507.73z"/>
 			<path d="M586.57,503.53l-1.88,3.66l-9.68,0l0.03-3.67H586.57 M586.57,502.46h-11.53c-0.59,0-1.07,0.48-1.07,1.06l-0.03,3.67
-				c0,0.29,0.11,0.56,0.31,0.77c0.2,0.2,0.48,0.32,0.76,0.32c0,0,0,0,0,0l9.68,0c0.4,0,0.77-0.23,0.96-0.58l1.88-3.66
+				c0,0.29,0.11,0.56,0.31,0.77c0.2,0.2,0.48,0.32,0.76,0.32h0l9.68,0c0.4,0,0.77-0.23,0.96-0.58l1.88-3.66
 				c0.17-0.33,0.16-0.73-0.04-1.05S586.95,502.46,586.57,502.46L586.57,502.46z M586.57,504.6L586.57,504.6L586.57,504.6
 				L586.57,504.6z"/>
 		</g>
@@ -1281,15 +1281,15 @@
 			<path fill="#FFFFFF" d="M572.33,506.57c-0.3,0-0.54-0.24-0.54-0.54v-5.15c0-0.28,0.21-0.51,0.49-0.53c0,0,0.13-0.01,0.36-0.01
 				c2.74,0,5.66,1.5,5.66,5.7c0,0.3-0.24,0.54-0.54,0.54H572.33z"/>
 			<path d="M572.64,500.87c1.16,0,5.12,0.35,5.12,5.16h-5.44v-5.15C572.33,500.88,572.44,500.87,572.64,500.87 M572.64,499.8
-				C572.64,499.8,572.64,499.8,572.64,499.8c-0.26,0-0.41,0.01-0.41,0.01c-0.55,0.05-0.98,0.52-0.98,1.07v5.15
-				c0,0.59,0.48,1.07,1.07,1.07h5.44c0.59,0,1.07-0.48,1.07-1.07C578.84,501.44,575.63,499.8,572.64,499.8L572.64,499.8z"/>
+				L572.64,499.8c-0.26,0-0.41,0.01-0.41,0.01c-0.55,0.05-0.98,0.52-0.98,1.07v5.15c0,0.59,0.48,1.07,1.07,1.07h5.44
+				c0.59,0,1.07-0.48,1.07-1.07C578.84,501.44,575.63,499.8,572.64,499.8L572.64,499.8z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M572.33,506.57c-0.3,0-0.54-0.24-0.54-0.54v-4.12c0-0.28,0.21-0.51,0.49-0.53c0,0,0.11-0.01,0.3-0.01
 				c0.57,0,1.67,0.09,2.68,0.7c0.89,0.54,1.96,1.67,1.96,3.97c0,0.3-0.24,0.54-0.54,0.54H572.33z"/>
 			<path d="M572.58,501.91c0.93,0,4.1,0.28,4.1,4.13h-4.35v-4.12C572.33,501.91,572.42,501.91,572.58,501.91 M572.58,500.83
-				C572.58,500.83,572.58,500.83,572.58,500.83c-0.22,0-0.34,0.01-0.34,0.01c-0.55,0.05-0.98,0.52-0.98,1.07v4.12
-				c0,0.59,0.48,1.07,1.07,1.07h4.35c0.59,0,1.07-0.48,1.07-1.07C577.75,502.2,574.96,500.83,572.58,500.83L572.58,500.83z"/>
+				L572.58,500.83c-0.22,0-0.34,0.01-0.34,0.01c-0.55,0.05-0.98,0.52-0.98,1.07v4.12c0,0.59,0.48,1.07,1.07,1.07h4.35
+				c0.59,0,1.07-0.48,1.07-1.07C577.75,502.2,574.96,500.83,572.58,500.83L572.58,500.83z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M572.33,504.51c-0.3,0-0.54-0.24-0.54-0.54v-2.06c0-0.28,0.21-0.51,0.49-0.53c0,0,0.11-0.01,0.3-0.01
@@ -1327,21 +1327,20 @@
 				c-5.64,0.01-10.29,4.43-10.85,10.28c-0.03,0.28-0.26,0.49-0.53,0.49c0,0-0.56,0-0.58,0c-0.3,0-0.54-0.24-0.54-0.54
 				c-0.01-3.35,1.31-6.8,3.62-9.45c2.43-2.79,5.57-4.33,8.86-4.33c7.16,0,12.51,7.28,12.53,13.78c0,0.14-0.06,0.28-0.16,0.38
 				s-0.24,0.16-0.38,0.16C676.94,511.62,676.38,511.62,676.38,511.62z"/>
-			<path d="M664.99,497.84c6.6,0,11.96,6.64,11.97,13.25c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0h-0.58
-				c-0.6-6.03-5.47-10.77-11.38-10.77c-0.01,0-0.01,0-0.02,0c-5.93,0.01-10.79,4.73-11.37,10.77h-0.58c0,0,0,0,0,0c0,0,0,0,0,0
-				c0,0,0,0,0,0c-0.01-6.61,5.34-13.23,11.94-13.25C664.98,497.84,664.98,497.84,664.99,497.84 M664.99,496.76L664.99,496.76
-				c0,0-0.02,0-0.02,0c-3.44,0.01-6.73,1.61-9.26,4.52c-2.39,2.75-3.76,6.32-3.75,9.8c0,0.59,0.48,1.07,1.07,1.07
-				c0.02,0,0.05,0,0.07,0h0.51c0.55,0,1.02-0.42,1.07-0.97c0.53-5.57,4.96-9.79,10.3-9.8c5.35,0,9.78,4.21,10.33,9.8
-				c0.05,0.55,0.52,0.97,1.07,0.97h0.51c0.02,0,0.05,0,0.07,0c0.59,0,1.07-0.48,1.07-1.08
-				C678.02,503.46,671.92,496.76,664.99,496.76L664.99,496.76z"/>
+			<path d="M664.99,497.84c6.6,0,11.96,6.64,11.97,13.25c0,0,0,0,0,0l0,0c0,0,0,0,0,0h-0.58c-0.6-6.03-5.47-10.77-11.38-10.77
+				c-0.01,0-0.01,0-0.02,0c-5.93,0.01-10.79,4.73-11.37,10.77h-0.58c0,0,0,0,0,0l0,0c0,0,0,0,0,0c-0.01-6.61,5.34-13.23,11.94-13.25
+				C664.98,497.84,664.98,497.84,664.99,497.84 M664.99,496.76L664.99,496.76l-0.02,0c-3.44,0.01-6.73,1.61-9.26,4.52
+				c-2.39,2.75-3.76,6.32-3.75,9.8c0,0.59,0.48,1.07,1.07,1.07c0.02,0,0.05,0,0.07,0h0.51c0.55,0,1.02-0.42,1.07-0.97
+				c0.53-5.57,4.96-9.79,10.3-9.8c5.35,0,9.78,4.21,10.33,9.8c0.05,0.55,0.52,0.97,1.07,0.97h0.51c0.02,0,0.05,0,0.07,0
+				c0.59,0,1.07-0.48,1.07-1.08C678.02,503.46,671.92,496.76,664.99,496.76L664.99,496.76z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M664.79,520.05c-5.13-0.11-9.21-4.38-9.09-9.5c0.11-5.02,4.28-9.1,9.29-9.1l0.21,0
 				c5.13,0.11,9.21,4.37,9.09,9.5c-0.11,5.02-4.28,9.1-9.29,9.1L664.79,520.05z"/>
 			<path d="M664.99,501.99c0.07,0,0.13,0,0.2,0c4.84,0.11,8.68,4.11,8.57,8.95c-0.1,4.77-4.01,8.57-8.76,8.57c-0.06,0-0.13,0-0.2,0
-				c-4.84-0.11-8.68-4.11-8.57-8.95C656.33,505.79,660.24,501.99,664.99,501.99 M664.99,500.91
-				C664.99,500.91,664.99,500.91,664.99,500.91c-5.3,0-9.71,4.32-9.83,9.62c-0.12,5.42,4.2,9.93,9.62,10.05l0.22,0
-				c5.3,0,9.71-4.32,9.83-9.62c0.12-5.42-4.2-9.93-9.62-10.05L664.99,500.91L664.99,500.91z"/>
+				c-4.84-0.11-8.68-4.11-8.57-8.95C656.33,505.79,660.24,501.99,664.99,501.99 M664.99,500.91L664.99,500.91
+				c-5.3,0-9.71,4.32-9.83,9.62c-0.12,5.42,4.2,9.93,9.62,10.05l0.22,0c5.3,0,9.71-4.32,9.83-9.62c0.12-5.42-4.2-9.93-9.62-10.05
+				L664.99,500.91L664.99,500.91z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M664.86,516.55c-1.55-0.03-2.99-0.67-4.06-1.79s-1.64-2.59-1.61-4.14c0.07-3.13,2.67-5.67,5.8-5.67
@@ -1374,20 +1373,20 @@
 				c-5.64,0.01-10.29,4.43-10.85,10.28c-0.03,0.28-0.26,0.49-0.53,0.49c0,0-0.56,0-0.58,0c-0.3,0-0.54-0.24-0.54-0.54
 				c-0.01-3.35,1.31-6.8,3.62-9.45c2.43-2.79,5.57-4.33,8.86-4.33c7.16,0,12.51,7.28,12.53,13.78c0,0.14-0.06,0.28-0.16,0.38
 				s-0.24,0.16-0.38,0.16C606.75,511.62,606.19,511.62,606.19,511.62z"/>
-			<path d="M594.8,497.84c6.6,0,11.96,6.64,11.97,13.25c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0h-0.58
-				c-0.6-6.03-5.47-10.77-11.38-10.77c-0.01,0-0.01,0-0.02,0c-5.93,0.01-10.79,4.73-11.37,10.77h-0.58c0,0,0,0,0,0c0,0,0,0,0,0
-				c0,0,0,0,0,0c-0.01-6.61,5.34-13.23,11.94-13.25C594.79,497.84,594.79,497.84,594.8,497.84 M594.8,496.76L594.8,496.76
-				c0,0-0.02,0-0.02,0c-6.95,0.01-13.03,6.71-13.02,14.32c0,0.59,0.48,1.07,1.07,1.07c0.02,0,0.05,0,0.07,0h0.51
-				c0.55,0,1.02-0.42,1.07-0.97c0.53-5.57,4.96-9.79,10.3-9.8c5.35,0,9.78,4.21,10.33,9.8c0.05,0.55,0.52,0.97,1.07,0.97h0.51
-				c0.02,0,0.05,0,0.07,0c0.59,0,1.07-0.48,1.07-1.08C607.83,503.46,601.73,496.76,594.8,496.76L594.8,496.76z"/>
+			<path d="M594.8,497.84c6.6,0,11.96,6.64,11.97,13.25c0,0,0,0,0,0s0,0,0,0c0,0,0,0,0,0h-0.58c-0.6-6.03-5.47-10.77-11.38-10.77
+				c-0.01,0-0.01,0-0.02,0c-5.93,0.01-10.79,4.73-11.37,10.77h-0.58c0,0,0,0,0,0l0,0c0,0,0,0,0,0c-0.01-6.61,5.34-13.23,11.94-13.25
+				C594.79,497.84,594.79,497.84,594.8,497.84 M594.8,496.76L594.8,496.76l-0.02,0c-6.95,0.01-13.03,6.71-13.02,14.32
+				c0,0.59,0.48,1.07,1.07,1.07c0.02,0,0.05,0,0.07,0h0.51c0.55,0,1.02-0.42,1.07-0.97c0.53-5.57,4.96-9.79,10.3-9.8
+				c5.35,0,9.78,4.21,10.33,9.8c0.05,0.55,0.52,0.97,1.07,0.97h0.51c0.02,0,0.05,0,0.07,0c0.59,0,1.07-0.48,1.07-1.08
+				C607.83,503.46,601.73,496.76,594.8,496.76L594.8,496.76z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M594.6,520.05c-5.13-0.11-9.21-4.38-9.09-9.5c0.11-5.02,4.28-9.1,9.29-9.1l0.21,0
 				c2.48,0.05,4.8,1.07,6.52,2.87c1.72,1.79,2.63,4.15,2.58,6.63c-0.11,5.02-4.28,9.1-9.29,9.1L594.6,520.05z"/>
 			<path d="M594.8,501.99c0.07,0,0.13,0,0.2,0c4.84,0.11,8.68,4.11,8.57,8.95c-0.1,4.77-4.01,8.57-8.76,8.57c-0.06,0-0.13,0-0.2,0
-				c-4.84-0.11-8.68-4.11-8.57-8.95C586.15,505.79,590.05,501.99,594.8,501.99 M594.8,500.91
-				C594.8,500.91,594.8,500.91,594.8,500.91c-5.3,0-9.71,4.32-9.83,9.62c-0.12,5.42,4.2,9.93,9.62,10.05l0.22,0
-				c5.3,0,9.71-4.32,9.83-9.62c0.12-5.42-4.2-9.93-9.62-10.05L594.8,500.91L594.8,500.91z"/>
+				c-4.84-0.11-8.68-4.11-8.57-8.95C586.15,505.79,590.05,501.99,594.8,501.99 M594.8,500.91L594.8,500.91
+				c-5.3,0-9.71,4.32-9.83,9.62c-0.12,5.42,4.2,9.93,9.62,10.05l0.22,0c5.3,0,9.71-4.32,9.83-9.62c0.12-5.42-4.2-9.93-9.62-10.05
+				L594.8,500.91L594.8,500.91z"/>
 		</g>
 		<g>
 			<path fill="#FFFFFF" d="M594.68,516.55c-1.55-0.03-2.99-0.67-4.06-1.79s-1.64-2.59-1.61-4.14c0.07-3.13,2.67-5.67,5.8-5.67
@@ -1401,9 +1400,9 @@
 			<path fill="#FFFFFF" d="M594.72,514.49c-1-0.02-1.93-0.43-2.62-1.15s-1.06-1.67-1.04-2.67c0.04-2.02,1.72-3.66,3.74-3.66
 				c2.15,0.05,3.79,1.76,3.74,3.82c-0.04,2.02-1.72,3.66-3.74,3.66C594.8,514.49,594.72,514.49,594.72,514.49z"/>
 			<path d="M594.8,507.54c0.02,0,0.05,0,0.07,0c1.77,0.04,3.17,1.51,3.13,3.27c-0.04,1.75-1.47,3.14-3.2,3.14c-0.02,0-0.05,0-0.07,0
-				c-1.77-0.04-3.17-1.51-3.13-3.27C591.64,508.93,593.06,507.54,594.8,507.54 M594.8,506.47
-				C594.8,506.47,594.8,506.47,594.8,506.47c-2.31,0-4.23,1.88-4.28,4.19c-0.03,1.14,0.4,2.23,1.19,3.05c0.79,0.83,1.86,1.29,3,1.32
-				l0.1,0c2.31,0,4.23-1.88,4.28-4.19c0.03-1.14-0.4-2.23-1.19-3.05c-0.79-0.83-1.86-1.29-3-1.32L594.8,506.47L594.8,506.47z"/>
+				c-1.77-0.04-3.17-1.51-3.13-3.27C591.64,508.93,593.06,507.54,594.8,507.54 M594.8,506.47L594.8,506.47
+				c-2.31,0-4.23,1.88-4.28,4.19c-0.03,1.14,0.4,2.23,1.19,3.05c0.79,0.83,1.86,1.29,3,1.32l0.1,0c2.31,0,4.23-1.88,4.28-4.19
+				c0.03-1.14-0.4-2.23-1.19-3.05c-0.79-0.83-1.86-1.29-3-1.32L594.8,506.47L594.8,506.47z"/>
 		</g>
 	</g>
 	<g id="svg06CarRight">
@@ -1540,8 +1539,8 @@
 			<path fill="#FFFFFF" d="M1234.2,512.46c-0.14,0-0.28-0.06-0.38-0.16c-0.1-0.1-0.16-0.24-0.16-0.38c0-6.24,5.06-11.31,11.29-11.31
 				s11.29,5.07,11.29,11.31c0,0.3-0.24,0.54-0.54,0.54l-0.52,0c-0.28,0-0.51-0.21-0.53-0.48c-0.51-5.23-4.67-9.17-9.7-9.17
 				s-9.19,3.94-9.7,9.17c-0.03,0.27-0.26,0.48-0.53,0.48C1234.72,512.46,1234.22,512.46,1234.2,512.46z"/>
-			<path d="M1244.95,501.14c5.94,0,10.75,4.84,10.75,10.77c0,0,0,0,0,0s0,0,0,0s0,0,0,0h-0.52c-0.53-5.42-4.91-9.66-10.23-9.66
-				s-9.71,4.23-10.23,9.66h-0.52c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0,0C1234.2,505.98,1239.01,501.14,1244.95,501.14 M1244.95,500.07
+			<path d="M1244.95,501.14c5.94,0,10.75,4.84,10.75,10.77c0,0,0,0,0,0l0,0c0,0,0,0,0,0h-0.52c-0.53-5.42-4.91-9.66-10.23-9.66
+				s-9.71,4.23-10.23,9.66h-0.52c0,0,0,0,0,0s0,0,0,0c0,0,0,0,0,0C1234.2,505.98,1239.01,501.14,1244.95,501.14 M1244.95,500.07
 				c-6.52,0-11.83,5.32-11.83,11.85c0,0.59,0.48,1.08,1.07,1.08c0.02,0,0.05,0,0.07,0h0.45c0.55,0,1.02-0.42,1.07-0.97
 				c0.48-4.95,4.42-8.69,9.16-8.69c4.74,0,8.68,3.73,9.16,8.69c0.05,0.55,0.52,0.97,1.07,0.97h0.45c0.02,0,0.05,0,0.07,0
 				c0.59,0,1.07-0.48,1.07-1.08C1256.78,505.39,1251.47,500.07,1244.95,500.07L1244.95,500.07z"/>
@@ -1616,8 +1615,8 @@
 				c0-6.24,5.06-11.31,11.29-11.31s11.29,5.07,11.29,11.31c0,0.3-0.24,0.54-0.54,0.54l-0.52,0c-0.28,0-0.51-0.21-0.53-0.48
 				c-0.51-5.23-4.67-9.17-9.7-9.17s-9.19,3.94-9.7,9.17c-0.03,0.27-0.26,0.48-0.53,0.48
 				C1293.28,512.46,1292.77,512.46,1292.76,512.46z"/>
-			<path d="M1303.51,501.14c5.94,0,10.75,4.84,10.75,10.77c0,0,0,0,0,0s0,0,0,0s0,0,0,0h-0.52c-0.53-5.42-4.91-9.66-10.23-9.66
-				c-5.33,0-9.71,4.23-10.23,9.66h-0.52c0,0,0,0,0,0s0,0,0,0s0,0,0,0C1292.76,505.98,1297.57,501.14,1303.51,501.14 M1303.51,500.07
+			<path d="M1303.51,501.14c5.94,0,10.75,4.84,10.75,10.77c0,0,0,0,0,0l0,0c0,0,0,0,0,0h-0.52c-0.53-5.42-4.91-9.66-10.23-9.66
+				c-5.33,0-9.71,4.23-10.23,9.66h-0.52c0,0,0,0,0,0l0,0c0,0,0,0,0,0C1292.76,505.98,1297.57,501.14,1303.51,501.14 M1303.51,500.07
 				c-6.52,0-11.83,5.32-11.83,11.85c0,0.59,0.48,1.08,1.07,1.08c0.02,0,0.05,0,0.07,0h0.45c0.55,0,1.02-0.42,1.07-0.97
 				c0.48-4.95,4.42-8.69,9.16-8.69c4.74,0,8.68,3.73,9.16,8.69c0.05,0.55,0.52,0.97,1.07,0.97h0.45c0.02,0,0.05,0,0.07,0
 				c0.59,0,1.07-0.48,1.07-1.08C1315.34,505.39,1310.03,500.07,1303.51,500.07L1303.51,500.07z"/>

@@ -1847,8 +1847,8 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="1.0735" stroke-miterlimit="10" stroke-dasharray="12,16" x1="958.5" y1="224.5" x2="958.5" y2="1003.5"/>
 </g>
-<text id="svg08TextChina" transform="matrix(1 0 0 1 688.6603 218.3086)" font-family="'MicrosoftJhengHeiBold'" font-size="30.0585px" letter-spacing="3">中國</text>
-<text id="svg08TextJapan" transform="matrix(1 0 0 1 1161.9845 216.1631)" font-family="'MicrosoftJhengHeiBold'" font-size="30.0585px" letter-spacing="3">日本</text>
+<text id="svg08TextChina" transform="matrix(1 0 0 1 688.6603 218.3086)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30.0585px" letter-spacing="3">中國</text>
+<text id="svg08TextJapan" transform="matrix(1 0 0 1 1161.9845 216.1631)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30.0585px" letter-spacing="3">日本</text>
 <g id="svg08Divider">
 	
 		<line opacity="0.48" fill="none" stroke="#0A080C" stroke-width="2.2297" stroke-miterlimit="10" stroke-dasharray="1.1149" x1="597.41" y1="464.87" x2="1322.59" y2="464.87"/>
@@ -1862,7 +1862,7 @@
 			C1122.47,295.86,1116.81,301.53,1109.88,301.53z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 879.48 283.3937)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">來台旅客占比</text>
+				<text transform="matrix(1 0 0 1 879.4805 283.3937)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">來台旅客占比</text>
 		</g>
 	</g>
 	<g id="svg08Text02">
@@ -1871,7 +1871,7 @@
 			C1122.22,364.53,1116.14,370.6,1108.72,370.6z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 852.6387 353.5089)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">觀光目的旅客占比</text>
+				<text transform="matrix(1 0 0 1 852.6392 353.5089)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">觀光目的旅客占比</text>
 		</g>
 	</g>
 	<g id="svg08Text03">
@@ -1880,7 +1880,7 @@
 			C1122.22,433.6,1116.14,439.67,1108.72,439.67z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 852.6387 421.7322)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">每人每日花費美金</text>
+				<text transform="matrix(1 0 0 1 852.6392 421.7322)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">每人每日花費美金</text>
 		</g>
 	</g>
 	<g id="svg08Text04">
@@ -1889,7 +1889,7 @@
 			C1122.61,537.37,1116.24,543.75,1108.45,543.75z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 839.2202 527.5347)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">購物費占總花費比例</text>
+				<text transform="matrix(1 0 0 1 839.2207 527.5347)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">購物費占總花費比例</text>
 		</g>
 	</g>
 	<g id="svg08Text05">
@@ -1898,7 +1898,7 @@
 			C1122.35,606.44,1115.98,612.82,1108.18,612.82z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 812.3794 595.7276)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">團客每人每日總購物美金</text>
+				<text transform="matrix(1 0 0 1 812.3799 595.7276)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">團客每人每日總購物美金</text>
 		</g>
 	</g>
 	<g id="svg08Text06">
@@ -1907,7 +1907,7 @@
 			C1122.22,675.82,1116.14,681.89,1108.72,681.89z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 866.0601 663.2167)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">最愛購買的產品</text>
+				<text transform="matrix(1 0 0 1 866.0605 663.2167)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">最愛購買的產品</text>
 		</g>
 	</g>
 	<g id="svg08Text07">
@@ -1915,7 +1915,7 @@
 			c-9.87,0-17.94-8.07-17.94-17.94v-50.85c0-9.87,8.07-17.94,17.94-17.94h289.34c9.87,0,17.94,8.07,17.94,17.94v50.85
 			C1122.61,810.55,1114.54,818.63,1104.67,818.63z"/>
 		<g>
-			<text transform="matrix(1 0 0 1 879.48 765.3027)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">旅館內支出占</tspan><tspan x="13.42" y="36.6" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">總花費比例</tspan></text>
+			<text transform="matrix(1 0 0 1 879.4805 765.3027)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">旅館內支出占</tspan><tspan x="13.42" y="36.6" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">總花費比例</tspan></text>
 		</g>
 	</g>
 	<g id="svg08Text08">
@@ -1923,7 +1923,7 @@
 			c-9.87,0-17.94-8.07-17.94-17.94v-50.85c0-9.87,8.07-17.94,17.94-17.94h289.34c9.87,0,17.94,8.07,17.94,17.94v50.85
 			C1122.61,912.28,1114.54,920.36,1104.67,920.36z"/>
 		<g>
-			<text transform="matrix(1 0 0 1 866.0601 866.7672)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">每一人次創造的</tspan><tspan x="0" y="36.6" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">國際旅館旅客數</tspan></text>
+			<text transform="matrix(1 0 0 1 866.0605 866.7672)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">每一人次創造的</tspan><tspan x="0" y="36.6" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">國際旅館旅客數</tspan></text>
 		</g>
 	</g>
 	<g id="svg08Text09">
@@ -1932,125 +1932,125 @@
 			C1122.61,983.06,1116.24,989.43,1108.45,989.43z"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 852.6387 970.5845)" font-family="'MicrosoftJhengHeiBold'" font-size="24.3994px" letter-spacing="2">最偏愛的酒店類型</text>
+				<text transform="matrix(1 0 0 1 852.6392 970.5845)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24.3994px" letter-spacing="2">最偏愛的酒店類型</text>
 		</g>
 	</g>
 </g>
 <g>
 	
-		<text id="svg08Text01Right" transform="matrix(1 0 0 1 1161.9845 282.3232)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">15.6%</text>
+		<text id="svg08Text01Right" transform="matrix(1 0 0 1 1161.9845 282.3232)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">15.6%</text>
 	
-		<text id="svg08Text02Right" transform="matrix(1 0 0 1 1161.9845 351.396)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">73%</text>
+		<text id="svg08Text02Right" transform="matrix(1 0 0 1 1161.9845 351.396)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">73%</text>
 	<g>
 		<g id="svg08Text03Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 420.9731)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">$227.59</text>
+				<text transform="matrix(1 0 0 1 1161.9845 420.9731)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$227.59</text>
 		</g>
 		<g id="svg08Text03Win">
 			<circle fill="#E74631" cx="1292.88" cy="412.64" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 1281.6115 420.6401)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 1281.6115 420.6401)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
 	
-		<text id="svg08Text05Right" transform="matrix(1 0 0 1 1161.9845 593.6147)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">73.40</text>
+		<text id="svg08Text05Right" transform="matrix(1 0 0 1 1161.9845 593.6147)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">73.40</text>
 	
-		<text id="svg08Text04Right" transform="matrix(1 0 0 1 1161.9845 524.542)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">18.32%</text>
+		<text id="svg08Text04Right" transform="matrix(1 0 0 1 1161.9845 524.542)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">18.32%</text>
 	<g>
 		<g id="svg08Text07Win">
 			<circle fill="#E74631" cx="1282.97" cy="775.26" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 1271.6837 784.0913)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 1271.6837 784.0913)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 		<g id="svg08Text07Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 783.6812)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">42.76%</text>
+				<text transform="matrix(1 0 0 1 1161.9845 783.6812)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">42.76%</text>
 		</g>
 	</g>
 	<g>
 		<g id="svg08Text08Win">
 			<circle fill="#E74631" cx="1243.02" cy="876.99" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 1231.7335 884.8242)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 1231.7335 884.8242)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 		<g id="svg08Text08Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 885.1787)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">0.88</text>
+				<text transform="matrix(1 0 0 1 1161.9845 885.1787)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">0.88</text>
 		</g>
 	</g>
 	<g id="svg08Text06Right">
 		
-			<text transform="matrix(1 0 0 1 1161.9854 662.4023)" fill="#727171" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">名產特產類</text>
+			<text transform="matrix(1 0 0 1 1161.9854 662.4023)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">名產特產類</text>
 	</g>
 	<g id="svg08Text09Right">
 		
-			<text transform="matrix(1 0 0 1 1161.9854 969.9404)" fill="#727171" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">精品型</text>
+			<text transform="matrix(1 0 0 1 1161.9854 969.9404)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">精品型</text>
 	</g>
 </g>
 <g>
 	<g id="svg08Text03Left">
 		
-			<text transform="matrix(1 0 0 1 653.4762 420.4688)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">$227.58</text>
+			<text transform="matrix(1 0 0 1 653.4762 420.4688)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$227.58</text>
 	</g>
 	<g>
 		<g id="svg08Text01Left">
 			
-				<text transform="matrix(1 0 0 1 679.6266 281.5054)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">40.1%</text>
+				<text transform="matrix(1 0 0 1 679.6266 281.5054)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">40.1%</text>
 		</g>
 		<g id="svg08Text01Win">
 			<circle fill="#E74631" cx="652.16" cy="274.49" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 640.9435 282.3237)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 640.9435 282.3237)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
 	<g>
 		<g id="svg08Text02Left">
 			
-				<text transform="matrix(1 0 0 1 702.7408 351.396)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">82%</text>
+				<text transform="matrix(1 0 0 1 702.7408 351.396)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">82%</text>
 		</g>
 		<g id="svg08Text02Win">
 			<circle fill="#E74631" cx="678.19" cy="343.56" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 666.9811 351.5684)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 666.9811 351.5684)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
 	<g>
 		<g id="svg08Text05Left">
 			
-				<text transform="matrix(1 0 0 1 653.4762 593.6147)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">$157.42</text>
+				<text transform="matrix(1 0 0 1 653.4762 593.6147)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$157.42</text>
 		</g>
 		<g id="svg08Text05Win">
 			<circle fill="#E74631" cx="623.22" cy="585.78" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 612.0114 593.6152)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 612.0114 593.6152)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
 	<g>
 		<g id="svg08Text04Left">
 			
-				<text transform="matrix(1 0 0 1 663.9869 525.4067)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">52.74%</text>
+				<text transform="matrix(1 0 0 1 663.9869 525.4067)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">52.74%</text>
 		</g>
 		<g id="svg08Text04Win">
 			<circle fill="#E74631" cx="636.06" cy="516.71" r="16.95"/>
 			
-				<text transform="matrix(1 0 0 1 624.8492 524.5425)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22.5439px" letter-spacing="2">勝</text>
+				<text transform="matrix(1 0 0 1 624.8492 524.5425)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
 	<g id="svg08Text07Left">
 		
-			<text transform="matrix(1 0 0 1 663.9869 783.0903)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">19.19%</text>
+			<text transform="matrix(1 0 0 1 663.9869 783.0903)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">19.19%</text>
 	</g>
 	<g id="svg08Text08Left">
 		
-			<text transform="matrix(1 0 0 1 700.3951 884.8232)" fill="#727171" font-family="'Lato-Bold'" font-size="23px" letter-spacing="2">0.43</text>
+			<text transform="matrix(1 0 0 1 700.3951 884.8232)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">0.43</text>
 	</g>
 	<g id="svg08Text06Left">
 		
-			<text transform="matrix(1 0 0 1 569.9839 662.4023)" fill="#727171" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">服飾或相關配件</text>
+			<text transform="matrix(1 0 0 1 569.9844 662.4023)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">服飾或相關配件</text>
 	</g>
 	<g id="svg08Text09Left">
 		
-			<text transform="matrix(1 0 0 1 622.7847 969.9404)" fill="#727171" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">景點導向型</text>
+			<text transform="matrix(1 0 0 1 622.7852 969.9404)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">景點導向型</text>
 	</g>
 </g>
 <g id="svg08FlagChina">
@@ -2178,7 +2178,7 @@
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg08Heading">
-		<text transform="matrix(1 0 0 1 800.8928 96.946)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">中國</tspan><tspan x="68.2" y="0" font-family="'Lato-Black'" font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="126.01" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">日本  大車拼</tspan></text>
+		<text transform="matrix(1 0 0 1 801.5828 96.946)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">中國</tspan><tspan x="68.2" y="0" font-family="'Lato'" font-weight='bold' font-size="31px" letter-spacing="3">v.s.</tspan><tspan x="124.63" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">日本  大車拼</tspan></text>
 	</g>
 	
 		<line id="svg08bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
