@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="svg02" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 <pattern  width="28.8" height="28.8" patternUnits="userSpaceOnUse" id="_x31_0_dpi_10_x25_" viewBox="0.72 -29.52 28.8 28.8" overflow="visible">
@@ -286,7 +286,7 @@
 		
 			<text id="svg02TextSoutheastAsia" transform="matrix(0.9 0 0 1 1276.832 453.3799)" fill="#FFFFFF" font-family="'DFHeiStd-W9-B5pc-H'" font-size="25.9496px" letter-spacing="2.22">東南亞</text>
 		
-			<text id="svg02NumberSoutheastAsia" transform="matrix(0.9 0 0 1 1257.9385 499.8413)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="38.7433px" letter-spacing="3.33">13.7%</text>
+			<text id="svg02NumberSoutheastAsia" transform="matrix(0.9 0 0 1 1258.915 499.8413)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="38.7433px" letter-spacing="3.33">13.7%</text>
 		
 			<line id="svg02LineSoutheastAsia" fill="none" stroke="#E74631" stroke-width="3.1463" stroke-miterlimit="10" x1="1315.37" y1="544.77" x2="1315.37" y2="590.92"/>
 		<g id="svg02PeopleSoutheastAsia" opacity="0">
@@ -382,7 +382,7 @@
 		
 			<text id="svg02TextJapan" transform="matrix(0.9 0 0 1 1077.5479 451.228)" fill="#FFFFFF" font-family="'DFHeiStd-W9-B5pc-H'" font-size="28.0748px" letter-spacing="2.22">日本</text>
 		
-			<text id="svg02NumberJapan" transform="matrix(0.9 0 0 1 1043.21 498.875)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="41.9162px" letter-spacing="3.33">15.6%</text>
+			<text id="svg02NumberJapan" transform="matrix(0.9 0 0 1 1044.2666 498.875)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="41.9162px" letter-spacing="3.33">15.6%</text>
 		
 			<line id="svg02LineJapan" fill="none" stroke="#E74631" stroke-width="3.1463" stroke-miterlimit="10" x1="1105.34" y1="544.77" x2="1105.34" y2="590.92"/>
 		<g id="svg02PeopleJapan" opacity="0">
@@ -560,7 +560,7 @@
 				751.34,522.76 750.77,521.85 751.78,522.25 			"/>
 		</g>
 		
-			<text id="svg02NumberChina" transform="matrix(0.9 0 0 1 743.897 475.4521)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="57.1055px" letter-spacing="5.56">40.1%</text>
+			<text id="svg02NumberChina" transform="matrix(0.9 0 0 1 745.3359 475.4521)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="57.1055px" letter-spacing="5.56">40.1%</text>
 		
 			<line id="svg02LineChina" fill="none" stroke="#E74631" stroke-width="3.1463" stroke-miterlimit="10" x1="828.54" y1="544.77" x2="828.54" y2="590.92"/>
 		<g id="svg02PeopleChina" opacity="0">
@@ -795,7 +795,7 @@
 		
 			<text id="svg02TextHongKongAndMacao" transform="matrix(0.9 0 0 1 542.9551 460.4902)" fill="#FFFFFF" font-family="'DFHeiStd-W9-B5pc-H'" font-size="25.9496px" letter-spacing="2.22">港澳</text>
 		
-			<text id="svg02NumberHongKongAndMacao" transform="matrix(0.9 0 0 1 511.2178 503.8057)" fill="#FFFFFF" font-family="'Lato-Black'" font-size="38.7433px" letter-spacing="3.33">14.5%</text>
+			<text id="svg02NumberHongKongAndMacao" transform="matrix(0.9 0 0 1 512.1938 503.8057)" fill="#FFFFFF" font-family="'Lato-Regular'" font-size="38.7433px" letter-spacing="3.33">14.5%</text>
 		
 			<line id="svg02LineHongKongAndMacao" fill="none" stroke="#E74631" stroke-width="3.1463" stroke-miterlimit="10" x1="568.65" y1="544.77" x2="568.65" y2="590.92"/>
 		<g id="svg02PeopleHongKongAndMacao" opacity="0">
