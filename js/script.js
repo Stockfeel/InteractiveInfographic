@@ -415,12 +415,38 @@ $(document).ready(function(){
           $svg08Text03Win = $('#svg08Text03Win'),
           $svg08Text04Win = $('#svg08Text04Win'),
           $svg08Text05Win = $('#svg08Text05Win'),
-          $svg08Text06Win = $('#svg08Text06Win'),
           $svg08Text07Win = $('#svg08Text07Win'),
           $svg08Text08Win = $('#svg08Text08Win'),
-          $svg08Text09Win = $('#svg08Text09Win'),
 
-          $svg08Divider = $('#svg08Divider');
+          $svg08Divider = $('#svg08Divider'),
+
+    //.....................svg09.....................
+
+          $svg09topLine = $('#svg09topLine'),
+          $svg09bottomLine = $('#svg09bottomLine'),
+
+          $svg09Heading = $('#svg09Heading'),
+          $svg09subHeading = $('#svg09subHeading'),
+
+          $svg09Earth = $('#svg09Earth'),
+
+          $svg09BubbleLeft = $('#svg09BubbleLeft'),
+          $svg09BubbleRight = $('#svg09BubbleRight'),
+
+          $svg09Light = $('#svg09Light'),
+
+          $svg09TextSource = $('#svg09TextSource'),
+
+          $svg09Footer = $('#svg09Footer');
+
+
+
+
+
+
+
+
+
 
 
 
@@ -431,13 +457,16 @@ $(document).ready(function(){
           tlScene04 = new TimelineMax({paused: true }),
           tlScene05 = new TimelineMax({paused: true }),
           tlScene06 = new TimelineMax({paused: true }),
-          tlScene07 = new TimelineMax({paused: true });
+          tlScene07 = new TimelineMax({paused: true }),
+          tlScene08 = new TimelineMax({paused: true }),
+          tlScene09 = new TimelineMax({paused: true });
 
 
 
 
 
-      tlScene01.from($svg01Cloud01, 0.6, {y: 100, opacity: 0}, '+=0.5')
+      tlScene01.set($svg01, {opacity: 1})
+               .from($svg01Cloud01, 0.6, {y: 100, opacity: 0}, '+=0.5')
                .from($svg01Cloud02, 0.6, {y: 100, opacity: 0}, '-=0.4')
                .from($svg01Cloud03, 0.6, {y: 100, opacity: 0}, '-=0.4')
                .from($svg01Cloud04, 0.6, {y: 100, opacity: 0}, '-=0.4')
@@ -489,46 +518,53 @@ $(document).ready(function(){
                .from($svg02subHeading, 0.4, {x: -100, opacity: 0})
                .from($svg02Bg, 0.4, {y: -100, opacity: 0})
                .from($svg02Door, 0.4, {y: -100, opacity: 0}, '-=0.2')
+//---------------------------港澳
                .to($svg02PeopleHongKongAndMacao, 0.7, {y: 270, opacity: 1})
                .to($svg02PeopleHongKongAndMacao, 0.7, {x: -355})
 
+               .from($svg02BubbleHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg02LineHongKongAndMacao, 0.1, {y: 3, opacity: 0}, '-=0.2')
+               .from($svg02TextHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagHongKong, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02NumberHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+//---------------------------中國
                .to($svg02PeopleChina, 0.7, {y: 270, opacity: 1})
                .to($svg02PeopleChina, 0.7, {x: -90})
 
+               .from($svg02BubbleChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg02LineChina, 0.1, {y: 3, opacity: 0}, '-=0.2')
+               .from($svg02TextChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02NumberChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+//---------------------------日本
                .to($svg02PeopleJapan, 0.7, {y: 270, opacity: 1})
                .to($svg02PeopleJapan, 0.7, {x: 180})
 
+               .from($svg02BubbleJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg02LineJapan, 0.1, {y: 3, opacity: 0}, '-=0.2')
+               .from($svg02TextJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02NumberJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+//---------------------------東南亞
                .to($svg02PeopleSoutheastAsia, 0.7, {y: 270, opacity: 1})
                .to($svg02PeopleSoutheastAsia, 0.7, {x: 390})
 
-               .from($svg02BubbleHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineHongKongAndMacao, 0.1, {y: 3, opacity: 0})
-               .from($svg02TextHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagHongKong, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02NumberHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-
-               .from($svg02BubbleChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineChina, 0.1, {y: 3, opacity: 0})
-               .from($svg02TextChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02NumberChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-
-               .from($svg02BubbleJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineJapan, 0.1, {y: 3, opacity: 0})
-               .from($svg02TextJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02NumberJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-
                .from($svg02BubbleSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineSoutheastAsia, 0.1, {y: 3, opacity: 0})
-               .from($svg02TextSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagSingapore, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagThai, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagMalaysia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagPhilippines, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02FlagVietnam, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02NumberSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
+               .from($svg02LineSoutheastAsia, 0.1, {y: 3, opacity: 0}, '-=0.2')
+               .from($svg02TextSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagSingapore, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagThai, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagMalaysia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagPhilippines, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02FlagVietnam, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02NumberSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+
+
+
+
+
+
 
                .from($svg02BottomText, 0.4, {y: 50, opacity: 0});
 
@@ -578,20 +614,20 @@ $(document).ready(function(){
                .to($svg04Plane, 4, {scale: 10, x: 2200, y: -100, opacity: 1})
                .from($svg04subHeading, 0.4, {x: -100, opacity: 0}, '-=3')
 
-               .from($svg04Cloud01, 0.3, {x: 20, opacity: 0})
-               .from($svg04Cloud02, 0.3, {x: -20, opacity: 0}, '-=0.15')
-               .from($svg04Cloud03, 0.3, {x: 20, opacity: 0}, '-=0.15')
-               .from($svg04Cloud04, 0.3, {x: -20, opacity: 0}, '-=0.15')
-               .from($svg04Balloon, 0.3, {x: 20, opacity: 0}, '-=0.15')
+               .from($svg04Cloud01, 0.3, {x: 20, opacity: 0}, '-=3')
+               .from($svg04Cloud02, 0.3, {x: -20, opacity: 0}, '-=2.9')
+               .from($svg04Cloud03, 0.3, {x: 20, opacity: 0}, '-=2.8')
+               .from($svg04Cloud04, 0.3, {x: -20, opacity: 0}, '-=2.7')
+               .from($svg04Balloon, 0.3, {x: 20, opacity: 0}, '-=2.6')
 
-               .from($svg04Ground, 0.4, {scale: 0, opacity: 0, transformOrigin: '50% 50%'})
+               .from($svg04Ground, 0.4, {scale: 0, opacity: 0, transformOrigin: '50% 50%'}, '-=2.5')
 
-               .from($svg04Floor01, 1, {y: -500, opacity: 0})
-               .from($svg04Floor02, 0.9, {y: -500, opacity: 0}, '-=0.4')
-               .from($svg04Floor03, 0.8, {y: -500, opacity: 0}, '-=0.4')
-               .from($svg04Floor04, 0.7, {y: -500, opacity: 0}, '-=0.4')
-               .from($svg04Floor05, 0.6, {y: -500, opacity: 0}, '-=0.4')
-               .from($svg04Floor06, 0.5, {y: -500, opacity: 0}, '-=0.4')
+               .from($svg04Floor01, 1.8, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=1.8')
+               .from($svg04Floor02, 1.7, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=1.6')
+               .from($svg04Floor03, 1.6, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=1.4')
+               .from($svg04Floor04, 1.5, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=1.2')
+               .from($svg04Floor05, 1.4, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=1')
+               .from($svg04Floor06, 1.3, {y: -500, opacity: 0, ease: Bounce.easeOut}, '-=0.8')
 
                .from($svg04BannerLong, 0.4, {y: -20, opacity: 0})
                .from($svg04BannerChina, 0.4, {y: -20, opacity: 0}, '-=0.2')
@@ -794,12 +830,99 @@ $(document).ready(function(){
                .from($svg07BottomText, 0.4, {y: 50, opacity: 0}, '-=1');
 
 
+      tlScene08.from($svg08topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
+               .from($svg08bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
+               .from($svg08Heading, 0.4, {x: -100, opacity: 0})
+
+
+               .from($svg08Buddha, 0.2, {y: -10, opacity: 0})
+               .from($svg08GirlLeft, 0.2, {x: 10, opacity: 0})
+               .from($svg08GirlRight, 0.2, {x: 10, opacity: 0})
+               .from($svg08Lamp01, 0.1, {y: 10, opacity: 0})
+               .from($svg08Lamp02, 0.1, {y: 10, opacity: 0})
+               .from($svg08Lamp03, 0.1, {y: 10, opacity: 0})
+               .from($svg08Lamp04, 0.1, {y: 10, opacity: 0})
+
+               .from($svg08FlagChina, 0.4, {x: 100, opacity: 0, rotation: 20})
+               .from($svg08FlagJapan, 0.4, {x: 100, opacity: 0, rotation: 20}, '-=0.4')
+
+               .from($svg08TextChina, 0.4, {y: -10, opacity: 0}, '-=0.2')
+               .from($svg08TextJapan, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Runway, 4, {y: 950})
+               .from($svg08Plane, 4, {y: -1825}, '-=3.8')
+
+               .from($svg08Text01, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.9')
+               .from($svg08Text02, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.8')
+               .from($svg08Text03, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.7')
+               .from($svg08Text04, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.6')
+               .from($svg08Text05, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.5')
+               .from($svg08Text06, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.4')
+               .from($svg08Text07, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.3')
+               .from($svg08Text08, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.2')
+               .from($svg08Text09, 0.4, {opacity: 0, rotation: 30, transformOrigin: '50% 50%'}, '-=2.1')
+
+               .from($svg08Divider, 0.2, {x: -10, opacity: 0})
+
+               .from($svg08Text01Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text01Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text02Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text02Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text03Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text03Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text04Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text04Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text05Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text05Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text06Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text06Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text07Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text07Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text08Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text08Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text09Left, 0.4, {y: -10, opacity: 0})
+               .from($svg08Text09Right, 0.4, {y: -10, opacity: 0}, '-=0.4')
+
+               .from($svg08Text01Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text02Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text03Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text04Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text05Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text07Win, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg08Text08Win, 0.3, {y: -100, opacity: 0, scale: 2});
 
 
 
 
 
 
+
+
+
+      tlScene09.from($svg09topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
+               .from($svg09bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
+               .from($svg09Heading, 0.4, {x: -100, opacity: 0})
+               .from($svg09subHeading, 0.4, {x: -100, opacity: 0})
+
+               // .from($svg09Earth, 3, {rotation: 180, opacity: 0, transformOrigin: '50% 59.35%'})
+               .from($svg09Earth, 3, {rotation: 180, transformOrigin: '50% 100%'})
+
+               .from($svg09BubbleLeft, 0.4, {opacity: 0})
+               .from($svg09BubbleRight, 0.4, {opacity: 0}, '-=0.4')
+
+               .from($svg09Light, 0.4, {scale: 0, transformOrigin: '0% 100%'}, '-=0.4')
+
+               .from($svg09TextSource, 0.3, {opacity: 0})
+
+               .from($svg09Footer, 0.5, {y: 50}, '-=0.4');
 
 
 
@@ -853,10 +976,10 @@ $(document).ready(function(){
                 tlScene07.pause();
                 break;
             case 8:
-                // tlScene08.pause();
+                tlScene08.pause();
                 break;
             case 9:
-                // tlScene09.pause();
+                tlScene09.pause();
                 break;
         }
         switch (nextIndex) {
@@ -882,10 +1005,10 @@ $(document).ready(function(){
                 tlScene07.play(0);
                 break;
             case 8:
-                // tlScene08.play(0);
+                tlScene08.play(0);
                 break;
             case 9:
-                // tlScene09.play(0);
+                tlScene09.play(0);
                 break;
 
 
