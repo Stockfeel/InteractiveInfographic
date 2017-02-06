@@ -32,6 +32,7 @@ $(document).ready(function(){
           $svg01Character05 = $('#svg01Character05'),
           $svg01Character06 = $('#svg01Character06'),
           $svg01Character07 = $('#svg01Character07'),
+          $svg01WholeCharacter = $('#svg01WholeCharacter'),
 
           $svg01People01 = $('#svg01People01'),
           $svg01People02 = $('#svg01People02'),
@@ -463,64 +464,67 @@ $(document).ready(function(){
 
 
 
-
-
       tlScene01.set($svg01, {opacity: 1})
-               .from($svg01Cloud01, 0.6, {y: 100, opacity: 0}, '+=0.5')
-               .from($svg01Cloud02, 0.6, {y: 100, opacity: 0}, '-=0.4')
-               .from($svg01Cloud03, 0.6, {y: 100, opacity: 0}, '-=0.4')
-               .from($svg01Cloud04, 0.6, {y: 100, opacity: 0}, '-=0.4')
-               .from($svg01Cloud05, 0.6, {y: 100, opacity: 0}, '-=0.4')
-               .fromTo($svg01Plane, 4, {x: -2500, y: 1000, scale: 2}, {x: 2500, y:-1500, scale: 0.2}, '-=1')
-               .to($svg01Cloud01, 0.3, {opacity: 0}, '-=1')
-               .to($svg01Cloud02, 0.3, {opacity: 0}, '-=1.2')
-               .to($svg01Cloud03, 0.3, {opacity: 0}, '-=1.4')
-               .to($svg01Cloud04, 0.3, {opacity: 0}, '-=1.6')
-               .to($svg01Cloud05, 0.3, {opacity: 0}, '-=1.8')
+               .from($svg01Cloud01, 0.6, {y: 100, opacity: 0}, 0.3)
+               .from($svg01Cloud02, 0.6, {y: 100, opacity: 0}, 0.6)
+               .from($svg01Cloud03, 0.6, {y: 100, opacity: 0}, 0.9)
+               .from($svg01Cloud04, 0.6, {y: 100, opacity: 0}, 1.1)
+               .from($svg01Cloud05, 0.6, {y: 100, opacity: 0}, 1.3)
+               .fromTo($svg01Plane, 4, {x: -2500, y: 1000, scale: 2}, {x: 2500, y:-1500, scale: 0.2}, 0.9)
+               .to($svg01Cloud01, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+               .to($svg01Cloud02, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+               .to($svg01Cloud03, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+               .to($svg01Cloud04, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+               .to($svg01Cloud05, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
 
-               .from($svg01Character01, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character02, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character03, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character04, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character05, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character06, 0.3, {y: -100, opacity: 0, scale: 2})
-               .from($svg01Character07, 0.3, {y: -100, opacity: 0, scale: 2})
+               .from($svg01Character01, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 3.6)
+               .from($svg01Character02, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 3.8)
+               .from($svg01Character03, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4)
+               .from($svg01Character04, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.2)
+               .from($svg01Character05, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.4)
+               .from($svg01Character06, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.6)
+               .from($svg01Character07, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.8)
+               .to($svg01WholeCharacter, 0.8, {y: -300, scale: 0.5, transformOrigin: '50% 50%', ease: Power1.easeOut}, 5.4)
+               
 
-               .from($svg01ChinaVsJapan, 1, {y: -100, opacity: 0})
+               .from($svg01ChinaVsJapan, 1, {y: -100, opacity: 0}, 6.1)
 
-               .from($svg01Door, 0.4, {y: -100, opacity: 0})
+               .from($svg01Door, 0.4, {y: -100, opacity: 0}, 6.2)
 
-               .from($svg01Bg, 0.4, {y: -100, opacity: 0})
+               .from($svg01Bg, 0.4, {y: -100, opacity: 0}, 6.3)
 
-               .from($svg01People01, 0.4, {x: -100, opacity: 0})
-               .from($svg01People02, 0.4, {x: -100, opacity: 0}, '-=0.2')
-               .from($svg01People03, 0.4, {x: -100, opacity: 0}, '-=0.2')
-               .from($svg01People04, 0.4, {x: -100, opacity: 0}, '-=0.2')
-               .from($svg01People05, 0.4, {x: 100, opacity: 0}, '-=0.2')
-               .from($svg01People06, 0.4, {x: 100, opacity: 0}, '-=0.2')
-               .from($svg01People07, 0.4, {x: 100, opacity: 0}, '-=0.2')
+               .from($svg01People01, 0.4, {x: -100, opacity: 0}, 6.4)
+               .from($svg01People02, 0.4, {x: -100, opacity: 0}, 6.5)
+               .from($svg01People03, 0.4, {x: -100, opacity: 0}, 6.6)
+               .from($svg01People04, 0.4, {x: -100, opacity: 0}, 6.7)
+               .from($svg01People05, 0.4, {x: 100, opacity: 0}, 6.8)
+               .from($svg01People06, 0.4, {x: 100, opacity: 0}, 6.9)
+               .from($svg01People07, 0.4, {x: 100, opacity: 0}, 7)
 
-               .from($svg01BottomText, 0.4, {y: 50, opacity: 0}, '-=0.2')
+               .from($svg01BottomText, 0.4, {x: -10, opacity: 0}, 7.1)
 
-               .from($svg01ScrollDown, 0.4, {x: 100, opacity: 0});
-
-
-
-
+               .from($svg01ScrollDown, 0.4, {y: 10, opacity: 0}, 7.2);
 
 
+               var topLineParameter = {x: -200, opacity: 0, ease: Power1.easeOut},
+                   bottomLineParameter = {x: 200, opacity: 0, ease: Power1.easeOut},
+                   HeadingParameter = {x: -100, opacity: 0, ease: Power1.easeOut},
+                   subHeadingParameter = {x: 10, opacity: 0, ease: Power1.easeOut};
 
 
 
-      tlScene02.from($svg02topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
-               .from($svg02bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
-               .from($svg02Heading, 0.4, {x: -100, opacity: 0})
-               .from($svg02subHeading, 0.4, {x: -100, opacity: 0})
-               .from($svg02Bg, 0.4, {y: -100, opacity: 0})
-               .from($svg02Door, 0.4, {y: -100, opacity: 0}, '-=0.2')
+
+      tlScene02.from($svg02topLine, 0.6, topLineParameter, 0.5)
+               .from($svg02bottomLine, 0.5, bottomLineParameter, 0.6)
+               .from($svg02Heading, 0.3, HeadingParameter, 0.7)
+               .from($svg02subHeading, 0.4, subHeadingParameter, 0.8)
+
+
+               .from($svg02Bg, 0.4, {y: -100, opacity: 0}, 0.9)
+               .from($svg02Door, 0.4, {y: -100, opacity: 0}, 1)
 //---------------------------港澳
-               .to($svg02PeopleHongKongAndMacao, 0.7, {y: 270, opacity: 1})
-               .to($svg02PeopleHongKongAndMacao, 0.7, {x: -355})
+               .to($svg02PeopleHongKongAndMacao, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 1.4)
+               .to($svg02PeopleHongKongAndMacao, 0.7, {x: -355, ease: Power1.easeOut}, 2.1)
 
                .from($svg02BubbleHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
                .from($svg02LineHongKongAndMacao, 0.1, {y: 3, opacity: 0}, '-=0.2')
@@ -529,8 +533,8 @@ $(document).ready(function(){
                .from($svg02FlagMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
                .from($svg02NumberHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
 //---------------------------中國
-               .to($svg02PeopleChina, 0.7, {y: 270, opacity: 1})
-               .to($svg02PeopleChina, 0.7, {x: -90})
+               .to($svg02PeopleChina, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.1)
+               .to($svg02PeopleChina, 0.7, {x: -90, ease: Power1.easeOut}, 2.8)
 
                .from($svg02BubbleChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
                .from($svg02LineChina, 0.1, {y: 3, opacity: 0}, '-=0.2')
@@ -538,8 +542,8 @@ $(document).ready(function(){
                .from($svg02FlagChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
                .from($svg02NumberChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
 //---------------------------日本
-               .to($svg02PeopleJapan, 0.7, {y: 270, opacity: 1})
-               .to($svg02PeopleJapan, 0.7, {x: 180})
+               .to($svg02PeopleJapan, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.8)
+               .to($svg02PeopleJapan, 0.7, {x: 180, ease: Power1.easeOut}, 3.5)
 
                .from($svg02BubbleJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
                .from($svg02LineJapan, 0.1, {y: 3, opacity: 0}, '-=0.2')
@@ -547,8 +551,8 @@ $(document).ready(function(){
                .from($svg02FlagJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
                .from($svg02NumberJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
 //---------------------------東南亞
-               .to($svg02PeopleSoutheastAsia, 0.7, {y: 270, opacity: 1})
-               .to($svg02PeopleSoutheastAsia, 0.7, {x: 390})
+               .to($svg02PeopleSoutheastAsia, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 3.5)
+               .to($svg02PeopleSoutheastAsia, 0.7, {x: 390, ease: Power1.easeOut}, 4.2)
 
                .from($svg02BubbleSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
                .from($svg02LineSoutheastAsia, 0.1, {y: 3, opacity: 0}, '-=0.2')
