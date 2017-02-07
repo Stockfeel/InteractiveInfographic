@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 <pattern  width="28.8" height="28.8" patternUnits="userSpaceOnUse" id="_x31_0_dpi_10_x25_" viewBox="0.72 -29.52 28.8 28.8" overflow="visible">
@@ -28,36 +28,10 @@
 		</g>
 	</g>
 </pattern>
-<pattern  width="28.8" height="28.8" patternUnits="userSpaceOnUse" id="新增圖樣色票_1" viewBox="2.88 -31.68 28.8 28.8" overflow="visible">
-	<g>
-		<rect x="2.88" y="-31.68" fill="none" width="28.8" height="28.8"/>
-		<g>
-			<circle fill="#E74631" cx="31.68" cy="-2.88" r="2.88"/>
-			<circle fill="#E74631" cx="17.28" cy="-2.88" r="2.88"/>
-			<circle fill="#E74631" cx="31.68" cy="-17.28" r="2.88"/>
-			<circle fill="#E74631" cx="17.28" cy="-17.28" r="2.88"/>
-			<circle fill="#E74631" cx="10.08" cy="-10.08" r="2.88"/>
-			<circle fill="#E74631" cx="24.48" cy="-10.08" r="2.88"/>
-			<circle fill="#E74631" cx="10.08" cy="-24.48" r="2.88"/>
-			<circle fill="#E74631" cx="24.48" cy="-24.48" r="2.88"/>
-		</g>
-		<g>
-			<circle fill="#E74631" cx="2.88" cy="-2.88" r="2.88"/>
-			<circle fill="#E74631" cx="2.88" cy="-17.28" r="2.88"/>
-		</g>
-		<g>
-			<circle fill="#E74631" cx="31.68" cy="-31.68" r="2.88"/>
-			<circle fill="#E74631" cx="17.28" cy="-31.68" r="2.88"/>
-		</g>
-		<g>
-			<circle fill="#E74631" cx="2.88" cy="-31.68" r="2.88"/>
-		</g>
-	</g>
-</pattern>
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg03Heading">
-		<text transform="matrix(1 0 0 1 823.5999 96.946)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">他們都來做什麼？</text>
+		<text transform="matrix(1 0 0 1 823.5999 96.946)" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">他們都來做什麼？</text>
 	</g>
 	
 		<line id="svg03bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
@@ -1531,7 +1505,7 @@
 	</g>
 </g>
 <g id="svg03BottomText">
-	<text transform="matrix(1 0 0 1 602.3896 938.3379)"><tspan x="0" y="0" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">2015</tspan><tspan x="65.28" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">年的破千萬的來台旅客中，有超過</tspan><tspan x="461.28" y="0" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">7</tspan><tspan x="477.6" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">成是以觀光為目的。</tspan><tspan x="-104.4" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">陸客的觀光比例更是超過八成。可見無論國別，觀光仍是來台旅遊的主要原因。</tspan></text>
+	<text transform="matrix(1 0 0 1 602.3896 938.3379)"><tspan x="0" y="0" font-family="'Lato-Bold'" font-size="24px" letter-spacing="2">2015</tspan><tspan x="65.28" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">年的破千萬的來台旅客中，有超過</tspan><tspan x="461.28" y="0" font-family="'Lato-Bold'" font-size="24px" letter-spacing="2">7</tspan><tspan x="477.6" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">成是以觀光為目的。</tspan><tspan x="-104.4" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">陸客的觀光比例更是超過八成。可見無論國別，觀光仍是來台旅遊的主要原因。</tspan></text>
 </g>
 <g id="svg03Sign">
 	
@@ -1556,9 +1530,9 @@
 	
 		<rect x="1030.24" y="187.11" fill="none" stroke="#0A080C" stroke-width="1.0735" stroke-miterlimit="10" width="97.94" height="39.06"/>
 	
-		<text id="XMLID_3834_" transform="matrix(0.9 0 0 1 854.0635 213.9006)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1.11">來台旅客目的</text>
+		<text id="XMLID_3834_" transform="matrix(0.9 0 0 1 854.0635 213.9006)" font-family="'MicrosoftJhengHeiBold'" font-size="19.3234px" letter-spacing="1.11">來台旅客目的</text>
 	
-		<text id="XMLID_3835_" transform="matrix(0.9 0 0 1 1038.792 213.9006)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1.11">比率</text>
+		<text id="XMLID_3835_" transform="matrix(0.9 0 0 1 1038.792 213.9006)" font-family="'MicrosoftJhengHeiBold'" font-size="19.3234px" letter-spacing="1.11">比率</text>
 	<g>
 		<rect x="805.3" y="238.01" fill="#E74631" width="28.22" height="34.13"/>
 		<rect x="837.81" y="238.01" fill="#E74631" width="28.22" height="34.13"/>
@@ -1867,11 +1841,70 @@
 			M1169.78,590.66c0,0,26.98,13.05,33.31,36.62"/>
 		<circle id="XMLID_3866_" fill="#FFFFFF" cx="1152.03" cy="518.99" r="46.36"/>
 		<polygon id="XMLID_3868_" fill="#E74631" points="1105.79,650.64 1165.52,650.64 1165.52,662.1 1107.43,662.1 		"/>
-		<pattern  id="XMLID_11_" xlink:href="#啣璅脩巨_1" patternTransform="matrix(-2.4532 0 0 2.4532 -25113.2715 9002.7588)">
-		</pattern>
-		<path id="XMLID_3869_" opacity="0.35" fill="url(#XMLID_11_)" d="M1110.73,586.7l23.45,28.71l-25.05,30.33h-3.47
-			c0,0,1.26,34.43,1.12,40.36c0,0-0.57,12.41-9.73,14.84c-40.89-17.47-64.9-75.77-64.9-75.77l37.41-24.01l19.04,40.29
-			C1090.63,619.25,1098.2,590.06,1110.73,586.7z"/>
+		<g opacity="0.35">
+			<defs>
+				<path id="SVGID_4_" opacity="0.35" d="M1110.73,586.7l23.45,28.71l-25.05,30.33h-3.47c0,0,1.26,34.43,1.12,40.36
+					c0,0-0.57,12.41-9.73,14.84c-40.89-17.47-64.9-75.77-64.9-75.77l37.41-24.01l19.04,40.29
+					C1090.63,619.25,1098.2,590.06,1110.73,586.7z"/>
+			</defs>
+			<clipPath id="SVGID_5_">
+				<use xlink:href="#SVGID_4_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_5_)">
+				<circle fill="#E74631" cx="1017.45" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1052.78" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1017.45" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1052.78" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1070.44" cy="616.93" r="7.07"/>
+				<circle fill="#E74631" cx="1035.12" cy="616.93" r="7.06"/>
+				<circle fill="#E74631" cx="1070.44" cy="581.6" r="7.07"/>
+				<circle fill="#E74631" cx="1035.12" cy="581.6" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1017.45" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1052.78" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1017.45" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1052.78" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1017.45" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1052.78" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1070.44" cy="687.58" r="7.07"/>
+				<circle fill="#E74631" cx="1035.12" cy="687.58" r="7.06"/>
+				<circle fill="#E74631" cx="1070.44" cy="652.26" r="7.07"/>
+				<circle fill="#E74631" cx="1035.12" cy="652.26" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1017.45" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1052.78" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="616.93" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="616.93" r="7.06"/>
+				<circle fill="#E74631" cx="1141.09" cy="581.6" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="581.6" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1088.1" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="687.58" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="687.58" r="7.06"/>
+				<circle fill="#E74631" cx="1141.09" cy="652.26" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="652.26" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+			</g>
+		</g>
 		<path id="XMLID_3870_" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.1328" stroke-miterlimit="10" d="M1169.78,590.66
 			l-42.5,55.08h38.24l0.55,22.3c0,0-2.27,13.57-4.94,17.79c-2.68,4.22-8.97,11.51-8.97,11.51l14.51,47.42
 			c0,0,14.53-11.43,19.44-36.17s5.71-40.6,3.5-52.79C1187.41,643.61,1169.78,590.66,1169.78,590.66z"/>
@@ -1880,15 +1913,138 @@
 			c0,0,5.14,6.69,5.03,10.9c-0.11,4.22-3.99,18.76-0.23,25.08s9.96,11.72,9.96,11.72s-7.23,3.84-7.17,11
 			c0.06,7.16-1.35,11.99-1.1,16.82s2.17,7.98,10.27,10.49c8.1,2.5,13.71,0.61,19.51-2.52c5.81-3.13,7.88-4.94,7.75-9.92
 			s-4.61-14.66-4.61-14.66l-5.37-12.36l6.51-14.6l-0.42-14.44l4.19-13.89l7.65,25.33"/>
-		<pattern  id="XMLID_12_" xlink:href="#啣璅脩巨_1" patternTransform="matrix(-2.4532 0 0 2.4532 -25113.2715 9002.7588)">
-		</pattern>
-		<path id="XMLID_3873_" opacity="0.35" fill="url(#XMLID_12_)" d="M1169.78,590.66l-42.5,55.08h38.24l0.55,22.3
-			c0,0-2.27,13.57-4.94,17.79c-2.68,4.22-8.97,11.51-8.97,11.51l14.51,47.42c0,0,14.53-11.43,19.44-36.17s18.36-71.77,15.48-83.82
-			C1197.32,606.97,1169.78,590.66,1169.78,590.66z"/>
-		<pattern  id="XMLID_13_" xlink:href="#啣璅脩巨_1" patternTransform="matrix(-2.4532 0 0 2.4532 -25113.2715 9002.7588)">
-		</pattern>
-		<path id="XMLID_3875_" opacity="0.35" fill="url(#XMLID_13_)" d="M1183.78,717.49c0,0,0.88,46.96-2.52,72.67s-4.81,34.6-4.81,34.6
-			s-11.01,1.87-36.47,0s-28.86-2.53-28.86-2.53l-4.9-154.18l68.31-0.42l-7.85,77.13"/>
+		<g opacity="0.35">
+			<defs>
+				<path id="SVGID_6_" opacity="0.35" d="M1169.78,590.66l-42.5,55.08h38.24l0.55,22.3c0,0-2.27,13.57-4.94,17.79
+					c-2.68,4.22-8.97,11.51-8.97,11.51l14.51,47.42c0,0,14.53-11.43,19.44-36.17s18.36-71.77,15.48-83.82
+					C1197.32,606.97,1169.78,590.66,1169.78,590.66z"/>
+			</defs>
+			<clipPath id="SVGID_7_">
+				<use xlink:href="#SVGID_6_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_7_)">
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="616.93" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="616.93" r="7.06"/>
+				<circle fill="#E74631" cx="1141.09" cy="581.6" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="581.6" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1088.1" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1088.1" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="687.58" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="687.58" r="7.06"/>
+				<circle fill="#E74631" cx="1141.09" cy="652.26" r="7.07"/>
+				<circle fill="#E74631" cx="1105.77" cy="652.26" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1088.1" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1194.08" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1211.74" cy="616.93" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="616.93" r="7.06"/>
+				<circle fill="#E74631" cx="1211.74" cy="581.6" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="581.6" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="599.27" r="7.07"/>
+				<circle fill="#E74631" cx="1158.75" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="563.94" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1194.08" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1211.74" cy="687.58" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="687.58" r="7.06"/>
+				<circle fill="#E74631" cx="1211.74" cy="652.26" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="652.26" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="669.92" r="7.07"/>
+				<circle fill="#E74631" cx="1158.75" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="634.59" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="634.59" r="7.06"/>
+			</g>
+		</g>
+		<g opacity="0.35">
+			<defs>
+				<path id="SVGID_8_" opacity="0.35" d="M1183.78,717.49c0,0,0.88,46.96-2.52,72.67s-4.81,34.6-4.81,34.6s-11.01,1.87-36.47,0
+					s-28.86-2.53-28.86-2.53l-4.9-154.18l68.31-0.42L1183.78,717.49z"/>
+			</defs>
+			<clipPath id="SVGID_9_">
+				<use xlink:href="#SVGID_8_"  overflow="visible"/>
+			</clipPath>
+			<g clip-path="url(#SVGID_9_)">
+				<circle fill="#E74631" cx="1123.43" cy="705.25" r="7.06"/>
+				<path fill="#E74631" d="M1128.19,664.72h-9.53c-1.41,1.29-2.3,3.14-2.3,5.21c0,3.9,3.17,7.07,7.07,7.07
+					c3.9,0,7.06-3.16,7.06-7.07C1130.49,667.86,1129.6,666.01,1128.19,664.72z"/>
+				<circle fill="#E74631" cx="1141.09" cy="687.58" r="7.07"/>
+				<path fill="#E74631" d="M1105.77,680.52c-1.19,0-2.3,0.3-3.28,0.81v12.5c0.98,0.52,2.1,0.81,3.28,0.81
+					c3.91,0,7.07-3.16,7.07-7.06C1112.83,683.68,1109.67,680.52,1105.77,680.52z"/>
+				<circle fill="#E74631" cx="1158.75" cy="705.25" r="7.06"/>
+				<path fill="#E74631" d="M1163.52,664.72h-9.53c-1.41,1.29-2.3,3.14-2.3,5.21c0,3.9,3.17,7.07,7.07,7.07s7.06-3.16,7.06-7.07
+					C1165.82,667.86,1164.93,666.01,1163.52,664.72z"/>
+				<circle fill="#E74631" cx="1123.43" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="740.58" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="758.24" r="7.07"/>
+				<path fill="#E74631" d="M1105.77,751.17c-1.19,0-2.3,0.3-3.28,0.81v12.5c0.98,0.52,2.1,0.81,3.28,0.81
+					c3.91,0,7.07-3.16,7.07-7.07C1112.83,754.34,1109.67,751.17,1105.77,751.17z"/>
+				<circle fill="#E74631" cx="1141.09" cy="722.91" r="7.07"/>
+				<path fill="#E74631" d="M1105.77,715.85c-1.19,0-2.3,0.3-3.28,0.81v12.5c0.98,0.52,2.1,0.81,3.28,0.81
+					c3.91,0,7.07-3.16,7.07-7.06C1112.83,719.01,1109.67,715.85,1105.77,715.85z"/>
+				<circle fill="#E74631" cx="1158.75" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="740.58" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1123.43" cy="811.23" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="828.89" r="7.07"/>
+				<circle fill="#E74631" cx="1141.09" cy="793.57" r="7.07"/>
+				<path fill="#E74631" d="M1105.77,786.5c-1.19,0-2.3,0.3-3.28,0.81v12.5c0.98,0.52,2.1,0.81,3.28,0.81
+					c3.91,0,7.07-3.16,7.07-7.06C1112.83,789.67,1109.67,786.5,1105.77,786.5z"/>
+				<circle fill="#E74631" cx="1158.75" cy="811.23" r="7.07"/>
+				<circle fill="#E74631" cx="1123.43" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="705.25" r="7.06"/>
+				<path fill="#E74631" d="M1163.52,664.72h-9.53c-1.41,1.29-2.3,3.14-2.3,5.21c0,3.9,3.17,7.07,7.07,7.07
+					c3.9,0,7.06-3.16,7.06-7.07C1165.82,667.86,1164.93,666.01,1163.52,664.72z"/>
+				<path fill="#E74631" d="M1198.84,664.72h-9.53c-1.41,1.29-2.3,3.14-2.3,5.21c0,3.9,3.17,7.07,7.07,7.07
+					c3.9,0,7.06-3.16,7.06-7.07C1201.14,667.86,1200.25,666.01,1198.84,664.72z"/>
+				<circle fill="#E74631" cx="1211.74" cy="687.58" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="687.58" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="705.25" r="7.06"/>
+				<path fill="#E74631" d="M1234.17,664.72h-9.53c-1.41,1.29-2.3,3.14-2.3,5.21c0,3.9,3.17,7.07,7.07,7.07
+					c3.9,0,7.06-3.16,7.06-7.07C1236.47,667.86,1235.58,666.01,1234.17,664.72z"/>
+				<circle fill="#E74631" cx="1158.75" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="740.58" r="7.07"/>
+				<circle fill="#E74631" cx="1194.08" cy="740.58" r="7.07"/>
+				<circle fill="#E74631" cx="1211.74" cy="758.24" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="758.24" r="7.06"/>
+				<circle fill="#E74631" cx="1211.74" cy="722.91" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="722.91" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="740.58" r="7.07"/>
+				<circle fill="#E74631" cx="1158.75" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="705.25" r="7.06"/>
+				<circle fill="#E74631" cx="1158.75" cy="811.23" r="7.07"/>
+				<circle fill="#E74631" cx="1194.08" cy="811.23" r="7.07"/>
+				<circle fill="#E74631" cx="1211.74" cy="828.89" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="828.89" r="7.06"/>
+				<circle fill="#E74631" cx="1211.74" cy="793.57" r="7.07"/>
+				<circle fill="#E74631" cx="1176.42" cy="793.57" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="811.23" r="7.07"/>
+				<circle fill="#E74631" cx="1158.75" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1194.08" cy="775.9" r="7.06"/>
+				<circle fill="#E74631" cx="1229.4" cy="775.9" r="7.06"/>
+			</g>
+		</g>
 		<circle id="XMLID_3876_" fill="#E74631" cx="1194.71" cy="524.2" r="13.92"/>
 		<g id="XMLID_3877_">
 			<path id="XMLID_3878_" fill="none" stroke="#000000" stroke-width="1.1328" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -2022,17 +2178,18 @@
 			<path id="XMLID_3934_" fill="#E74631" stroke="#000000" stroke-width="2.2656" stroke-miterlimit="10" d="M1224.29,700.94v-62.61
 				c34.58,0,62.61,28.03,62.61,62.61s-28.03,62.61-62.61,62.61c-31.81,0-57.58-22.39-62-53.9L1224.29,700.94z"/>
 		</g>
-		<g id="svg03NumberRight">
-			<text transform="matrix(0.9 0 0 1 1162.7178 835.4316)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="27.6884px">觀光占</tspan><tspan x="82.65" y="0" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="27.6884px" letter-spacing="2.22">73%</tspan></text>
-		</g>
-		
-			<text id="svg03TextRight" transform="matrix(0.9 0 0 1 1163.248 800.0781)" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="18.1251px">來台日本旅客</text>
 		<g id="svg03FlagJapan">
 			
 				<rect x="1287.6" y="770.12" transform="matrix(0.3256 -0.9455 0.9455 0.3256 130.745 1761.8037)" fill="#FFFFFF" stroke="#231815" stroke-width="0.7155" width="25.51" height="38.27"/>
 			<path fill="#FFFFFF" stroke="#231815" stroke-width="0.7155" d="M1300.35,789.25"/>
 			
 				<ellipse id="XMLID_3936_" transform="matrix(0.3256 -0.9455 0.9455 0.3256 130.745 1761.8037)" fill="#E50012" cx="1300.35" cy="789.25" rx="5.9" ry="5.9"/>
+		</g>
+		<g id="svg03TextRight">
+			<text transform="matrix(1 0 0 1 1163.1447 802.1458)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="17px">來台中國旅客</text>
+		</g>
+		<g id="svg03NumberRight">
+			<text transform="matrix(1 0 0 1 1162.1447 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato-Bold'" font-size="25px">73%</tspan></text>
 		</g>
 	</g>
 	<path fill="#FFFFFF" stroke="#000000" stroke-width="1.1328" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1188.42,627.63
@@ -2360,9 +2517,6 @@
 				c34.84,0,63.08,28.24,63.08,63.08c0,34.84-28.24,63.08-63.08,63.08c-34.84,0-63.08-28.24-63.08-63.08
 				c0-13.94,3.86-25.8,12.05-37.08L718.91,700.31z"/>
 		</g>
-		<text id="svg03NumberLeft" transform="matrix(0.9 0 0 1 658.7832 836.2822)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="27.6884px">觀光占</tspan><tspan x="82.65" y="0" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="27.6884px" letter-spacing="2.22">82%</tspan></text>
-		
-			<text id="svg03TextLeft" transform="matrix(0.9 0 0 1 657.9624 802.9238)" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="18.1251px">來台中國旅客</text>
 		<g id="svg03FlagChina">
 			
 				<rect x="783.46" y="773.14" transform="matrix(0.3256 -0.9455 0.9455 0.3256 -211.8288 1286.3385)" fill="#EC1C2E" stroke="#000000" stroke-width="0.0427" width="24.69" height="37.04"/>
@@ -2377,6 +2531,12 @@
 				794.75,786.97 793.89,786.69 793.89,785.8 793.37,786.53 			"/>
 			<polygon fill="#FFE152" points="789.72,787.44 789.94,788.3 789.18,788.78 790.07,788.84 790.29,789.7 790.62,788.87 
 				791.51,788.93 790.82,788.36 791.16,787.53 790.4,788.01 			"/>
+		</g>
+		<g id="svg03TextLeft">
+			<text transform="matrix(1 0 0 1 657.5594 802.1458)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="17px">來台中國旅客</text>
+		</g>
+		<g id="svg03NumberLeft">
+			<text transform="matrix(1 0 0 1 656.5594 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato-Bold'" font-size="25px">82%</tspan></text>
 		</g>
 	</g>
 	<path id="XMLID_4103_" fill="#FFFFFF" stroke="#000000" stroke-width="1.1328" stroke-linejoin="round" stroke-miterlimit="10" d="

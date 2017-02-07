@@ -464,6 +464,61 @@ $(document).ready(function(){
           tlScene09 = new TimelineMax({paused: true }),
           tlScrollDown = new TimelineMax({paused: true , yoyo: true, repeat: -1});
 
+
+
+
+
+          var topLineParameter = {x: -200, opacity: 0, ease: Power1.easeOut},
+              bottomLineParameter = {x: 200, opacity: 0, ease: Power1.easeOut},
+              HeadingParameter = {x: -100, opacity: 0, ease: Power1.easeOut},
+              subHeadingParameter = {x: 10, opacity: 0, ease: Power1.easeOut},
+              BottomTextParameter = {x: -50, opacity: 0, ease: Power1.easeOut};
+
+
+          function animateNumberIncreasing(targetText, animateToNumber) {
+
+               // how many decimal places allows
+               var decimal_places = 1;
+               var decimal_factor = decimal_places === 0 ? 1 : Math.pow(10, decimal_places);
+
+               $(targetText)
+                 .animateNumber(
+                   {
+                     number: animateToNumber * decimal_factor,
+
+                     numberStep: function(now, tween) {
+                       var floored_number = Math.floor(now) / decimal_factor,
+                           target = $(tween.elem);
+
+                       if (decimal_places > 0) {
+                         // force decimal places even if they are 0
+                         floored_number = floored_number.toFixed(decimal_places);
+
+                         // replace '.' separator with ','
+                         floored_number = floored_number.toString();
+                       }
+
+                       target.text(floored_number + ' %');
+                     }
+                   },
+                   1000  //millieseconds
+                 );
+          }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       tlScrollDown.to($svg01ScrollDown, 0.7, {y: 10, ease: Power1.easeOut});
 
       tlScene01.set($svg01, {opacity: 1})
@@ -504,46 +559,12 @@ $(document).ready(function(){
                .from($svg01People06, 0.4, {x: 100, opacity: 0}, 6.9)
                .from($svg01People07, 0.4, {x: 100, opacity: 0}, 7)
 
-               .from($svg01BottomText, 0.4, {x: -10, opacity: 0}, 7.1)
+               .from($svg01BottomText, 0.4, BottomTextParameter, 7.1)
 
                .from($svg01ScrollDown, 0.4, {y: 10, opacity: 0}, 7.4);
 
 
-               var topLineParameter = {x: -200, opacity: 0, ease: Power1.easeOut},
-                   bottomLineParameter = {x: 200, opacity: 0, ease: Power1.easeOut},
-                   HeadingParameter = {x: -100, opacity: 0, ease: Power1.easeOut},
-                   subHeadingParameter = {x: 10, opacity: 0, ease: Power1.easeOut};
 
-
-               function animateNumberIncreasing(targetText, animateToNumber) {
-
-                    // how many decimal places allows
-                    var decimal_places = 1;
-                    var decimal_factor = decimal_places === 0 ? 1 : Math.pow(10, decimal_places);
-
-                    $(targetText)
-                      .animateNumber(
-                        {
-                          number: animateToNumber * decimal_factor,
-
-                          numberStep: function(now, tween) {
-                            var floored_number = Math.floor(now) / decimal_factor,
-                                target = $(tween.elem);
-
-                            if (decimal_places > 0) {
-                              // force decimal places even if they are 0
-                              floored_number = floored_number.toFixed(decimal_places);
-
-                              // replace '.' separator with ','
-                              floored_number = floored_number.toString();
-                            }
-
-                            target.text(floored_number + ' %');
-                          }
-                        },
-                        1000  //millieseconds
-                      );
-               }
 
 
 
@@ -620,46 +641,51 @@ $(document).ready(function(){
 
 
 
-               .from($svg02BottomText, 0.4, {x: -50, opacity: 0}, 5.2);
+               .from($svg02BottomText, 0.4, BottomTextParameter, 5.2);
 
 
 
 
 
-      tlScene03.from($svg03topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
-               .from($svg03bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
-               .from($svg03Heading, 0.4, {x: -100, opacity: 0})
+      tlScene03.from($svg03topLine, 0.6, topLineParameter, 0.5)
+               .from($svg03bottomLine, 0.5, bottomLineParameter, 0.6)
+               .from($svg03Heading, 0.3, HeadingParameter, 0.7)
 
-               .from($svg03BusLeft, 1, {scale:0, transformOrigin: '100% 0%'})
-               .from($svg03BusRight, 1, {scale:0}, '-=1')
+               .from($svg03BusLeft, 0.8, {scale:0, transformOrigin: '100% 0%'}, 0.8)
+               .from($svg03BusRight, 0.8, {scale:0}, 0.8)
 
-               .from($svg03PeopleLeft01, 0.4, {x: -20, opacity: 0})
-               .from($svg03PeopleRight01, 0.4, {x: 20, opacity: 0}, '-=0.2')
-               .from($svg03PeopleLeft02, 0.4, {x: -20, opacity: 0}, '-=0.2')
-               .from($svg03PeopleRight02, 0.4, {x: 20, opacity: 0}, '-=0.2')
-               .from($svg03PeopleLeft03, 0.4, {x: -20, opacity: 0}, '-=0.2')
-               .from($svg03PeopleLeft04, 0.4, {x: -20, opacity: 0}, '-=0.2')
+               .from($svg03Sign, 0.7, {y: 20, opacity: 0}, 1.3)
 
-               .to($svg03Bg, 1, {opacity: 0.3})
+               .from($svg03PeopleLeft01, 0.4, {x: -20, opacity: 0}, 1.2)
+               .from($svg03PeopleRight01, 0.4, {x: 20, opacity: 0}, 1.3)
+               .from($svg03PeopleLeft02, 0.4, {x: -20, opacity: 0}, 1.4)
+               .from($svg03PeopleRight02, 0.4, {x: 20, opacity: 0}, 1.5)
+               .from($svg03PeopleLeft03, 0.4, {x: -20, opacity: 0}, 1.6)
+               .from($svg03PeopleLeft04, 0.4, {x: -20, opacity: 0}, 1.7)
 
-               .from($svg03Sign, 0.4, {y: -20, opacity: 0})
+               .to($svg03Bg, 1, {opacity: 0.3}, 1)
 
-               .from($svg03GirlLeft, 1, {x: -30, opacity: 0})
-               .from($svg03GirlRight, 1, {x: 30, opacity: 0}, '-=1')
+               .from($svg03GirlLeft, 0.5, {x: -30, opacity: 0}, 2.2)
+               .from($svg03GirlRight, 0.5, {x: 30, opacity: 0}, 2.2)
 
-               .from($svg03TextLeft, 0.4, {x: -30, opacity: 0})
-               .from($svg03TextRight, 0.4, {x: 30, opacity: 0}, '-=0.4')
+               .from($svg03PieLeft, 1, {rotation: 360, opacity:0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 2.7)
+               .from($svg03PieRight, 1, {rotation: 360, opacity:0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 2.7)
 
-               .from($svg03FlagChina, 0.4, {x: -30, opacity: 0})
-               .from($svg03FlagJapan, 0.4, {x: 30, opacity: 0}, '-=0.4')
+               .from($svg03TextLeft, 0.3, {x: -10, opacity: 0}, 3.1)
+               .from($svg03TextRight, 0.3, {x: 10, opacity: 0}, 3.1)
 
-               .from($svg03NumberLeft, 0.4, {x: -30, opacity: 0})
-               .from($svg03NumberRight, 0.4, {x: 30, opacity: 0}, '-=0.4')
+               .from($svg03FlagChina, 0.2, {x: -10, opacity: 0}, 3.2)
+               .from($svg03FlagJapan, 0.2, {x: 10, opacity: 0}, 3.2)
 
-               .from($svg03PieLeft, 1, {rotation: 360, opacity:0, transformOrigin: '50% 50%'})
-               .from($svg03PieRight, 1, {rotation: 360, opacity:0, transformOrigin: '50% 50%'}, '-=1')
+               .from($svg03NumberLeft, 0.4, {x: -10, opacity: 0}, 3.3)
+               .from($svg03NumberRight, 0.4, {x: 10, opacity: 0}, 3.3)
 
-               .from($svg03BottomText, 0.4, {y: 50, opacity: 0});
+
+
+               .from($svg03BottomText, 0.4, BottomTextParameter, 3.5);
+
+
+
 
       tlScene04.from($svg04topLine, 0.1, {x: -100, opacity: 0}, '+=0.5')
                .from($svg04bottomLine, 0.1, {x: -100, opacity: 0}, '-=0.1')
@@ -1044,7 +1070,7 @@ $(document).ready(function(){
                 tlScene01.play(0);
                 break;
             case 2:
-                tlScene02.play(2);
+                tlScene02.play(0);
                 break;
             case 3:
                 tlScene03.play(0);
