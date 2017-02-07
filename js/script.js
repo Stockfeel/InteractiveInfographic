@@ -451,8 +451,9 @@ $(document).ready(function(){
 
 
 
-
-      var tlScene01 = new TimelineMax({paused: true }),
+      var tlScene01 = new TimelineMax({paused: true , onComplete: function() {
+          tlScrollDown.play(0);
+      }}),
           tlScene02 = new TimelineMax({paused: true }),
           tlScene03 = new TimelineMax({paused: true }),
           tlScene04 = new TimelineMax({paused: true }),
@@ -460,9 +461,10 @@ $(document).ready(function(){
           tlScene06 = new TimelineMax({paused: true }),
           tlScene07 = new TimelineMax({paused: true }),
           tlScene08 = new TimelineMax({paused: true }),
-          tlScene09 = new TimelineMax({paused: true });
+          tlScene09 = new TimelineMax({paused: true }),
+          tlScrollDown = new TimelineMax({paused: true , yoyo: true, repeat: -1});
 
-
+      tlScrollDown.to($svg01ScrollDown, 0.7, {y: 10, ease: Power1.easeOut});
 
       tlScene01.set($svg01, {opacity: 1})
                .from($svg01Cloud01, 0.6, {y: 100, opacity: 0}, 0.3)
@@ -471,11 +473,12 @@ $(document).ready(function(){
                .from($svg01Cloud04, 0.6, {y: 100, opacity: 0}, 1.1)
                .from($svg01Cloud05, 0.6, {y: 100, opacity: 0}, 1.3)
                .fromTo($svg01Plane, 4, {x: -2500, y: 1000, scale: 2}, {x: 2500, y:-1500, scale: 0.2}, 0.9)
-               .to($svg01Cloud01, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
-               .to($svg01Cloud02, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
-               .to($svg01Cloud03, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
-               .to($svg01Cloud04, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
-               .to($svg01Cloud05, 0.8, {y: 1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+               .to([$svg01Cloud01,
+                    $svg01Cloud02,
+                    $svg01Cloud03,
+                    $svg01Cloud04,
+                    $svg01Cloud05], 0.8, {y: -1500, opacity: 0, ease: Back.easeIn.config(1.7)}, 2.8)
+
 
                .from($svg01Character01, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 3.6)
                .from($svg01Character02, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 3.8)
@@ -485,7 +488,7 @@ $(document).ready(function(){
                .from($svg01Character06, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.6)
                .from($svg01Character07, 0.7, {y: -100, opacity: 0, scale: 3, ease: Power1.easeOut}, 4.8)
                .to($svg01WholeCharacter, 0.8, {y: -300, scale: 0.5, transformOrigin: '50% 50%', ease: Power1.easeOut}, 5.4)
-               
+
 
                .from($svg01ChinaVsJapan, 1, {y: -100, opacity: 0}, 6.1)
 
@@ -503,13 +506,47 @@ $(document).ready(function(){
 
                .from($svg01BottomText, 0.4, {x: -10, opacity: 0}, 7.1)
 
-               .from($svg01ScrollDown, 0.4, {y: 10, opacity: 0}, 7.2);
+               .from($svg01ScrollDown, 0.4, {y: 10, opacity: 0}, 7.4);
 
 
                var topLineParameter = {x: -200, opacity: 0, ease: Power1.easeOut},
                    bottomLineParameter = {x: 200, opacity: 0, ease: Power1.easeOut},
                    HeadingParameter = {x: -100, opacity: 0, ease: Power1.easeOut},
                    subHeadingParameter = {x: 10, opacity: 0, ease: Power1.easeOut};
+
+
+               function animateNumberIncreasing(targetText, animateToNumber) {
+
+                    // how many decimal places allows
+                    var decimal_places = 1;
+                    var decimal_factor = decimal_places === 0 ? 1 : Math.pow(10, decimal_places);
+
+                    $(targetText)
+                      .animateNumber(
+                        {
+                          number: animateToNumber * decimal_factor,
+
+                          numberStep: function(now, tween) {
+                            var floored_number = Math.floor(now) / decimal_factor,
+                                target = $(tween.elem);
+
+                            if (decimal_places > 0) {
+                              // force decimal places even if they are 0
+                              floored_number = floored_number.toFixed(decimal_places);
+
+                              // replace '.' separator with ','
+                              floored_number = floored_number.toString();
+                            }
+
+                            target.text(floored_number + ' %');
+                          }
+                        },
+                        1000  //millieseconds
+                      );
+               }
+
+
+
 
 
 
@@ -526,51 +563,64 @@ $(document).ready(function(){
                .to($svg02PeopleHongKongAndMacao, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 1.4)
                .to($svg02PeopleHongKongAndMacao, 0.7, {x: -355, ease: Power1.easeOut}, 2.1)
 
-               .from($svg02BubbleHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineHongKongAndMacao, 0.1, {y: 3, opacity: 0}, '-=0.2')
-               .from($svg02TextHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagHongKong, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02NumberHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02BubbleHongKongAndMacao, 0.6, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 2.8)
+               .from($svg02LineHongKongAndMacao, 0.1, {y: 3, opacity: 0}, 2.9)
+               .from($svg02TextHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 3)
+
+               .from($svg02FlagHongKong, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 3.1)
+               .from($svg02FlagMacao, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 3.2)
+
+               .call(animateNumberIncreasing, [$svg02NumberHongKongAndMacao, 14.5])   //14.5 %
+
+               .from($svg02NumberHongKongAndMacao, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 3.5)
 //---------------------------中國
-               .to($svg02PeopleChina, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.1)
-               .to($svg02PeopleChina, 0.7, {x: -90, ease: Power1.easeOut}, 2.8)
+               .to($svg02PeopleChina, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 1.9)
+               .to($svg02PeopleChina, 0.7, {x: -90, ease: Power1.easeOut}, 2.6)
 
-               .from($svg02BubbleChina, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineChina, 0.1, {y: 3, opacity: 0}, '-=0.2')
-               .from($svg02TextChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02NumberChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02BubbleChina, 0.6, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 3.3)
+               .from($svg02LineChina, 0.1, {y: 3, opacity: 0}, 3.4)
+               .from($svg02TextChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 3.5)
+               .from($svg02FlagChina, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 3.6)
+
+               .call(animateNumberIncreasing, [$svg02NumberChina, 40.1])   //40.1 %
+
+               .from($svg02NumberChina, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 3.9)
 //---------------------------日本
-               .to($svg02PeopleJapan, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.8)
-               .to($svg02PeopleJapan, 0.7, {x: 180, ease: Power1.easeOut}, 3.5)
+               .to($svg02PeopleJapan, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.4)
+               .to($svg02PeopleJapan, 0.7, {x: 180, ease: Power1.easeOut}, 3.1)
 
-               .from($svg02BubbleJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineJapan, 0.1, {y: 3, opacity: 0}, '-=0.2')
-               .from($svg02TextJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02NumberJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02BubbleJapan, 0.6, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 3.8)
+               .from($svg02LineJapan, 0.1, {y: 3, opacity: 0}, 3.9)
+               .from($svg02TextJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 4)
+               .from($svg02FlagJapan, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.1)
+
+               .call(animateNumberIncreasing, [$svg02NumberJapan, 15.6])   //15.6 %
+               
+               .from($svg02NumberJapan, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 4.4)
 //---------------------------東南亞
-               .to($svg02PeopleSoutheastAsia, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 3.5)
-               .to($svg02PeopleSoutheastAsia, 0.7, {x: 390, ease: Power1.easeOut}, 4.2)
+               .to($svg02PeopleSoutheastAsia, 0.7, {y: 270, opacity: 1, ease: Power1.easeIn}, 2.9)
+               .to($svg02PeopleSoutheastAsia, 0.7, {x: 390, ease: Power1.easeOut}, 3.6)
 
-               .from($svg02BubbleSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'})
-               .from($svg02LineSoutheastAsia, 0.1, {y: 3, opacity: 0}, '-=0.2')
-               .from($svg02TextSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagSingapore, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagThai, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagMalaysia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagPhilippines, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02FlagVietnam, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
-               .from($svg02NumberSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, '-=0.2')
+               .from($svg02BubbleSoutheastAsia, 0.6, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.3)
+               .from($svg02LineSoutheastAsia, 0.1, {y: 3, opacity: 0}, 4.4)
+               .from($svg02TextSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 4.5)
+               .from($svg02FlagSingapore, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.6)
+               .from($svg02FlagThai, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.7)
+               .from($svg02FlagMalaysia, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.8)
+               .from($svg02FlagPhilippines, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 4.9)
+               .from($svg02FlagVietnam, 0.4, {scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7)}, 5)
 
+               .call(animateNumberIncreasing, [$svg02NumberSoutheastAsia, 13.7])   //13.7 %
 
-
-
-
+               .from($svg02NumberSoutheastAsia, 0.4, {scale: 0, transformOrigin: '50% 50%'}, 5.3)
 
 
-               .from($svg02BottomText, 0.4, {y: 50, opacity: 0});
+
+
+
+
+
+               .from($svg02BottomText, 0.4, {x: -50, opacity: 0}, 5.2);
 
 
 
@@ -955,12 +1005,14 @@ $(document).ready(function(){
         '中國選擇購物，日本選擇住宿'
       ],
       afterRender: function(){
-        tlScene01.play();
+          TweenMax.set(['#wrapper', '#fp-nav'], {opacity: 1});
+        tlScene01.play(0);
       },
       onLeave: function(index, nextIndex, direction) {
         switch (index) {
             case 1:
                 tlScene01.pause();
+                tlScrollDown.pause();
                 break;
             case 2:
                 tlScene02.pause();
@@ -992,7 +1044,7 @@ $(document).ready(function(){
                 tlScene01.play(0);
                 break;
             case 2:
-                tlScene02.play(0);
+                tlScene02.play(2);
                 break;
             case 3:
                 tlScene03.play(0);

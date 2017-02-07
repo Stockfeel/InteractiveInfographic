@@ -18,6 +18,9 @@ svg {
 }
 
 
+#wrapper, #fp-nav {
+  opacity: 0;
+}
 
 
 
