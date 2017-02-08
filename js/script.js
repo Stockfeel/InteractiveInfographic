@@ -21,6 +21,18 @@ $(document).ready(function(){
   });
 
 
+
+  TweenMax.to('.spinner', 0.5, {autoAlpha: 0 });
+
+
+
+
+
+
+
+
+
+
   function main() {
 
     //.....................svg01.....................
