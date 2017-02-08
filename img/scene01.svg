@@ -1422,7 +1422,7 @@
 			c-0.21-0.45-2.16,0.41-3.49,1.47l-0.14-0.31c1.31-1.19,3.64-2.27,3.87-1.78l0.82,1.75c2.1-1,4.08-1.93,4.7-2.22
 			c1.41-0.66,3.37-1.97,2.86-3.05C897.69,388.6,894.25,388.16,892.68,388.89z"/>
 	</g>
-	<text id="svg01BottomText" transform="matrix(1 0 0 1 762.2505 877.7471)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">到底哪國旅客來台花錢最不手軟？</tspan><tspan x="-224.4" y="38.21" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">讓我們細讀數據，深入了解中國旅客與日本旅客的在台消費力誰強誰弱。</tspan></text>
+	<text id="svg01BottomText" transform="matrix(1 0 0 1 762.2505 877.7471)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">到底哪國旅客來台花錢最不手軟？</tspan><tspan x="-224.4" y="38.21" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">讓我們細讀數據，深入了解中國旅客與日本旅客的在台消費力誰強誰弱。</tspan></text>
 	<g id="svg01WholeCharacter">
 		<path id="svg01Character01" d="M611.66,540.87c-3.58-0.88-7.3-2.52-11.15-4.9c-3.86-2.39-7.53-5.21-11.03-8.48
 			c-3.5-3.27-6.6-6.8-9.3-10.6c-2.7-3.8-4.69-7.51-5.96-11.13v40.68l-18.01,1.06v-33.26c-5.96,5.83-12.22,10.87-18.79,15.11
@@ -1516,10 +1516,10 @@
 			940.67,306.34 921.66,273.42 940.67,240.5 978.69,240.5 997.69,273.42 978.69,306.34 		"/>
 		<g id="XMLID_3312_">
 			
-				<text transform="matrix(0.9 0 0 1 1022.0347 282.6621)" font-family="'MicrosoftJhengHeiBold'" font-size="28.7747px" letter-spacing="2.22">日本</text>
+				<text transform="matrix(0.9 0 0 1 1022.0347 282.6621)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="28.7747px" letter-spacing="2.22">日本</text>
 		</g>
 		
-			<text id="XMLID_3313_" transform="matrix(0.9 0 0 1 837.2047 282.6621)" font-family="'MicrosoftJhengHeiBold'" font-size="28.7747px" letter-spacing="2.22">中國</text>
+			<text id="XMLID_3313_" transform="matrix(0.9 0 0 1 837.2047 282.6621)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="28.7747px" letter-spacing="2.22">中國</text>
 		<g>
 			<path d="M958.07,259.25l-3.56,29.88h-10.62l-4.04-29.88h7.38c0.86,8.23,1.47,15.2,1.84,20.89c0.36-5.76,0.74-10.87,1.15-15.34
 				l0.49-5.56H958.07z"/>

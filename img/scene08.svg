@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 <pattern  width="28.8" height="28.8" patternUnits="userSpaceOnUse" id="新增圖樣色票_1" viewBox="2.88 -31.68 28.8 28.8" overflow="visible">
@@ -1847,8 +1847,12 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="1.0735" stroke-miterlimit="10" stroke-dasharray="12,16" x1="958.5" y1="224.5" x2="958.5" y2="1003.5"/>
 </g>
-<text id="svg08TextChina" transform="matrix(1 0 0 1 688.6603 218.3086)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30.0585px" letter-spacing="3">中國</text>
-<text id="svg08TextJapan" transform="matrix(1 0 0 1 1161.9845 216.1631)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30.0585px" letter-spacing="3">日本</text>
+<g id="svg08TextChina">
+	<text transform="matrix(1 0 0 1 688.7218 218.3086)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30px" letter-spacing="3">中國</text>
+</g>
+<g id="svg08TextJapan">
+	<text transform="matrix(1 0 0 1 1162.046 216.1631)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="30px" letter-spacing="3">日本</text>
+</g>
 <g id="svg08Divider">
 	
 		<line opacity="0.48" fill="none" stroke="#0A080C" stroke-width="2.2297" stroke-miterlimit="10" stroke-dasharray="1.1149" x1="597.41" y1="464.87" x2="1322.59" y2="464.87"/>
@@ -1937,14 +1941,18 @@
 	</g>
 </g>
 <g>
-	
-		<text id="svg08Text01Right" transform="matrix(1 0 0 1 1161.9845 282.3232)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">15.6%</text>
-	
-		<text id="svg08Text02Right" transform="matrix(1 0 0 1 1161.9845 351.396)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">73%</text>
+	<g id="svg08Text01Right">
+		
+			<text transform="matrix(1 0 0 1 1161.9845 282.3232)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">15.6%</text>
+	</g>
+	<g id="svg08Text02Right">
+		
+			<text transform="matrix(1 0 0 1 1161.9845 351.396)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">73%</text>
+	</g>
 	<g>
 		<g id="svg08Text03Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 420.9731)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$227.59</text>
+				<text transform="matrix(1 0 0 1 1161.9845 420.9731)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$227.59</text>
 		</g>
 		<g id="svg08Text03Win">
 			<circle fill="#E74631" cx="1292.88" cy="412.64" r="16.95"/>
@@ -1952,10 +1960,14 @@
 				<text transform="matrix(1 0 0 1 1281.6115 420.6401)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22.5439px" letter-spacing="2">勝</text>
 		</g>
 	</g>
-	
-		<text id="svg08Text05Right" transform="matrix(1 0 0 1 1161.9845 593.6147)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">73.40</text>
-	
-		<text id="svg08Text04Right" transform="matrix(1 0 0 1 1161.9845 524.542)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">18.32%</text>
+	<g id="svg08Text05Right">
+		
+			<text transform="matrix(1 0 0 1 1161.9845 593.6147)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$73.40</text>
+	</g>
+	<g id="svg08Text04Right">
+		
+			<text transform="matrix(1 0 0 1 1161.9845 524.542)" fill="#727171" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">18.32%</text>
+	</g>
 	<g>
 		<g id="svg08Text07Win">
 			<circle fill="#E74631" cx="1282.97" cy="775.26" r="16.95"/>
@@ -1964,7 +1976,7 @@
 		</g>
 		<g id="svg08Text07Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 783.6812)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">42.76%</text>
+				<text transform="matrix(1 0 0 1 1161.9845 783.6812)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">42.76%</text>
 		</g>
 	</g>
 	<g>
@@ -1975,16 +1987,16 @@
 		</g>
 		<g id="svg08Text08Right">
 			
-				<text transform="matrix(1 0 0 1 1161.9845 885.1787)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">0.88</text>
+				<text transform="matrix(1 0 0 1 1161.9845 885.1787)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">0.88</text>
 		</g>
 	</g>
 	<g id="svg08Text06Right">
 		
-			<text transform="matrix(1 0 0 1 1161.9854 662.4023)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">名產特產類</text>
+			<text transform="matrix(1 0 0 1 1161.9873 662.4023)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">名產特產類</text>
 	</g>
 	<g id="svg08Text09Right">
 		
-			<text transform="matrix(1 0 0 1 1161.9854 969.9404)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">精品型</text>
+			<text transform="matrix(1 0 0 1 1161.9863 969.9404)" fill="#727171" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">精品型</text>
 	</g>
 </g>
 <g>
@@ -1995,7 +2007,7 @@
 	<g>
 		<g id="svg08Text01Left">
 			
-				<text transform="matrix(1 0 0 1 679.6266 281.5054)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">40.1%</text>
+				<text transform="matrix(1 0 0 1 679.6266 281.5054)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">40.1%</text>
 		</g>
 		<g id="svg08Text01Win">
 			<circle fill="#E74631" cx="652.16" cy="274.49" r="16.95"/>
@@ -2006,7 +2018,7 @@
 	<g>
 		<g id="svg08Text02Left">
 			
-				<text transform="matrix(1 0 0 1 702.7408 351.396)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">82%</text>
+				<text transform="matrix(1 0 0 1 702.7408 351.396)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">82%</text>
 		</g>
 		<g id="svg08Text02Win">
 			<circle fill="#E74631" cx="678.19" cy="343.56" r="16.95"/>
@@ -2017,7 +2029,7 @@
 	<g>
 		<g id="svg08Text05Left">
 			
-				<text transform="matrix(1 0 0 1 653.4762 593.6147)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$157.42</text>
+				<text transform="matrix(1 0 0 1 653.4762 593.6147)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">$157.42</text>
 		</g>
 		<g id="svg08Text05Win">
 			<circle fill="#E74631" cx="623.22" cy="585.78" r="16.95"/>
@@ -2028,7 +2040,7 @@
 	<g>
 		<g id="svg08Text04Left">
 			
-				<text transform="matrix(1 0 0 1 663.9869 525.4067)" fill="#E74631" stroke="#E74631" stroke-width="1.0735" stroke-miterlimit="10" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">52.74%</text>
+				<text transform="matrix(1 0 0 1 663.9869 525.4067)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="23px" letter-spacing="2">52.74%</text>
 		</g>
 		<g id="svg08Text04Win">
 			<circle fill="#E74631" cx="636.06" cy="516.71" r="16.95"/>

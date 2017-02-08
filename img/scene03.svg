@@ -31,7 +31,7 @@
 <g>
 	<rect x="572" y="57.6" fill="#FFFFFF" width="772" height="54"/>
 	<g id="svg03Heading">
-		<text transform="matrix(1 0 0 1 823.5999 96.946)" font-family="'MicrosoftJhengHeiBold'" font-size="31px" letter-spacing="3">他們都來做什麼？</text>
+		<text transform="matrix(1 0 0 1 823.5999 96.946)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="31px" letter-spacing="3">他們都來做什麼？</text>
 	</g>
 	
 		<line id="svg03bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="566.11" y1="111.6" x2="1353.89" y2="111.6"/>
@@ -1505,7 +1505,7 @@
 	</g>
 </g>
 <g id="svg03BottomText">
-	<text transform="matrix(1 0 0 1 602.3896 938.3379)"><tspan x="0" y="0" font-family="'Lato-Bold'" font-size="24px" letter-spacing="2">2015</tspan><tspan x="65.28" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">年的破千萬的來台旅客中，有超過</tspan><tspan x="461.28" y="0" font-family="'Lato-Bold'" font-size="24px" letter-spacing="2">7</tspan><tspan x="477.6" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">成是以觀光為目的。</tspan><tspan x="-104.4" y="40.68" font-family="'MicrosoftJhengHeiBold'" font-size="24px" letter-spacing="2">陸客的觀光比例更是超過八成。可見無論國別，觀光仍是來台旅遊的主要原因。</tspan></text>
+	<text transform="matrix(1 0 0 1 602.3896 938.3379)"><tspan x="0" y="0" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">2015</tspan><tspan x="65.28" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">年的破千萬的來台旅客中，有超過</tspan><tspan x="461.28" y="0" font-family="'Lato'" font-weight='bold' font-size="24px" letter-spacing="2">7</tspan><tspan x="477.6" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">成是以觀光為目的。</tspan><tspan x="-104.4" y="40.68" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="24px" letter-spacing="2">陸客的觀光比例更是超過八成。可見無論國別，觀光仍是來台旅遊的主要原因。</tspan></text>
 </g>
 <g id="svg03Sign">
 	
@@ -1530,9 +1530,9 @@
 	
 		<rect x="1030.24" y="187.11" fill="none" stroke="#0A080C" stroke-width="1.0735" stroke-miterlimit="10" width="97.94" height="39.06"/>
 	
-		<text id="XMLID_3834_" transform="matrix(0.9 0 0 1 854.0635 213.9006)" font-family="'MicrosoftJhengHeiBold'" font-size="19.3234px" letter-spacing="1.11">來台旅客目的</text>
+		<text id="XMLID_3834_" transform="matrix(0.9 0 0 1 854.0635 213.9006)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1.11">來台旅客目的</text>
 	
-		<text id="XMLID_3835_" transform="matrix(0.9 0 0 1 1038.792 213.9006)" font-family="'MicrosoftJhengHeiBold'" font-size="19.3234px" letter-spacing="1.11">比率</text>
+		<text id="XMLID_3835_" transform="matrix(0.9 0 0 1 1038.792 213.9006)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="19.3234px" letter-spacing="1.11">比率</text>
 	<g>
 		<rect x="805.3" y="238.01" fill="#E74631" width="28.22" height="34.13"/>
 		<rect x="837.81" y="238.01" fill="#E74631" width="28.22" height="34.13"/>
@@ -2186,10 +2186,10 @@
 				<ellipse id="XMLID_3936_" transform="matrix(0.3256 -0.9455 0.9455 0.3256 130.745 1761.8037)" fill="#E50012" cx="1300.35" cy="789.25" rx="5.9" ry="5.9"/>
 		</g>
 		<g id="svg03TextRight">
-			<text transform="matrix(1 0 0 1 1163.1447 802.1458)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="17px">來台中國旅客</text>
+			<text transform="matrix(1 0 0 1 1163.1447 802.1458)" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px">來台中國旅客</text>
 		</g>
 		<g id="svg03NumberRight">
-			<text transform="matrix(1 0 0 1 1162.1447 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato-Bold'" font-size="25px">73%</tspan></text>
+			<text transform="matrix(1 0 0 1 1162.1447 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="25px">73%</tspan></text>
 		</g>
 	</g>
 	<path fill="#FFFFFF" stroke="#000000" stroke-width="1.1328" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1188.42,627.63
@@ -2533,10 +2533,10 @@
 				791.51,788.93 790.82,788.36 791.16,787.53 790.4,788.01 			"/>
 		</g>
 		<g id="svg03TextLeft">
-			<text transform="matrix(1 0 0 1 657.5594 802.1458)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="17px">來台中國旅客</text>
+			<text transform="matrix(1 0 0 1 657.5594 802.1458)" fill="#595757" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px">來台中國旅客</text>
 		</g>
 		<g id="svg03NumberLeft">
-			<text transform="matrix(1 0 0 1 656.5594 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato-Bold'" font-size="25px">82%</tspan></text>
+			<text transform="matrix(1 0 0 1 656.5594 834.1246)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="25px">觀光占</tspan><tspan x="75" y="0" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="25px">82%</tspan></text>
 		</g>
 	</g>
 	<path id="XMLID_4103_" fill="#FFFFFF" stroke="#000000" stroke-width="1.1328" stroke-linejoin="round" stroke-miterlimit="10" d="

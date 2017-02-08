@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
 <g>
@@ -1221,48 +1221,27 @@
 		<rect id="svg04Floor02LeftBar" x="855.98" y="663.41" fill="#DBDCDC" stroke="#3E3A39" stroke-width="1.1544" stroke-miterlimit="10" width="51.95" height="34.22"/>
 	
 		<rect id="svg04Floor01LeftBar" x="522.75" y="788.81" fill="#9E9F9F" stroke="#3E3A39" stroke-width="1.1544" stroke-miterlimit="10" width="385.18" height="34.22"/>
-	<g id="svg04Floor05LeftNumber">
-		
-			<text transform="matrix(1 0 0 1 582.316 421.6016)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$120</text>
-	</g>
-	<g id="svg04Floor04LeftNumber">
-		
-			<text transform="matrix(1 0 0 1 769.9634 512.7891)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$43</text>
-	</g>
-	<g id="svg04Floor03LeftNumber">
-		
-			<text transform="matrix(1 0 0 1 802.356 603.7725)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$27</text>
-	</g>
-	<g id="svg04Floor02LeftNumber">
-		
-			<text transform="matrix(1 0 0 1 802.356 684.3057)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$29</text>
-	</g>
-	<g id="svg04Floor01LeftNumber">
-		
-			<text transform="matrix(1 0 0 1 541.5616 812.5449)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2"> $227</text>
-	</g>
-	<g id="svg04Floor05RightNumber">
-		
-			<text transform="matrix(1 0 0 1 1104.8247 418.3496)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$41</text>
-	</g>
-	<g id="svg04Floor04RightNumber">
-		
-			<text transform="matrix(1 0 0 1 1226.2358 510.6426)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$97</text>
-	</g>
-	<g id="svg04Floor03RightNumber">
-		
-			<text transform="matrix(1 0 0 1 1096.9761 603.7725)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$39</text>
-	</g>
-	<g id="svg04Floor02RightNumber">
-		
-			<text transform="matrix(1 0 0 1 1088.8989 684.3057)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">$35</text>
-	</g>
-	<g id="svg04Floor01RightNumber">
-		
-			<text transform="matrix(1 0 0 1 1319.7788 809.2441)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2"> $227</text>
-	</g>
+	
+		<text id="svg04Floor05LeftNumber" transform="matrix(1 0 0 1 569.7523 422.6019)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">$120</text>
+	
+		<text id="svg04Floor04RightNumber" transform="matrix(1 0 0 1 1229.3633 516.188)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">$97</text>
+	
+		<text id="svg04Floor05RightNumber" transform="matrix(1 0 0 1 1100.6885 420.0347)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$41</text>
+	
+		<text id="svg04Floor04LeftNumber" transform="matrix(1 0 0 1 768.6069 515.1882)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$43</text>
+	
+		<text id="svg04Floor03LeftNumber" transform="matrix(1 0 0 1 808.5242 605.7721)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$27</text>
+	
+		<text id="svg04Floor02LeftNumber" transform="matrix(1 0 0 1 804.935 687.1151)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$29</text>
+	
+		<text id="svg04Floor01LeftNumber" transform="matrix(1 0 0 1 531.0386 813.5457)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="22px">$227</text>
+	
+		<text id="svg04Floor01RightNumber" transform="matrix(1 0 0 1 1335.5511 811.4619)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="22px">$227</text>
+	
+		<text id="svg04Floor03RightNumber" transform="matrix(1 0 0 1 1093.2422 605.7407)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$39</text>
+	
+		<text id="svg04Floor02RightNumber" transform="matrix(1 0 0 1 1085.5127 687.1154)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="22px">$35</text>
 </g>
-<text id="svg04LittleText" transform="matrix(1 0 0 1 1130.6978 352.3037)" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="15.0293px" letter-spacing="1">單位：每人 / 每日消費美金</text>
 <g>
 	<g id="svg04Floor06">
 		
@@ -1582,4 +1561,5 @@
 			<text id="XMLID_3819_" transform="matrix(0.9 0 0 1 1177.9526 308.8682)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="21.4704px" letter-spacing="1.11">日本</text>
 	</g>
 </g>
+<text id="svg04LittleText" transform="matrix(1 0 0 1 1131.5215 354.3035)" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="15px">單位：每人 / 每日消費美金</text>
 </svg>
