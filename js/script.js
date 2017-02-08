@@ -1400,7 +1400,7 @@ $(document).ready(function(){
                .from($svg09Heading, 0.3, HeadingParameter, 0.7)
                .from($svg09subHeading, 0.4, subHeadingParameter, 0.8)
 
-               .to($svg09Ground01, 2.8, {rotation: -180, transformOrigin: '50% 0%'}, 0.9)
+               // .to($svg09Ground01, 2.8, {rotation: -180, transformOrigin: '50% 0%'}, 0.9)
                .from($svg09Earth, 4, {rotation: 180, transformOrigin: '50% 100%', ease: CustomEase.create("custom", "M0,0,C0.128,0.572,0.257,0.954,0.512,1.028,0.672,1.074,0.838,1,1,1")}, 1.3)
 
                .from($svg09BubbleLeft, 0.4, {opacity: 0}, 3.6)
