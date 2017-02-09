@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="UTF-8">
   <title>來台旅客大車拼</title>
@@ -7,74 +8,86 @@
   <link rel="stylesheet" type="text/css" href="./css/normalize.css">
   <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
+
 <body>
-
-
-<!-- <div class="spinner"></div> -->
-
-  <div id="wrapper">
-
-      <section class="section">
-        <div id="scene01" class="sceneContainer">
-          <img class="inject-me" src="./img/scene01.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene02" class="sceneContainer">
-          <img class="inject-me" src="./img/scene02.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene03" class="sceneContainer">
-          <img class="inject-me" src="./img/scene03.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene04" class="sceneContainer">
-          <img class="inject-me" src="./img/scene04.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene05" class="sceneContainer">
-          <img class="inject-me" src="./img/scene05.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene06" class="sceneContainer">
-          <img class="inject-me" src="./img/scene06.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene07" class="sceneContainer">
-          <img class="inject-me" src="./img/scene07.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene08" class="sceneContainer">
-          <img class="inject-me" src="./img/scene08.svg">
-        </div>
-      </section>
-
-      <section class="section">
-        <div id="scene09" class="sceneContainer">
-          <img class="inject-me" src="./img/scene09.svg">
-        </div>
-      </section>
-
+  <div class="spinner">
+    <svg version="1.1" id="loadingIcon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 250 250" enable-background="new 0 0 250 250" xml:space="preserve">
+      <g>
+        <g>
+          <path fill-rule="evenodd" clip-rule="evenodd" fill="#49BFBB" d="M161.49,158.01c-5.13-10.93-9-19.43-14.01-30.35l0.04-0.02
+              c-1.77-4.3-6.02-5.73-9.81-4.11c-1.25,0.54-15.81,6.69-19.16,8.14c-5.56,1.58-8.32-1.77-9.43-3.79
+              c-1.43-3.19-9.72-22.64-12.82-30.06c-0.65-1.55-0.96-2.84-1.42-4.44c-1.15-3.99,2.4-7.48,5.42-8.9c3.83-1.8,9.36-1.06,11.22,1.71
+              c0.8,1.19,9.08,20.76,12.64,29.22l-0.01,0c1.75,4.3,6,5.75,9.8,4.15c4.99-2.12,21.17-9.59,22.42-10.15
+              c3.75-1.7,5.57-5.8,3.59-10.01l-0.05,0.02c-4.67-11.08-8.32-19.67-12.92-30.84c-1.77-4.3-6.02-5.73-9.81-4.11
+              c-16.18,6.91-19.25,8.42-35.46,15.27c-2.51,1.06-7.99,4.19-9.15,6.68c-2.2,2.96-2.38,7.56-0.89,11.08
+              c2.77,6.53,31.35,70.75,31.35,70.75c0.6,1.31,1.19,2.65,1.52,4.04c0.79,3.24-2.4,7.82-6.31,9.43c-3.08,1.27-8.06,1.52-10.22-2.01
+              c-0.87-1.42-1.61-2.52-2.32-4.04c-1.73-3.74-3.46-7.49-5.18-11.24c-3.01-6.58-6.81-15.03-8.9-19.55c-0.16-0.33-0.45-0.63-0.84-0.8
+              c-0.75-0.32-1.46-0.29-1.97-0.01c-0.5,0.27-1.08,0.66-1.1,1.36c-0.01,0.42,0.13,1.06,0.29,1.41c0.93,2.03,2.2,4.79,3.58,7.81
+              c0.91,2.05,1.73,3.88,2.38,5.31c2.96,6.44,5.93,12.89,8.86,19.34c1.59,3.48,5.1,6.44,8.77,6.82c2.61,0.83,8.62-1.1,11.11-2.24
+              c15.99-7.33,19.18-8.57,35.2-15.84C161.65,166.32,163.46,162.21,161.49,158.01z" />
+          <path fill="#49BFBB" d="M119.02,121.6c0.48,1.09-0.01,2.38-1.11,2.86l0,0c-1.09,0.48-2.37-0.02-2.86-1.11L101.74,93.1
+                c-0.48-1.1,0.02-2.38,1.11-2.86l0,0c1.1-0.48,2.38,0.02,2.86,1.11L119.02,121.6z" />
+          <path fill="#49BFBB" d="M115.75,171.83c0.49,1.09,0,2.38-1.1,2.86l0,0c-1.09,0.49-2.37,0-2.86-1.09L98.3,143.44
+                  c-0.49-1.09,0-2.38,1.09-2.87l0,0c1.09-0.49,2.37,0,2.86,1.09L115.75,171.83z" />
+        </g>
+        <path id="inner" d="M125,214.56
+                  c-49.47,0-89.45-40.08-89.45-89.45S75.53,35.55,125,35.55s89.45,40.08,89.45,89.45S174.37,214.56,125,214.56z" />
+        <path id="outer" d="M125,25C69.73,25,25,69.83,25,125
+                    s44.83,100,100,100s100-44.83,100-100S180.17,25,125,25z" />
+      </g>
+    </svg>
+    <p>讀取中，請稍候</p>
   </div>
 
 
-
-
-
-
+  
+  <div id="wrapper">
+    <section class="section">
+      <div id="scene01" class="sceneContainer">
+        <img class="inject-me" src="./img/scene01.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene02" class="sceneContainer">
+        <img class="inject-me" src="./img/scene02.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene03" class="sceneContainer">
+        <img class="inject-me" src="./img/scene03.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene04" class="sceneContainer">
+        <img class="inject-me" src="./img/scene04.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene05" class="sceneContainer">
+        <img class="inject-me" src="./img/scene05.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene06" class="sceneContainer">
+        <img class="inject-me" src="./img/scene06.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene07" class="sceneContainer">
+        <img class="inject-me" src="./img/scene07.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene08" class="sceneContainer">
+        <img class="inject-me" src="./img/scene08.svg">
+      </div>
+    </section>
+    <section class="section">
+      <div id="scene09" class="sceneContainer">
+        <img class="inject-me" src="./img/scene09.svg">
+      </div>
+    </section>
+  </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.2/jquery.fullPage.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
@@ -83,4 +96,5 @@
   <script src="./js/lib/jquery.animateNumber.min.js"></script>
   <script src="./js/script.js"></script>
 </body>
+
 </html>

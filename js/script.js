@@ -9,14 +9,14 @@ $(document).ready(function(){
     pngFallback: 'assets/png',
     each: function (svg) {
       // Callback after each SVG is injected
-      console.log('SVG injected: ' + svg.getAttribute('id'));
+      // console.log('SVG injected: ' + svg.getAttribute('id'));
     }
   };
 
   // Trigger the injection
   SVGInjector(mySVGsToInject, injectorOptions, function (totalSVGsInjected) {
     // Callback after all SVGs are injected
-    console.log('We injected ' + totalSVGsInjected + ' SVG(s)!');
+    // console.log('We injected ' + totalSVGsInjected + ' SVG(s)!');
     main();
   });
 
@@ -1454,8 +1454,6 @@ $(document).ready(function(){
 
 
 
-
-
     //init fullpage.js
     $('#wrapper').fullpage({
       navigation: true,
@@ -1471,7 +1469,9 @@ $(document).ready(function(){
         '中國選擇購物，日本選擇住宿'
       ],
       afterRender: function(){
+          TweenMax.to('.spinner', 1, {autoAlpha: 0});
           TweenMax.set(['#wrapper', '#fp-nav'], {opacity: 1});
+
         tlScene01.play(0);
       },
       onLeave: function(index, nextIndex, direction) {
