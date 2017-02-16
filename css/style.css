@@ -5,8 +5,12 @@ body {
   line-height: 1.5em;
 }
 
-
-html, body {margin:0;padding:0;height:100%;}
+html,
+body {
+  margin : 0;
+  padding: 0;
+  height : 100%;
+}
 
 .sceneContainer {
   height: 100%;
@@ -16,7 +20,7 @@ html, body {margin:0;padding:0;height:100%;}
   display: block;
 }
 
-svg {
+.sceneContainer svg {
   height: 100%;
   width: 100%;
   display: block;
@@ -46,7 +50,7 @@ svg {
 /* 導覽列tooltip顏色 */
 
 #fp-nav ul:hover .fp-tooltip {
-  color: #E74631;
+  color      : #E74631;
   font-family: 'Lato', "微軟正黑體", 'Microsoft JhengHei', sans-serif;
 }
 
@@ -54,9 +58,9 @@ svg {
 /* loading 畫面 */
 
 .spinner {
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  position : absolute;
+  top      : 50%;
+  left     : 50%;
   transform: translate(-50%, -50%);
 }
 
@@ -67,27 +71,27 @@ svg {
 
 #loadingIcon {
   animation: fadeIn 4s infinite;
-  width: 100px;
+  width    : 100px;
 }
 
 #outer {
-  fill: none;
-  stroke: #49BFBB;
-  stroke-width: 9px;
-  stroke-dasharray: 150;
+  fill             : none;
+  stroke           : #49BFBB;
+  stroke-width     : 9px;
+  stroke-dasharray : 150;
   stroke-dashoffset: 0;
-  transform-origin: center;
-  animation: draw 4s infinite;
+  transform-origin : center;
+  animation        : draw 4s infinite;
 }
 
 #inner {
-  fill: none;
-  stroke: #49BFBB;
-  stroke-width: 3px;
-  stroke-dasharray: 150;
+  fill             : none;
+  stroke           : #49BFBB;
+  stroke-width     : 3px;
+  stroke-dasharray : 150;
   stroke-dashoffset: 0;
-  transform-origin: center;
-  animation: draw 4s infinite;
+  transform-origin : center;
+  animation        : draw 4s infinite;
 }
 
 @keyframes fadeIn {
