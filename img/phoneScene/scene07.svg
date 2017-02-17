@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 375 667" enable-background="new 0 0 375 667" xml:space="preserve">
-<g id="svg06GirlRight">
+<g id="svg07GirlRight">
 	<g>
 		<polygon id="XMLID_653_" fill="#E74631" points="224.81,177.74 254.7,177.74 254.7,183.48 225.63,183.48 		"/>
 		<path id="XMLID_654_" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.0735" stroke-miterlimit="10" d="M227.48,145.75
@@ -809,7 +809,7 @@
 	<path fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" d="M231.46,199.12
 		c0,0-14.39-0.18-14.34,8.45c0.05,8.63,18.45,4.95,18.45,4.95L231.46,199.12z"/>
 </g>
-<g id="svg06GirlLeft">
+<g id="svg07GirlLeft">
 	<g>
 		<path id="XMLID_495_" fill="#FFFFFF" d="M137.72,230l-4.96,27.3l0.68,17.39c0,0,14.19-0.45,12.97,9.29h-25.47l-2.81-23.48
 			l-0.26-20.82l-1.67-19.49l1.19-8.58L137.72,230z"/>
@@ -1149,10 +1149,10 @@
 		c-6.47,7.85-28.24,3-40.69-2.33c-12.44-5.33-10.41-38.76-10.41-38.76s6.9,1.41,7.01,11.9c0.11,10.49,1.13,21.23,13.07,23.03
 		c11.94,1.8,23.32-8.04,28.5-4.59S160.81,189.44,160.81,189.44z"/>
 </g>
-<g id="svg06TextGeneralHotel">
+<g id="svg07TextGeneralHotel">
 	<text transform="matrix(1 0 0 1 142.8334 457.8506)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">一般觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
 </g>
-<g id="svg06TextJapan">
+<g id="svg07TextJapan">
 	<text transform="matrix(1 0 0 1 293.0148 231.8354)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">日本</text>
 	<g>
 		<rect x="296.77" y="191.49" fill="#FFFFFF" stroke="#231815" stroke-width="0.5368" width="27.69" height="18.46"/>
@@ -1161,17 +1161,17 @@
 	</g>
 </g>
 <g>
-	<g id="svg06Heading02">
+	<g id="svg07Heading">
 		<text transform="matrix(1 0 0 1 114.9002 49.3013)" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">住客國籍統計</text>
 	</g>
 	
-		<line id="svg06bottomLine02" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="7.02" y1="60.74" x2="367.98" y2="60.74"/>
+		<line id="svg07bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="7.02" y1="60.74" x2="367.98" y2="60.74"/>
 	
-		<line id="svg06topLine02" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="7.02" y1="20.44" x2="367.98" y2="20.44"/>
+		<line id="svg07topLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="7.02" y1="20.44" x2="367.98" y2="20.44"/>
 </g>
-<line id="svg06LineChina" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="31" y1="247.97" x2="109" y2="247.97"/>
-<line id="svg06LineJapan" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="271.5" y1="247" x2="349.5" y2="247"/>
-<g id="svg06TextChina">
+<line id="svg07LineChina" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="31" y1="247.97" x2="109" y2="247.97"/>
+<line id="svg07LineJapan" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="271.5" y1="247" x2="349.5" y2="247"/>
+<g id="svg07TextChina">
 	<text transform="matrix(1 0 0 1 52.401 229.583)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">中國</text>
 	<g>
 		<rect x="56.15" y="191.49" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="27.69" height="18.46"/>
@@ -1188,32 +1188,38 @@
 			65.68,199.59 65.72,198.93 65.3,199.45 		"/>
 	</g>
 </g>
-<g id="svg06subHeading03">
+<g id="svg07subHeading">
 	<text transform="matrix(1 0 0 1 10.4001 574.5231)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">比較發現，日本旅客在追求舒適的睡眠上毫不手軟，</tspan><tspan x="30.8" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">陸客則寧願拿這些錢當作額外的血拚銀彈。</tspan><tspan x="115.5" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">進一步往下追蹤，</tspan><tspan x="69.3" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">找出兩國旅客最愛的五大酒店。</tspan></text>
 </g>
-<g id="svg06TextTourist">
+<g id="svg07TextTourist">
 	
 		<text transform="matrix(1 0 0 1 151.6332 314.8398)" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">來台旅客數</text>
 </g>
-<g id="svg06TextInternationalHotel">
+<g id="svg07TextInternationalHotel">
 	<text transform="matrix(1 0 0 1 142.8334 377.6064)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">國際觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
 </g>
-<g id="svg06TextInternationalHotelLeft">
+<g id="svg07TextInternationalHotelLeft">
 	<text transform="matrix(1 0 0 1 38.7522 385.0259)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">0.4261</text>
 </g>
-<g id="svg06TextGeneralHotelLeft">
+<g id="svg07TextGeneralHotelLeft">
 	<text transform="matrix(1 0 0 1 38.7522 455.73)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">0.1512</text>
 </g>
-<g id="svg06TextInternationalHotelRight">
+<g id="svg07TextInternationalHotelRight">
 	<text transform="matrix(1 0 0 1 285.0706 387.0681)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">0.88</text>
 </g>
-<g id="svg06TextGeneralHotelRight">
+<g id="svg07TextGeneralHotelRight">
 	<text transform="matrix(1 0 0 1 269.991 455.73)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">0.2237</text>
 </g>
-<g id="svg06TextLittleLeft">
-	<text transform="matrix(1 0 0 1 34.4077 306.3889)"><tspan x="0" y="0" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">41 8.4</tspan><tspan x="11.59" y="19.2" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</tspan></text>
+<g id="svg07TextTouristLeft">
+	<text transform="matrix(1 0 0 1 34.4077 304.3889)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">41 8.4</text>
 </g>
-<g id="svg06TextLittleRight">
-	<text transform="matrix(1 0 0 1 285.1658 306.3889)"><tspan x="0" y="0" fill="#595757" font-family="'Lato-Bold'" font-size="20px">162.7</tspan><tspan x="1.45" y="19.2" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</tspan></text>
+<g id="svg07TextTouristRight">
+	<text transform="matrix(1 0 0 1 285.1658 304.3889)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">162.7</text>
+</g>
+<g id="svg07TextLittleLeft">
+	<text transform="matrix(1 0 0 1 46.0012 326.9902)" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</text>
+</g>
+<g id="svg07TextLittleRight">
+	<text transform="matrix(1 0 0 1 286.6148 326.9902)" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</text>
 </g>
 </svg>

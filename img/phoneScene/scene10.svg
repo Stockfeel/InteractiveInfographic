@@ -2,9 +2,7 @@
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 375 667" enable-background="new 0 0 375 667" xml:space="preserve">
-<path id="svg09Ground01" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M-225.87,867.23
-	c0,228.3,185.07,413.37,413.37,413.37s413.37-185.07,413.37-413.37"/>
-<g id="svg09Earth">
+<g id="svg10Earth">
 	<g>
 		<g id="XMLID_1025_">
 			<g id="XMLID_1026_">
@@ -297,7 +295,7 @@
 			<polygon id="XMLID_2695_" points="196.98,376.64 196.97,376.26 203.07,375.96 203.08,376.34 196.98,376.64 			"/>
 			<polygon id="XMLID_2697_" points="201.29,374.35 201.27,373.97 204.88,373.79 204.9,374.17 201.29,374.35 			"/>
 		</g>
-		<polygon id="svg09Light" opacity="0.09" fill="#B8834E" points="207.96,293.3 403.7,258.78 330.67,239.73 		"/>
+		<polygon id="svg10Light" opacity="0.09" fill="#B8834E" points="207.96,293.3 403.7,258.78 330.67,239.73 		"/>
 	</g>
 	<g>
 		<g id="XMLID_1024_">
@@ -547,7 +545,7 @@
 		
 			<rect x="-31.21" y="439.88" transform="matrix(0.9037 -0.4281 0.4281 0.9037 -190.3845 40.5476)" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" width="52.37" height="7.47"/>
 	</g>
-	<path fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M-224.87,843.23
+	<path id="svg10Ground01" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M-224.87,843.23
 		c0-228.3,185.07-413.37,413.37-413.37s413.37,185.07,413.37,413.37"/>
 	<g>
 		<path id="XMLID_2714_" fill="#E74631" d="M204.45,533.49c0,0-2.76,8.04-1.87,10.78l2.31,0.67l1.06-10.23L204.45,533.49z"/>
@@ -695,7 +693,7 @@
 				s5.95,0.62,5.95,0.62"/>
 		</g>
 	</g>
-	<g id="svg09BubbleLeft">
+	<g id="svg10BubbleLeft">
 		<path fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M147.44,426.47
 			l0.32,9.27l-8.3-7.04c0,0-69.95,10.34-73.67-9.9c-3.39-18.43,18.2-23.43,54.37-24.74C156.34,392.74,156.79,413.8,147.44,426.47z"
 			/>
@@ -705,7 +703,7 @@
 		
 			<text transform="matrix(0.9968 -0.0803 0.0803 0.9968 134.6139 416.8429)" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">亮</text>
 	</g>
-	<g id="svg09BubbleRight">
+	<g id="svg10BubbleRight">
 		<path fill="#FFFFFF" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M271.87,440.28
 			l-0.47,9.69l-8.04-8.06c0,0-73.8,4.72-75.93-16.7c-1.94-19.5,20.96-21.44,58.82-21.08C328.35,404.9,321.53,443.67,271.87,440.28z"
 			/>
@@ -860,23 +858,23 @@
 </g>
 <g>
 	<rect x="10.39" y="21.4" fill="#FFFFFF" width="353.74" height="70.1"/>
-	<g id="svg09Heading">
+	<g id="svg10Heading">
 		<text transform="matrix(1 0 0 1 17.8566 52.7549)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">中國選擇購物，日本選擇住宿；</tspan><tspan x="108.9" y="26.4" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">你怎麼看？</tspan></text>
 	</g>
 	
-		<line id="svg09bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="6.77" y1="91.69" x2="367.74" y2="91.69"/>
+		<line id="svg10bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="6.77" y1="91.69" x2="367.74" y2="91.69"/>
 	
-		<line id="svg09topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="6.77" y1="21.4" x2="367.74" y2="21.4"/>
+		<line id="svg10topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="6.77" y1="21.4" x2="367.74" y2="21.4"/>
 </g>
-<g id="svg09subHeading">
+<g id="svg10subHeading">
 	<text transform="matrix(1 0 0 1 18.0156 152.0789)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">原來，要賺日本人的錢，最好在市區開個大飯店；</tspan><tspan x="30.8" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">要賺大陸人的錢，最好在景點開藝品店。</tspan><tspan x="107.8" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">同樣是外國旅客，</tspan><tspan x="7.7" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">陸客與日客對台灣經濟的影響層面，大不相同。</tspan></text>
 </g>
-<g id="svg09TextSource">
+<g id="svg10TextSource">
 	
 		<text transform="matrix(1 0 0 1 58.5708 603.1777)" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">資料來源：交通部觀光局，2015年統計資料</text>
 </g>
-<g id="svg09Footer">
-	<rect x="-6.17" y="610.5" fill-rule="evenodd" clip-rule="evenodd" width="387.34" height="56.03"/>
+<g id="svg10Footer">
+	<rect x="-6.17" y="610.5" fill-rule="evenodd" clip-rule="evenodd" width="387.34" height="61.03"/>
 	<g>
 		<g id="XMLID_3739_">
 			<g>

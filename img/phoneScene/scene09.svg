@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 375 667" enable-background="new 0 0 375 667" xml:space="preserve">
-<g id="svg08Runway">
+<g id="svg09Runway">
 	
 		<rect x="160.02" y="119.04" opacity="0.46" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="52.08" height="537.81"/>
 	
@@ -10,20 +10,20 @@
 	
 		<line fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" stroke-dasharray="12,16" x1="186.51" y1="131.23" x2="186.51" y2="644.31"/>
 </g>
-<g id="svg08TextChina">
+<g id="svg09TextChina">
 	<text transform="matrix(1 0 0 1 52.4252 128.4773)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">中國</text>
 </g>
-<g id="svg08TextJapan">
+<g id="svg09TextJapan">
 	<text transform="matrix(1 0 0 1 293.2379 128.4775)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">日本</text>
 </g>
-<g id="svg08Divider">
+<g id="svg09Divider">
 	
 		<line opacity="0.48" fill="none" stroke="#B8834E" stroke-miterlimit="10" stroke-dasharray="1.1149" x1="10.39" y1="289.55" x2="364.61" y2="289.55"/>
 	
 		<line opacity="0.48" fill="none" stroke="#B8834E" stroke-miterlimit="10" stroke-dasharray="1.1149" x1="10.39" y1="448.65" x2="364.61" y2="448.65"/>
 </g>
 <g>
-	<g id="svg08Text01">
+	<g id="svg09Text01">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M259.45,182.96h-143.9
 			c-3.92,0-7.13-3.21-7.13-7.13v-21.36c0-3.92,3.21-7.13,7.13-7.13h143.9c3.92,0,7.13,3.21,7.13,7.13v21.36
 			C266.58,179.75,263.37,182.96,259.45,182.96z"/>
@@ -31,7 +31,7 @@
 			<text transform="matrix(1 0 0 1 146.1963 170.0171)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">來台旅客占比</text>
 		</g>
 	</g>
-	<g id="svg08Text02">
+	<g id="svg09Text02">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.81,228.46H116.19
 			c-4.2,0-7.64-3.44-7.64-7.64v-20.33c0-4.2,3.44-7.64,7.64-7.64h142.62c4.2,0,7.64,3.44,7.64,7.64v20.33
 			C266.45,225.02,263.01,228.46,258.81,228.46z"/>
@@ -39,7 +39,7 @@
 			<text transform="matrix(1 0 0 1 132.6953 216.1982)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">觀光目的旅客占比</text>
 		</g>
 	</g>
-	<g id="svg08Text03">
+	<g id="svg09Text03">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.81,273.95H116.19
 			c-4.2,0-7.64-3.44-7.64-7.64v-20.33c0-4.2,3.44-7.64,7.64-7.64h142.62c4.2,0,7.64,3.44,7.64,7.64v20.33
 			C266.45,270.51,263.01,273.95,258.81,273.95z"/>
@@ -47,7 +47,7 @@
 			<text transform="matrix(1 0 0 1 132.6953 261.1333)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">每人每日花費美金</text>
 		</g>
 	</g>
-	<g id="svg08Text04">
+	<g id="svg09Text04">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.62,342.5H116.38
 			c-4.41,0-8.02-3.61-8.02-8.02V314.9c0-4.41,3.61-8.02,8.02-8.02h142.25c4.41,0,8.02,3.61,8.02,8.02v19.57
 			C266.65,338.89,263.04,342.5,258.62,342.5z"/>
@@ -55,7 +55,7 @@
 			<text transform="matrix(1 0 0 1 125.9458 330.8193)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">購物費占總花費比例</text>
 		</g>
 	</g>
-	<g id="svg08Text05">
+	<g id="svg09Text05">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.5,387.99H116.5
 			c-4.41,0-8.02-3.61-8.02-8.02V360.4c0-4.41,3.61-8.02,8.02-8.02H258.5c4.41,0,8.02,3.61,8.02,8.02v19.57
 			C266.52,384.38,262.91,387.99,258.5,387.99z"/>
@@ -63,7 +63,7 @@
 			<text transform="matrix(1 0 0 1 112.4453 375.7354)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">團客每人每日總購物美金</text>
 		</g>
 	</g>
-	<g id="svg08Text06">
+	<g id="svg09Text06">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.81,433.49H116.19
 			c-4.2,0-7.64-3.44-7.64-7.64v-20.33c0-4.2,3.44-7.64,7.64-7.64h142.62c4.2,0,7.64,3.44,7.64,7.64v20.33
 			C266.45,430.05,263.01,433.49,258.81,433.49z"/>
@@ -71,7 +71,7 @@
 			<text transform="matrix(1 0 0 1 139.4463 420.1875)" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">最愛購買的產品</text>
 		</g>
 	</g>
-	<g id="svg08Text07">
+	<g id="svg09Text07">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M256.49,523.55H118.51
 			c-5.59,0-10.16-4.57-10.16-10.16v-36.81c0-5.59,4.57-10.16,10.16-10.16h137.97c5.59,0,10.16,4.57,10.16,10.16v36.81
 			C266.65,518.97,262.07,523.55,256.49,523.55z"/>
@@ -79,7 +79,7 @@
 			<text transform="matrix(1 0 0 1 146.1963 487.4268)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">旅館內支出占</tspan><tspan x="6.75" y="24.11" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">總花費比例</tspan></text>
 		</g>
 	</g>
-	<g id="svg08Text08">
+	<g id="svg09Text08">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M256.49,590.55H118.51
 			c-5.59,0-10.16-4.57-10.16-10.16v-36.81c0-5.59,4.57-10.16,10.16-10.16h137.97c5.59,0,10.16,4.57,10.16,10.16v36.81
 			C266.65,585.98,262.07,590.55,256.49,590.55z"/>
@@ -87,7 +87,7 @@
 			<text transform="matrix(1 0 0 1 139.4463 554.2539)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">每一人次創造的</tspan><tspan x="0" y="24.11" font-family="'MicrosoftJhengHeiBold'" font-size="13.5px">國際旅館旅客數</tspan></text>
 		</g>
 	</g>
-	<g id="svg08Text09">
+	<g id="svg09Text09">
 		<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M258.62,635.05H116.38
 			c-4.41,0-8.02-3.61-8.02-8.02v-19.57c0-4.41,3.61-8.02,8.02-8.02h142.25c4.41,0,8.02,3.61,8.02,8.02v19.57
 			C266.65,631.44,263.04,635.05,258.62,635.05z"/>
@@ -97,127 +97,127 @@
 	</g>
 </g>
 <g>
-	<g id="svg08Text01Right">
+	<g id="svg09Text01Right">
 		
 			<text transform="matrix(1 0 0 1 274.5381 169.3115)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">15.6%</text>
 	</g>
-	<g id="svg08Text02Right">
+	<g id="svg09Text02Right">
 		
 			<text transform="matrix(1 0 0 1 274.5381 214.8062)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">73%</text>
 	</g>
 	<g>
-		<g id="svg08Text03Right">
+		<g id="svg09Text03Right">
 			
 				<text transform="matrix(1 0 0 1 274.5381 260.6328)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">$227.59</text>
 		</g>
-		<g id="svg08Text03Win">
+		<g id="svg09Text03Win">
 			<circle fill="#E74631" cx="349.75" cy="255.14" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 342.7539 260.4136)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
 	</g>
-	<g id="svg08Text05Right">
+	<g id="svg09Text05Right">
 		
 			<text transform="matrix(1 0 0 1 274.5381 374.3438)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">$73.40</text>
 	</g>
-	<g id="svg08Text04Right">
+	<g id="svg09Text04Right">
 		
 			<text transform="matrix(1 0 0 1 274.5381 328.8496)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">18.32%</text>
 	</g>
 	<g>
-		<g id="svg08Text07Win">
+		<g id="svg09Text07Win">
 			<circle fill="#E74631" cx="346.22" cy="493.98" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 339.2148 499.7998)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
-		<g id="svg08Text07Right">
+		<g id="svg09Text07Right">
 			
 				<text transform="matrix(1 0 0 1 274.5381 499.5303)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">42.76%</text>
 		</g>
 	</g>
 	<g>
-		<g id="svg08Text08Win">
+		<g id="svg09Text08Win">
 			<circle fill="#E74631" cx="323.91" cy="560.99" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 316.9023 566.1465)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
-		<g id="svg08Text08Right">
+		<g id="svg09Text08Right">
 			
 				<text transform="matrix(1 0 0 1 274.5381 566.3828)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">0.88</text>
 		</g>
 	</g>
-	<g id="svg08Text06Right">
+	<g id="svg09Text06Right">
 		<text transform="matrix(1 0 0 1 274.5381 419.6504)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="14px">名產特產類</text>
 	</g>
-	<g id="svg08Text09Right">
+	<g id="svg09Text09Right">
 		<text transform="matrix(1 0 0 1 274.5381 622.2109)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="14px">精品型</text>
 	</g>
 </g>
 <g>
-	<g id="svg08Text03Left">
+	<g id="svg09Text03Left">
 		
 			<text transform="matrix(1 0 0 1 39.6069 260.3013)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">$227.58</text>
 	</g>
 	<g>
-		<g id="svg08Text01Left">
+		<g id="svg09Text01Left">
 			
 				<text transform="matrix(1 0 0 1 55.5244 168.7729)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">40.1%</text>
 		</g>
-		<g id="svg08Text01Win">
+		<g id="svg09Text01Win">
 			<circle fill="#E74631" cx="37.43" cy="164.15" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 30.4697 169.3125)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
 	</g>
 	<g>
-		<g id="svg08Text02Left">
+		<g id="svg09Text02Left">
 			
 				<text transform="matrix(1 0 0 1 69.5942 214.8062)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">82%</text>
 		</g>
-		<g id="svg08Text02Win">
+		<g id="svg09Text02Win">
 			<circle fill="#E74631" cx="53.43" cy="209.65" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 46.4653 214.9204)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
 	</g>
 	<g>
-		<g id="svg08Text05Left">
+		<g id="svg09Text05Left">
 			
 				<text transform="matrix(1 0 0 1 39.6069 374.3438)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">$157.42</text>
 		</g>
-		<g id="svg08Text05Win">
+		<g id="svg09Text05Win">
 			<circle fill="#E74631" cx="21.68" cy="369.19" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 14.7207 374.3447)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
 	</g>
 	<g>
-		<g id="svg08Text04Left">
+		<g id="svg09Text04Left">
 			
 				<text transform="matrix(1 0 0 1 46.0049 329.418)" fill="#E74631" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">52.74%</text>
 		</g>
-		<g id="svg08Text04Win">
+		<g id="svg09Text04Win">
 			<circle fill="#E74631" cx="27.61" cy="323.69" r="11.16"/>
 			
 				<text transform="matrix(1 0 0 1 20.6514 328.8496)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">勝</text>
 		</g>
 	</g>
-	<g id="svg08Text07Left">
+	<g id="svg09Text07Left">
 		
 			<text transform="matrix(1 0 0 1 46.0049 499.1406)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">19.19%</text>
 	</g>
-	<g id="svg08Text08Left">
+	<g id="svg09Text08Left">
 		
 			<text transform="matrix(1 0 0 1 68.1665 566.1465)" fill="#595757" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">0.43</text>
 	</g>
-	<g id="svg08Text06Left">
+	<g id="svg09Text06Left">
 		<text transform="matrix(1 0 0 1 56.4741 414.6504)"><tspan x="0" y="0" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="14px">服飾或</tspan><tspan x="-14.7" y="16.8" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="14px">相關配件</tspan></text>
 	</g>
-	<g id="svg08Text09Left">
+	<g id="svg09Text09Left">
 		<text transform="matrix(1 0 0 1 27.7734 622.2109)" fill="#595757" font-family="'MicrosoftJhengHeiBold'" font-size="14px">景點導向型</text>
 	</g>
 </g>
-<g id="svg08FlagChina">
+<g id="svg09FlagChina">
 	<rect x="41.85" y="72.14" fill="#EC1C2E" stroke="#000000" stroke-width="0.0405" width="56.36" height="37.57"/>
 	<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0405" d="M70.03,90.93"/>
 	<polygon fill="#FFE152" points="51.24,75.98 50,79.82 45.94,79.82 49.24,82.21 47.97,86.04 51.24,83.66 54.5,86.04 53.25,82.18 
@@ -231,122 +231,122 @@
 	<polygon fill="#FFE152" points="59.18,87.86 59.92,89 59.07,90.06 60.39,89.7 61.13,90.84 61.19,89.48 62.5,89.13 61.23,88.64 
 		61.3,87.29 60.45,88.35 	"/>
 </g>
-<g id="svg08FlagJapan">
+<g id="svg09FlagJapan">
 	<rect x="283.89" y="73.65" fill="#FFFFFF" stroke="#231815" stroke-width="0.678" width="53.9" height="35.93"/>
 	<path fill="#FFFFFF" stroke="#231815" stroke-width="0.678" d="M310.84,91.62"/>
 	<circle id="XMLID_3645_" fill="#E50012" cx="310.84" cy="91.62" r="8.31"/>
 </g>
-<g id="svg08Plane">
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M197.52,765.83l66-43.95
-		c1.57-1.04,2.51-2.8,2.51-4.69v-20.15l-68.51,18.72V765.83z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="197.52,729.46 266.03,704.02 
-		266.03,697.04 197.52,715.76 	"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M177.48,765.83l-66-43.95
-		c-1.57-1.04-2.51-2.8-2.51-4.69v-20.15l68.51,18.72V765.83z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="177.48,729.46 108.97,704.02 
-		108.97,697.04 177.48,715.76 	"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M300.42,879.12h24.82v11.77
-		c0,1.7-1.38,3.08-3.08,3.08h-18.65c-1.7,0-3.08-1.38-3.08-3.08V879.12z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="303.8,858.68 321.87,858.68 
-		325.24,879.12 300.42,879.12 	"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="320.06" cy="814.69" r="2.68"/>
+<g id="svg09Plane">
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M197.52,885.83l66-43.95
+		c1.57-1.04,2.51-2.8,2.51-4.69v-20.15l-68.51,18.72V885.83z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="197.52,849.46 266.03,824.02 
+		266.03,817.04 197.52,835.76 	"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M177.48,885.83l-66-43.95
+		c-1.57-1.04-2.51-2.8-2.51-4.69v-20.15l68.51,18.72V885.83z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="177.48,849.46 108.97,824.02 
+		108.97,817.04 177.48,835.76 	"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M300.42,999.12h24.82v11.77
+		c0,1.7-1.38,3.08-3.08,3.08h-18.65c-1.7,0-3.08-1.38-3.08-3.08V999.12z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="303.8,978.68 321.87,978.68 
+		325.24,999.12 300.42,999.12 	"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="320.06" cy="934.69" r="2.68"/>
 	
-		<rect x="317.39" y="814.69" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 640.1217 1638.8749)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="312.83" cy="882.24" r="2.68"/>
+		<rect x="317.39" y="934.69" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 640.1217 1878.8749)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="312.83" cy="1002.24" r="2.68"/>
 	
-		<rect x="310.16" y="858.68" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M252.7,904.78h24.82v11.77
-		c0,1.7-1.38,3.08-3.08,3.08h-18.65c-1.7,0-3.08-1.38-3.08-3.08V904.78z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="256.07,884.34 274.14,884.34 
-		277.51,904.78 252.7,904.78 	"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="265.1" cy="907.9" r="2.68"/>
+		<rect x="310.16" y="978.68" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M252.7,1024.78h24.82v11.77
+		c0,1.7-1.38,3.08-3.08,3.08h-18.65c-1.7,0-3.08-1.38-3.08-3.08V1024.78z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="256.07,1004.34 274.14,1004.34 
+		277.51,1024.78 252.7,1024.78 	"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="265.1" cy="1027.9" r="2.68"/>
 	
-		<rect x="262.43" y="884.34" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="298.5" cy="820.36" r="2.68"/>
+		<rect x="262.43" y="1004.34" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="298.5" cy="940.36" r="2.68"/>
 	
-		<rect x="295.82" y="820.36" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 596.9949 1650.2136)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="276.93" cy="826.03" r="2.68"/>
+		<rect x="295.82" y="940.36" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 596.9949 1890.2136)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="276.93" cy="946.03" r="2.68"/>
 	
-		<rect x="274.26" y="826.03" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 553.8681 1661.5522)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="255.37" cy="831.7" r="2.68"/>
+		<rect x="274.26" y="946.03" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 553.8681 1901.5522)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="255.37" cy="951.7" r="2.68"/>
 	
-		<rect x="252.7" y="831.7" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 510.7413 1672.891)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M197.52,715.76h-20.03
-		c-12.54,26.57-18.75,71.38-18.75,91.49v180.93c0,18.57,10.29,57.23,28.77,57.23s28.77-38.66,28.77-57.23V807.25
-		C216.27,787.14,210.06,742.34,197.52,715.76z"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="187.5" cy="760.51" r="4.92"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="187.5" cy="694" r="4.92"/>
+		<rect x="252.7" y="951.7" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 510.7413 1912.891)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M197.52,835.76h-20.03
+		c-12.54,26.57-18.75,71.38-18.75,91.49v180.93c0,18.57,10.29,57.23,28.77,57.23s28.77-38.66,28.77-57.23V927.25
+		C216.27,907.14,210.06,862.34,197.52,835.76z"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="187.5" cy="880.51" r="4.92"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="187.5" cy="814" r="4.92"/>
 	
-		<rect x="182.58" y="694" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 375 1454.5155)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="9.84" height="66.51"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M216.27,920.35l137.43-73.93
-		c1.83-0.98,2.96-2.89,2.96-4.96v-29.44l-114.78,29.96h-25.62V920.35z"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="352.41" cy="829.79" r="4.25"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="352.41" cy="799.59" r="4.25"/>
+		<rect x="182.58" y="814" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 375 1694.5155)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="9.84" height="66.51"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M216.27,1040.35l137.43-73.93
+		c1.83-0.98,2.96-2.89,2.96-4.96v-29.44l-114.78,29.96h-25.62V1040.35z"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="352.41" cy="949.79" r="4.25"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="352.41" cy="919.59" r="4.25"/>
 	
-		<rect x="348.16" y="799.59" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 704.8265 1629.379)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="8.51" height="30.19"/>
-	<path fill="#0A080C" d="M201.96,1007.8c-4.02,3.04-9.03,4.84-14.46,4.84s-10.44-1.8-14.46-4.84v3.71
-		c3.92,4.32,8.96,6.92,14.46,6.92s10.54-2.6,14.46-6.92V1007.8z"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M74.58,879.12H49.76v11.77
-		c0,1.7,1.38,3.08,3.08,3.08h18.65c1.7,0,3.08-1.38,3.08-3.08V879.12z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="71.2,858.68 53.13,858.68 
-		49.76,879.12 74.58,879.12 	"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="54.94" cy="814.69" r="2.68"/>
+		<rect x="348.16" y="919.59" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 704.8265 1869.379)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="8.51" height="30.19"/>
+	<path fill="#0A080C" d="M201.96,1127.8c-4.02,3.04-9.03,4.84-14.46,4.84s-10.44-1.8-14.46-4.84v3.71
+		c3.92,4.32,8.96,6.92,14.46,6.92s10.54-2.6,14.46-6.92V1127.8z"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M74.58,999.12H49.76v11.77
+		c0,1.7,1.38,3.08,3.08,3.08h18.65c1.7,0,3.08-1.38,3.08-3.08V999.12z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="71.2,978.68 53.13,978.68 
+		49.76,999.12 74.58,999.12 	"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="54.94" cy="934.69" r="2.68"/>
 	
-		<rect x="52.26" y="814.69" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="62.17" cy="882.24" r="2.68"/>
+		<rect x="52.26" y="934.69" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="62.17" cy="1002.24" r="2.68"/>
 	
-		<rect x="59.49" y="858.68" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 124.3355 1740.9164)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M122.3,904.78H97.49v11.77
-		c0,1.7,1.38,3.08,3.08,3.08h18.65c1.7,0,3.08-1.38,3.08-3.08V904.78z"/>
-	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="118.93,884.34 100.86,884.34 
-		97.49,904.78 122.3,904.78 	"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="109.9" cy="907.9" r="2.68"/>
+		<rect x="59.49" y="978.68" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 124.3355 1980.9164)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M122.3,1024.78H97.49v11.77
+		c0,1.7,1.38,3.08,3.08,3.08h18.65c1.7,0,3.08-1.38,3.08-3.08V1024.78z"/>
+	<polygon fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" points="118.93,1004.34 100.86,1004.34 
+		97.49,1024.78 122.3,1024.78 	"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="109.9" cy="1027.9" r="2.68"/>
 	
-		<rect x="107.22" y="884.34" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 219.7912 1792.2485)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="76.5" cy="820.36" r="2.68"/>
+		<rect x="107.22" y="1004.34" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 219.7912 2032.2485)" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="23.56"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="76.5" cy="940.36" r="2.68"/>
 	
-		<rect x="73.83" y="820.36" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="98.07" cy="826.03" r="2.68"/>
+		<rect x="73.83" y="940.36" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="98.07" cy="946.03" r="2.68"/>
 	
-		<rect x="95.39" y="826.03" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="119.63" cy="831.7" r="2.68"/>
+		<rect x="95.39" y="946.03" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="119.63" cy="951.7" r="2.68"/>
 	
-		<rect x="116.95" y="831.7" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
-	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M158.73,920.35L21.3,846.41
-		c-1.83-0.98-2.96-2.89-2.96-4.96v-29.44l114.78,29.96h25.62V920.35z"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="22.59" cy="829.79" r="4.25"/>
-	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="22.59" cy="799.59" r="4.25"/>
+		<rect x="116.95" y="951.7" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="5.35" height="9.5"/>
+	<path fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" d="M158.73,1040.35L21.3,966.41
+		c-1.83-0.98-2.96-2.89-2.96-4.96v-29.44l114.78,29.96h25.62V1040.35z"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="22.59" cy="949.79" r="4.25"/>
+	<circle fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" cx="22.59" cy="919.59" r="4.25"/>
 	
-		<rect x="18.33" y="799.59" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="8.51" height="30.19"/>
-	<circle fill="#0A080C" cx="207.72" cy="971.45" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="958.86" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="946.26" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="933.66" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="921.06" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="971.45" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="958.86" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="946.26" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="933.66" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="921.06" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="880.78" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="868.18" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="855.58" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="842.98" r="3.57"/>
-	<circle fill="#0A080C" cx="207.72" cy="830.38" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="880.78" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="868.18" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="855.58" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="842.98" r="3.57"/>
-	<circle fill="#0A080C" cx="167.28" cy="830.38" r="3.57"/>
+		<rect x="18.33" y="919.59" fill="#FFFFFF" stroke="#0A080C" stroke-width="0.75" stroke-miterlimit="10" width="8.51" height="30.19"/>
+	<circle fill="#0A080C" cx="207.72" cy="1091.45" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="1078.86" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="1066.26" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="1053.66" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="1041.06" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1091.45" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1078.86" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1066.26" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1053.66" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1041.06" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="1000.78" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="988.18" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="975.58" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="962.98" r="3.57"/>
+	<circle fill="#0A080C" cx="207.72" cy="950.38" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="1000.78" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="988.18" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="975.58" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="962.98" r="3.57"/>
+	<circle fill="#0A080C" cx="167.28" cy="950.38" r="3.57"/>
 </g>
 <g>
 	<rect x="9.72" y="20.22" fill="#FFFFFF" width="353.74" height="40.29"/>
-	<g id="svg08Heading">
+	<g id="svg09Heading">
 		<text transform="matrix(1 0 0 1 78.6489 49.1377)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">中國</tspan><tspan x="48.4" y="0" font-family="'Lato-Bold'" font-size="22px" letter-spacing="2">vs.</tspan><tspan x="81.3" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">日本  大車拼</tspan></text>
 	</g>
 	
-		<line id="svg08bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="60.52" x2="367.98" y2="60.52"/>
+		<line id="svg09bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="60.52" x2="367.98" y2="60.52"/>
 	
-		<line id="svg08topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="20.22" x2="367.98" y2="20.22"/>
+		<line id="svg09topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="20.22" x2="367.98" y2="20.22"/>
 </g>
 </svg>
