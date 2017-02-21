@@ -429,52 +429,62 @@ $(document).ready(function() {
 
 
 
-      //.....................svg07.....................
+      // .....................svg08.....................
 
-      // $svg07topLine = $('#svg07topLine'),
-      // $svg07bottomLine = $('#svg07bottomLine'),
+      $svg08topLine = $('#svg08topLine'),
+      $svg08bottomLine = $('#svg08bottomLine'),
 
-      // $svg07Heading = $('#svg07Heading'),
-      // $svg07subHeading = $('#svg07subHeading'),
+      $svg08Heading = $('#svg08Heading'),
 
-      // $svg07LittleHotel = $('#svg07LittleHotel'),
-      // $svg07PeopleRight = $('#svg07PeopleRight'),
+      $svg08PeopleLeft = $('#svg08PeopleLeft'),
 
-      // $svg07BrownBar = $('#svg07BrownBar'),
-      // $svg07TextChinaLeft = $('#svg07TextChinaLeft'),
-      // $svg07TextJapanRight = $('#svg07TextJapanRight'),
-      // $svg07FlagChina = $('#svg07FlagChina'),
-      // $svg07FlagJapan = $('#svg07FlagJapan'),
+      $svg08TextChinaLeft = $('#svg08TextChinaLeft text'),
+      $svg08TextJapanRight = $('#svg08TextJapanRight text'),
+      $svg08FlagChina = $('#svg08FlagChina'),
+      $svg08FlagJapan = $('#svg08FlagJapan'),
 
-      // $svg07Taiwan = $('#svg07Taiwan'),
+      $svg08Taiwan = $('#svg08Taiwan'),
 
-      // $svg07RedTaipei = $('#svg07RedTaipei'),
-      // $svg07RedTaoyuan = $('#svg07RedTaoyuan'),
-      // $svg07RedTaitung = $('#svg07RedTaitung'),
-      // $svg07RedKaohsiung = $('#svg07RedKaohsiung'),
+      $svg08BrownTaipei = $('#svg08BrownTaipei'),
+      $svg08BrownTaoyuan = $('#svg08BrownTaoyuan'),
+      $svg08BrownTaitung = $('#svg08BrownTaitung'),
+      $svg08BrownKaohsiung = $('#svg08BrownKaohsiung'),
 
-      // $svg07RedTaipeiTooltipLeft = $('#svg07RedTaipeiTooltipLeft'),
-      // $svg07RedTaipeiTooltipRight = $('#svg07RedTaipeiTooltipRight'),
-      // $svg07RedTaoyuanTooltip = $('#svg07RedTaoyuanTooltip'),
-      // $svg07RedTaitungTooltip = $('#svg07RedTaitungTooltip'),
-      // $svg07RedKaohsiungTooltip = $('#svg07RedKaohsiungTooltip'),
+      $svg08BrownTaipeiTooltipChina = $('#svg08BrownTaipeiTooltipChina'),
+      $svg08BrownTaipeiTooltipJapan = $('#svg08BrownTaipeiTooltipJapan'),
+      $svg08BrownTaoyuanTooltip = $('#svg08BrownTaoyuanTooltip'),
+      $svg08BrownTaitungTooltip = $('#svg08BrownTaitungTooltip'),
+      $svg08BrownKaohsiungTooltip = $('#svg08BrownKaohsiungTooltip'),
 
-
-      // $svg07NumberLeft4 = $('#svg07NumberLeft4'),
-      // $svg07NumberLeft3 = $('#svg07NumberLeft3'),
-      // $svg07NumberLeft1 = $('#svg07NumberLeft1'),
-      // $svg07NumberLeft2 = $('#svg07NumberLeft2'),
-      // $svg07NumberLeft5 = $('#svg07NumberLeft5'),
-      // $svg07NumberRight1 = $('#svg07NumberRight1'),
-      // $svg07NumberRight2 = $('#svg07NumberRight2'),
-      // $svg07NumberRight3 = $('#svg07NumberRight3'),
-      // $svg07NumberRight4 = $('#svg07NumberRight4'),
-      // $svg07NumberRight5 = $('#svg07NumberRight5'),
+      $svg08LineTaipeiTooltipChina = $('#svg08LineTaipeiTooltipChina'),
+      $svg08LineTaipeiTooltipJapan = $('#svg08LineTaipeiTooltipJapan'),
+      $svg08LineTaoyuanTooltip = $('#svg08LineTaoyuanTooltip'),
+      $svg08LineTaitungTooltip = $('#svg08LineTaitungTooltip'),
+      $svg08LineKaohsiungTooltip = $('#svg08LineKaohsiungTooltip'),
 
 
-      // $svg07Map = $('#svg07Map'),
+      $svg08NumberChina4 = $('#svg08NumberChina4'),
+      $svg08NumberChina3 = $('#svg08NumberChina3'),
+      $svg08NumberChina1 = $('#svg08NumberChina1'),
+      $svg08NumberChina2 = $('#svg08NumberChina2'),
+      $svg08NumberChina5 = $('#svg08NumberChina5'),
+      $svg08NumberJapan1 = $('#svg08NumberJapan1'),
+      $svg08NumberJapan2 = $('#svg08NumberJapan2'),
+      $svg08NumberJapan3 = $('#svg08NumberJapan3'),
+      $svg08NumberJapan4 = $('#svg08NumberJapan4'),
+      $svg08NumberJapan5 = $('#svg08NumberJapan5'),
 
-      // $svg07BottomText = $('#svg07BottomText'),
+      $svg08ButtonChina = $('#svg08ButtonChina'),
+      $svg08ButtonJapan = $('#svg08ButtonJapan'),
+
+      $svg08ButtonChinafaceUp = $('#svg08ButtonChinafaceUp'),
+      $svg08ButtonChinafaceDown = $('#svg08ButtonChinafaceDown'),
+
+
+      $svg08ButtonJapanfaceUp = $('#svg08ButtonJapanfaceUp'),
+      $svg08ButtonJapanfaceDown = $('#svg08ButtonJapanfaceDown'),
+
+      $svg08BottomText = $('#svg08BottomText'),
 
       //.....................svg09.....................
 
@@ -609,12 +619,23 @@ $(document).ready(function() {
       tlScene05 = new TimelineMax({ paused: true }),
       tlScene06 = new TimelineMax({ paused: true }),
       tlScene07 = new TimelineMax({ paused: true }),
+
       tlScene08 = new TimelineMax({ paused: true }),
+      tlScene08heading = new TimelineMax({ paused: true }),
+      tlScene08china = new TimelineMax({ paused: true }),
+      tlScene08bottomText = new TimelineMax({ paused: true }),
+      tlScene08japan = new TimelineMax({ paused: true }),
+
       tlScene09 = new TimelineMax({ paused: true }),
       tlScene10 = new TimelineMax({ paused: true }),
       tlScrollDown = new TimelineMax({ paused: true, yoyo: true, repeat: -1 });
 
 
+
+    // tlScene08.add(tlScene08heading);
+    // tlScene08.add(tlScene08china, 1.6);   //左按鈕的動畫
+    // tlScene08.add(tlScene08bottomText, 2.2);
+    // tlScene08.add(tlScene08japan);   //右按鈕的動畫
 
 
 
@@ -1269,83 +1290,155 @@ $(document).ready(function() {
 
 
 
+        // tlScene08.from($svg08topLine, 0.6, topLineParameter, 0.5)
+        //          .from($svg08bottomLine, 0.6, bottomLineParameter, 0.5)
+        //          .from($svg08Heading, 0.3, HeadingParameter, 0.7)
+        //          .from([$svg08ButtonChina, $svg08ButtonJapan], 0.4, {opacity: 0, y: 30}, 0.8)
+        //          .from($svg08Taiwan, 0.4, {opacity: 0, y: 30}, 1)
+        //          .from($svg08PeopleLeft, 0.4, {opacity: 0, x: -20}, 1.2)
+
+        //          .from($svg08BrownTaipei, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 1.3)
+        //          .from($svg08LineTaipeiTooltipChina, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 1.4)
+        //          .from($svg08BrownTaipeiTooltipChina, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 1.5)
+        //          .call(animateNumberIncreasing, [$svg08NumberChina4, 4.259, 3, 'numberWithComma'], null, 1.6)
+        //          .call(animateNumberIncreasing, [$svg08NumberChina3, 3.068, 3, 'numberWithComma'], null, 1.6)
+
+        //          .from($svg08BrownTaoyuan, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 1.4)
+        //          .from($svg08LineTaoyuanTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 1.5)
+        //          .from($svg08BrownTaoyuanTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 1.6)
+        //          .call(animateNumberIncreasing, [$svg08NumberChina1, 1.644, 3, 'numberWithComma'], null, 1.7)
+        
+        //          .from($svg08BrownTaitung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 1.5)
+        //          .from($svg08LineTaitungTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 1.6)
+        //          .from($svg08BrownTaitungTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 1.7)
+        //          .call(animateNumberIncreasing, [$svg08NumberChina2, 3.704, 3, 'numberWithComma'], null, 1.8)
+        
+        //          .from($svg08BrownKaohsiung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 1.6)
+        //          .from($svg08LineKaohsiungTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 1.7)
+        //          .from($svg08BrownKaohsiungTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 1.8)
+        //          .call(animateNumberIncreasing, [$svg08NumberChina5, 2.169, 3, 'numberWithComma'], null, 1.9)
+        //          .from($svg08BottomText, 0.4, BottomTextParameter);
 
 
 
 
+    tlScene08.call(function() {tlScene08heading.play(0);}, null, null, 0)
+             .call(function() {tlScene08china.pause(0);}, null, null, 0)
+             .call(function() {tlScene08bottomText.pause(0);}, null, null, 0)
+             .call(function() {tlScene08japan.pause(0);}, null, null, 0)
+
+             .call(function() {tlScene08china.play(0);}, null, null, 1.5)
+             .call(function() {tlScene08bottomText.play(0);}, null, null, 2.5);
 
 
 
 
+    tlScene08heading.from($svg08topLine, 0.6, topLineParameter, 0.5)
+                    .from($svg08bottomLine, 0.6, bottomLineParameter, 0.5)
+                    .from($svg08Heading, 0.3, HeadingParameter, 0.7)
+                    .from([$svg08ButtonChina, $svg08ButtonJapan], 0.4, {opacity: 0, y: 30}, 0.8)
+                    .from($svg08Taiwan, 0.4, {opacity: 0, y: 30}, 1)
+                    .from($svg08PeopleLeft, 0.4, {opacity: 0, x: -20}, 1.2);
+
+    tlScene08china.from($svg08BrownTaipei, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) })
+                  .from($svg08LineTaipeiTooltipChina, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 0.1)
+                  .from($svg08BrownTaipeiTooltipChina, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 0.2)
+                  .call(animateNumberIncreasing, [$svg08NumberChina4, 4.259, 3, 'numberWithComma'], null, 0.3)
+                  .call(animateNumberIncreasing, [$svg08NumberChina3, 3.068, 3, 'numberWithComma'], null, 0.3)
+    
+                  .from($svg08BrownTaoyuan, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 0.2)
+                  .from($svg08LineTaoyuanTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 0.3)
+                  .from($svg08BrownTaoyuanTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 0.4)
+                  .call(animateNumberIncreasing, [$svg08NumberChina1, 1.644, 3, 'numberWithComma'], null, 0.5)
+    
+                  .from($svg08BrownTaitung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 0.3)
+                  .from($svg08LineTaitungTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 0.4)
+                  .from($svg08BrownTaitungTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 0.5)
+                  .call(animateNumberIncreasing, [$svg08NumberChina2, 3.704, 3, 'numberWithComma'], null, 0.6)
+    
+                  .from($svg08BrownKaohsiung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 0.4)
+                  .from($svg08LineKaohsiungTooltip, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 0.5)
+                  .from($svg08BrownKaohsiungTooltip, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 0.6)
+                  .call(animateNumberIncreasing, [$svg08NumberChina5, 2.169, 3, 'numberWithComma'], null, 0.7);
+
+
+    tlScene08japan.from($svg08BrownTaipei, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) })
+                  .from($svg08LineTaipeiTooltipJapan, 0.3, { scaleX: 0, ease: Back.easeOut.config(1.7) }, 0.1)
+                  .from($svg08BrownTaipeiTooltipJapan, 0.3, { scale: 0, transformOrigin: '0% 50%' }, 0.2)
+                  .call(animateNumberIncreasing, [$svg08NumberJapan1, 3.722, 3, 'numberWithComma'], null, 0.3)
+                  .call(animateNumberIncreasing, [$svg08NumberJapan2, 3.917, 3, 'numberWithComma'], null, 0.3)
+                  .call(animateNumberIncreasing, [$svg08NumberJapan3, 2.660, 3, 'numberWithComma'], null, 0.3)
+                  .call(animateNumberIncreasing, [$svg08NumberJapan4, 5.732, 3, 'numberWithComma'], null, 0.3)
+                  .call(animateNumberIncreasing, [$svg08NumberJapan5, 3.286, 3, 'numberWithComma'], null, 0.3);
+
+    tlScene08bottomText.from($svg08BottomText, 0.4, BottomTextParameter);
 
 
 
-
-
-    // tlScene07.from($svg07topLine, 0.6, topLineParameter, 0.5)
-    //   .from($svg07bottomLine, 0.6, bottomLineParameter, 0.5)
-    //   .from($svg07Heading, 0.3, HeadingParameter, 0.7)
-    //   .from([$svg07subHeading, $svg07LittleHotel], 0.4, subHeadingParameter, 0.8)
-
-
-    // .from($svg07Map, 0.7, { scale: 0, transformOrigin: '50% 50%' }, 1.2)
-    //   .to($svg07Map, 0.5, { opacity: 0.14 }, 1.3)
-
-    // .from($svg07Taiwan, 0.6, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 1.4)
-
-    // .from($svg07BrownBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 2)
-
-    // .from([$svg07TextChinaLeft, $svg07TextJapanRight], 0.3, { x: -20, opacity: 0 }, 2.4)
-    //   .from([$svg07FlagChina, $svg07FlagJapan], 0.3, { x: -20, opacity: 0 }, 2.6)
+    var scene08State = "changing";
 
 
 
-    // .from($svg07RedTaipei, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 2.3)
-    //   .from($svg07RedTaoyuan, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 2.4)
-    //   .from($svg07RedTaitung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 2.5)
-    //   .from($svg07RedKaohsiung, 0.3, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 2.6)
+    $svg08ButtonChina.on('click', function(e){
+     if(scene08State == "chinaComplete") {
+
+     } else if (scene08State == "japanComplete") {
+
+      scene08State = "changing";
+
+      //change button color
+      chinaClickedButtonColorChange();
+      //change button color
+
+        tlScene08japan.reverse();
+        TweenMax.delayedCall(0.4, function() {
+          tlScene08china.play(0);
+          scene08State = "chinaComplete";
+        }); //play tlScene08china
+
+     }
+    });
 
 
-    // .from($svg07RedTaipeiTooltipLeft, 0.3, { scale: 0, transformOrigin: '100% 0%' }, 2.9)
-    //   .from($svg07RedTaipeiTooltipRight, 0.3, { scale: 0 }, 3)
-    //   .from($svg07RedTaoyuanTooltip, 0.3, { scale: 0, transformOrigin: '100% 0%' }, 3.1)
-    //   .from($svg07RedTaitungTooltip, 0.3, { scale: 0, transformOrigin: '100% 0%' }, 3.2)
-    //   .from($svg07RedKaohsiungTooltip, 0.3, { scale: 0, transformOrigin: '100% 0%' }, 3.3)
-
-    // .call(animateNumberIncreasing, [$svg07NumberLeft4, 4.259, 3, 'numberWithComma'], null, 3)
-    //   .call(animateNumberIncreasing, [$svg07NumberLeft3, 3.068, 3, 'numberWithComma'], null, 3)
-    //   .call(animateNumberIncreasing, [$svg07NumberLeft1, 1.644, 3, 'numberWithComma'], null, 3.2)
-    //   .call(animateNumberIncreasing, [$svg07NumberLeft2, 3.704, 3, 'numberWithComma'], null, 3.3)
-    //   .call(animateNumberIncreasing, [$svg07NumberLeft5, 2.169, 3, 'numberWithComma'], null, 3.4)
-    //   .call(animateNumberIncreasing, [$svg07NumberRight1, 3.722, 3, 'numberWithComma'], null, 3.1)
-    //   .call(animateNumberIncreasing, [$svg07NumberRight2, 3.917, 3, 'numberWithComma'], null, 3.1)
-    //   .call(animateNumberIncreasing, [$svg07NumberRight3, 2.660, 3, 'numberWithComma'], null, 3.1)
-    //   .call(animateNumberIncreasing, [$svg07NumberRight4, 5.732, 3, 'numberWithComma'], null, 3.1)
-    //   .call(animateNumberIncreasing, [$svg07NumberRight5, 3.286, 3, 'numberWithComma'], null, 3.1)
-
-    // .from($svg07PeopleRight, 0.4, { x: 50, opacity: 0 }, 3.4)
-
-    // .from($svg07BottomText, 0.4, BottomTextParameter);
+    $svg08ButtonJapan.on('click', function(e){
 
 
 
+     if(scene08State == "chinaComplete") {
+      scene08State = "changing";
 
+      //change button color
+      japanClickedButtonColorChange();
+      //change button color
+      //
+      tlScene08china.reverse();
+      TweenMax.delayedCall(0.8, function() {
+        tlScene08japan.play(0);
+        scene08State = "japanComplete";
+      });  //play tlScene08japan
 
+     } else if (scene08State == "japanComplete") {
 
+     }
+    });
 
+function chinaClickedButtonColorChange() {
+  TweenMax.to($svg08ButtonJapanfaceUp, 0.3, {fill: '#ffffff'});
+  TweenMax.to($svg08ButtonJapanfaceDown, 0.3, {fill: '#eeeeee'});
+  TweenMax.to($svg08TextJapanRight, 0.3, {fill: '#000000'});
+  TweenMax.to($svg08ButtonChinafaceUp, 0.3, {fill: '#E74631'});
+  TweenMax.to($svg08ButtonChinafaceDown, 0.3, {fill: '#C63228'});
+  TweenMax.to($svg08TextChinaLeft, 0.3, {fill: '#ffffff'});
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+function japanClickedButtonColorChange() {
+  TweenMax.to($svg08ButtonChinafaceUp, 0.3, {fill: '#ffffff'});
+  TweenMax.to($svg08ButtonChinafaceDown, 0.3, {fill: '#eeeeee'});
+  TweenMax.to($svg08TextChinaLeft, 0.3, {fill: '#000000'});
+  TweenMax.to($svg08ButtonJapanfaceUp, 0.3, {fill: '#E74631'});
+  TweenMax.to($svg08ButtonJapanfaceDown, 0.3, {fill: '#C63228'});
+  TweenMax.to($svg08TextJapanRight, 0.3, {fill: '#ffffff'});
+}
 
 
 
@@ -1566,7 +1659,13 @@ $(document).ready(function() {
             tlScene07.pause();
             break;
           case 8:
+            tlScene08heading.pause();
+            tlScene08china.pause();
+            tlScene08bottomText.pause();
+            tlScene08japan.pause();
             tlScene08.pause();
+            scene08State = "chinaComplete";
+            chinaClickedButtonColorChange();
             break;
           case 9:
             tlScene09.pause();
@@ -1598,7 +1697,11 @@ $(document).ready(function() {
             tlScene07.play(0);
             break;
           case 8:
+          scene08State = "changing";
             tlScene08.play(0);
+            TweenMax.delayedCall(2.7, function() {
+              scene08State = "chinaComplete";
+            });
             break;
           case 9:
             tlScene09.play(0);
