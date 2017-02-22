@@ -273,6 +273,16 @@ $(document).ready(function() {
       $svg04Floor04LeftNumber = $('#svg04Floor04LeftNumber'),
       $svg04Floor05LeftNumber = $('#svg04Floor05LeftNumber'),
 
+
+      $svg04InnerFloor01LeftNumber = $('#svg04Floor01LeftNumber text'),
+      $svg04InnerFloor02LeftNumber = $('#svg04Floor02LeftNumber text'),
+      $svg04InnerFloor03LeftNumber = $('#svg04Floor03LeftNumber text'),
+      $svg04InnerFloor04LeftNumber = $('#svg04Floor04LeftNumber text'),
+      $svg04InnerFloor05LeftNumber = $('#svg04Floor05LeftNumber text'),
+
+
+
+
       $svg04Floor01RightBar = $('#svg04Floor01RightBar'),
       $svg04Floor02RightBar = $('#svg04Floor02RightBar'),
       $svg04Floor03RightBar = $('#svg04Floor03RightBar'),
@@ -284,6 +294,15 @@ $(document).ready(function() {
       $svg04Floor03RightNumber = $('#svg04Floor03RightNumber'),
       $svg04Floor04RightNumber = $('#svg04Floor04RightNumber'),
       $svg04Floor05RightNumber = $('#svg04Floor05RightNumber'),
+
+
+      $svg04InnerFloor01RightNumber = $('#svg04Floor01RightNumber text'),
+      $svg04InnerFloor02RightNumber = $('#svg04Floor02RightNumber text'),
+      $svg04InnerFloor03RightNumber = $('#svg04Floor03RightNumber text'),
+      $svg04InnerFloor04RightNumber = $('#svg04Floor04RightNumber text'),
+      $svg04InnerFloor05RightNumber = $('#svg04Floor05RightNumber text'),
+
+
 
       $svg04BottomText = $('#svg04BottomText'),
 
@@ -1005,8 +1024,8 @@ $(document).ready(function() {
              .from($svg04Floor05LeftBar, 0.4, { scaleX: 0, transformOrigin: '100% 50%' }, 3.4)
              .from($svg04Floor05RightBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 3.4)
 
-             .call(animateNumberIncreasing, [$svg04Floor05LeftNumber, 120, 0, 'dollar'], null, 3.4)
-             .call(animateNumberIncreasing, [$svg04Floor05RightNumber, 41, 0, 'dollar'], null, 3.4)
+             .call(animateNumberIncreasing, [$svg04InnerFloor05LeftNumber, 120, 0, 'dollar'], null, 3.4)
+             .call(animateNumberIncreasing, [$svg04InnerFloor05RightNumber, 41, 0, 'dollar'], null, 3.4)
 
              .from($svg04Floor05LeftNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 3.8)
              .from($svg04Floor05RightNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 3.8)
@@ -1014,8 +1033,8 @@ $(document).ready(function() {
              .from($svg04Floor04LeftBar, 0.4, { scaleX: 0, transformOrigin: '100% 50%' }, 3.5)
              .from($svg04Floor04RightBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 3.5)
 
-             .call(animateNumberIncreasing, [$svg04Floor04LeftNumber, 43, 0, 'dollar'], null, 3.5)
-             .call(animateNumberIncreasing, [$svg04Floor04RightNumber, 97, 0, 'dollar'], null, 3.5)
+             .call(animateNumberIncreasing, [$svg04InnerFloor04LeftNumber, 43, 0, 'dollar'], null, 3.5)
+             .call(animateNumberIncreasing, [$svg04InnerFloor04RightNumber, 97, 0, 'dollar'], null, 3.5)
 
              .from($svg04Floor04LeftNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 3.9)
              .from($svg04Floor04RightNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 3.9)
@@ -1023,8 +1042,8 @@ $(document).ready(function() {
              .from($svg04Floor03LeftBar, 0.4, { scaleX: 0, transformOrigin: '100% 50%' }, 3.6)
              .from($svg04Floor03RightBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 3.6)
 
-             .call(animateNumberIncreasing, [$svg04Floor03LeftNumber, 27, 0, 'dollar'], null, 3.6)
-             .call(animateNumberIncreasing, [$svg04Floor03RightNumber, 39, 0, 'dollar'], null, 3.6)
+             .call(animateNumberIncreasing, [$svg04InnerFloor03LeftNumber, 27, 0, 'dollar'], null, 3.6)
+             .call(animateNumberIncreasing, [$svg04InnerFloor03RightNumber, 39, 0, 'dollar'], null, 3.6)
 
              .from($svg04Floor03LeftNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4)
              .from($svg04Floor03RightNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4)
@@ -1032,8 +1051,8 @@ $(document).ready(function() {
              .from($svg04Floor02LeftBar, 0.4, { scaleX: 0, transformOrigin: '100% 50%' }, 3.7)
              .from($svg04Floor02RightBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 3.7)
 
-             .call(animateNumberIncreasing, [$svg04Floor02LeftNumber, 29, 0, 'dollar'], null, 3.7)
-             .call(animateNumberIncreasing, [$svg04Floor02RightNumber, 35, 0, 'dollar'], null, 3.7)
+             .call(animateNumberIncreasing, [$svg04InnerFloor02LeftNumber, 29, 0, 'dollar'], null, 3.7)
+             .call(animateNumberIncreasing, [$svg04InnerFloor02RightNumber, 35, 0, 'dollar'], null, 3.7)
 
              .from($svg04Floor02LeftNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4.1)
              .from($svg04Floor02RightNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4.1)
@@ -1041,8 +1060,8 @@ $(document).ready(function() {
              .from($svg04Floor01LeftBar, 0.4, { scaleX: 0, transformOrigin: '100% 50%' }, 3.8)
              .from($svg04Floor01RightBar, 0.4, { scaleX: 0, transformOrigin: '0% 50%' }, 3.8)
 
-             .call(animateNumberIncreasing, [$svg04Floor01LeftNumber, 227, 0, 'dollar'], null, 3.8)
-             .call(animateNumberIncreasing, [$svg04Floor01RightNumber, 227, 0, 'dollar'], null, 3.8)
+             .call(animateNumberIncreasing, [$svg04InnerFloor01LeftNumber, 227, 0, 'dollar'], null, 3.8)
+             .call(animateNumberIncreasing, [$svg04InnerFloor01RightNumber, 227, 0, 'dollar'], null, 3.8)
 
              .from($svg04Floor01LeftNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4.2)
              .from($svg04Floor01RightNumber, 0.2, { scale: 0, opacity: 0, transformOrigin: '50% 50%' }, 4.2)

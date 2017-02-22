@@ -1246,26 +1246,36 @@
 		
 			<rect id="svg04Floor01LeftBar" x="17.83" y="460.5" fill="#9E9F9F" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="133.19" height="20.68"/>
 	</g>
-	
-		<text id="svg04Floor05LeftNumber" transform="matrix(1 0 0 1 15.8076 240.3755)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$120</text>
-	
-		<text id="svg04Floor04RightNumber" transform="matrix(1 0 0 1 298.6406 296.7148)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$97</text>
-	
-		<text id="svg04Floor05RightNumber" transform="matrix(1 0 0 1 254.6641 240.3755)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$41</text>
-	
-		<text id="svg04Floor04LeftNumber" transform="matrix(1 0 0 1 87.9546 296.1104)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$43</text>
-	
-		<text id="svg04Floor03LeftNumber" transform="matrix(1 0 0 1 100.0806 351.8584)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$27</text>
-	
-		<text id="svg04Floor02LeftNumber" transform="matrix(1 0 0 1 98.4111 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$29</text>
-	
-		<text id="svg04Floor01LeftNumber" transform="matrix(1 0 0 1 20.8013 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
-	
-		<text id="svg04Floor01RightNumber" transform="matrix(1 0 0 1 313.0469 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
-	
-		<text id="svg04Floor03RightNumber" transform="matrix(1 0 0 1 252.1641 351.8389)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$39</text>
-	
-		<text id="svg04Floor02RightNumber" transform="matrix(1 0 0 1 249.9922 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$35</text>
+	<g id="svg04Floor05LeftNumber">
+		<text transform="matrix(1 0 0 1 15.8076 240.3755)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$120</text>
+	</g>
+	<g id="svg04Floor04RightNumber">
+		<text transform="matrix(1 0 0 1 298.6406 296.7148)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$97</text>
+	</g>
+	<g id="svg04Floor05RightNumber">
+		<text transform="matrix(1 0 0 1 254.6641 240.3755)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$41</text>
+	</g>
+	<g id="svg04Floor04LeftNumber">
+		<text transform="matrix(1 0 0 1 87.9546 296.1104)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$43</text>
+	</g>
+	<g id="svg04Floor03LeftNumber">
+		<text transform="matrix(1 0 0 1 100.0806 351.8584)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$27</text>
+	</g>
+	<g id="svg04Floor02LeftNumber">
+		<text transform="matrix(1 0 0 1 98.4111 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$29</text>
+	</g>
+	<g id="svg04Floor01LeftNumber">
+		<text transform="matrix(1 0 0 1 20.8013 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
+	</g>
+	<g id="svg04Floor01RightNumber">
+		<text transform="matrix(1 0 0 1 313.0469 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
+	</g>
+	<g id="svg04Floor03RightNumber">
+		<text transform="matrix(1 0 0 1 252.1641 351.8389)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$39</text>
+	</g>
+	<g id="svg04Floor02RightNumber">
+		<text transform="matrix(1 0 0 1 249.9922 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$35</text>
+	</g>
 </g>
 <g>
 	<g id="svg04Floor06">
