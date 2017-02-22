@@ -58,31 +58,47 @@
 <g>
 	<g>
 		<circle id="svg02BubbleSoutheastAsia" fill="#E74631" cx="234.61" cy="426.25" r="37"/>
-		
-			<text id="svg02TextSoutheastAsia" transform="matrix(0.9 0 0 1 210.8514 419.4061)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1.11">東南亞</text>
-		
-			<text id="svg02NumberSoutheastAsia" transform="matrix(0.9 0 0 1 208.3758 443.1877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="18px" letter-spacing="1.11">13.7%</text>
+		<g id="svg02TextSoutheastAsia">
+			
+				<text transform="matrix(0.9 0 0 1 210.8514 419.4061)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1.11">東南亞</text>
+		</g>
+		<g id="svg02NumberSoutheastAsia">
+			
+				<text transform="matrix(0.9 0 0 1 208.3758 443.1877)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="18px" letter-spacing="1.11">13.7%</text>
+		</g>
 	</g>
 	<g>
 		<circle id="svg02BubbleJapan" fill="#E74631" cx="253.4" cy="332.6" r="44.49"/>
-		
-			<text id="svg02TextJapan" transform="matrix(0.9 0 0 1 235.5794 325.2438)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="18px" letter-spacing="1.11">日本</text>
-		
-			<text id="svg02NumberJapan" transform="matrix(0.9 0 0 1 224.2483 350.7095)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="20px" letter-spacing="1.11">15.6%</text>
+		<g id="svg02TextJapan">
+			
+				<text transform="matrix(0.9 0 0 1 235.5794 325.2438)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="18px" letter-spacing="1.11">日本</text>
+		</g>
+		<g id="svg02NumberJapan">
+			
+				<text transform="matrix(0.9 0 0 1 224.2483 350.7095)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="20px" letter-spacing="1.11">15.6%</text>
+		</g>
 	</g>
 	<g>
 		<circle id="svg02BubbleChina" fill="#E74631" cx="142.13" cy="268.09" r="66.44"/>
-		
-			<text id="svg02TextChina" transform="matrix(0.9 0 0 1 120.5281 252.7435)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="1.11">中國</text>
-		
-			<text id="svg02NumberChina" transform="matrix(0.9 0 0 1 94.1499 288.7542)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="32.9176px" letter-spacing="2.22">40.1%</text>
+		<g id="svg02TextChina">
+			
+				<text transform="matrix(0.9 0 0 1 120.5281 252.7435)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="1.11">中國</text>
+		</g>
+		<g id="svg02NumberChina">
+			
+				<text transform="matrix(0.9 0 0 1 94.1499 288.7542)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="32.9176px" letter-spacing="2.22">40.1%</text>
+		</g>
 	</g>
 	<g>
 		<circle id="svg02BubbleHongKongAndMacao" fill="#E74631" cx="150.16" cy="386.23" r="41"/>
-		
-			<text id="svg02TextHongKongAndMacao" transform="matrix(0.9 0 0 1 134.2262 376.9279)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1.11">港澳</text>
-		
-			<text id="svg02NumberHongKongAndMacao" transform="matrix(0.9 0 0 1 126.7084 398.8969)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="18px" letter-spacing="1.11">14.5%</text>
+		<g id="svg02TextHongKongAndMacao">
+			
+				<text transform="matrix(0.9 0 0 1 134.2262 376.9279)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1.11">港澳</text>
+		</g>
+		<g id="svg02NumberHongKongAndMacao">
+			
+				<text transform="matrix(0.9 0 0 1 126.7084 398.8969)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="18px" letter-spacing="1.11">14.5%</text>
+		</g>
 	</g>
 	<g id="svg02PeopleSoutheastAsia" opacity="0">
 		<polygon id="XMLID_1737_" fill="#E74631" points="169.23,241.66 171.94,239.92 173.09,241.04 171.15,244.53 170.06,245.88 

@@ -150,6 +150,9 @@ $(document).ready(function() {
 
       $svg02TextHongKongAndMacao = $('#svg02TextHongKongAndMacao'),
       $svg02NumberHongKongAndMacao = $('#svg02NumberHongKongAndMacao'),
+      $svg02InnerNumberHongKongAndMacao = $('#svg02NumberHongKongAndMacao text'),
+
+
       $svg02LineHongKongAndMacao = $('#svg02LineHongKongAndMacao'),
       $svg02BubbleHongKongAndMacao = $('#svg02BubbleHongKongAndMacao'),
       $svg02PeopleHongKongAndMacao = $('#svg02PeopleHongKongAndMacao'),
@@ -158,6 +161,9 @@ $(document).ready(function() {
 
       $svg02TextChina = $('#svg02TextChina'),
       $svg02NumberChina = $('#svg02NumberChina'),
+      $svg02InnerNumberChina = $('#svg02NumberChina text'),
+
+
       $svg02LineChina = $('#svg02LineChina'),
       $svg02BubbleChina = $('#svg02BubbleChina'),
       $svg02PeopleChina = $('#svg02PeopleChina'),
@@ -165,6 +171,9 @@ $(document).ready(function() {
 
       $svg02TextJapan = $('#svg02TextJapan'),
       $svg02NumberJapan = $('#svg02NumberJapan'),
+      $svg02InnerNumberJapan = $('#svg02NumberJapan text'),
+
+
       $svg02LineJapan = $('#svg02LineJapan'),
       $svg02BubbleJapan = $('#svg02BubbleJapan'),
       $svg02PeopleJapan = $('#svg02PeopleJapan'),
@@ -172,6 +181,9 @@ $(document).ready(function() {
 
       $svg02TextSoutheastAsia = $('#svg02TextSoutheastAsia'),
       $svg02NumberSoutheastAsia = $('#svg02NumberSoutheastAsia'),
+      $svg02InnerNumberSoutheastAsia = $('#svg02NumberSoutheastAsia text'),
+
+
       $svg02LineSoutheastAsia = $('#svg02LineSoutheastAsia'),
       $svg02BubbleSoutheastAsia = $('#svg02BubbleSoutheastAsia'),
       $svg02PeopleSoutheastAsia = $('#svg02PeopleSoutheastAsia'),
@@ -804,7 +816,7 @@ $(document).ready(function() {
              .from($svg02FlagHongKong, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 3.1)
              .from($svg02FlagMacao, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 3.2)
 
-             .call(animateNumberIncreasing, [$svg02NumberHongKongAndMacao, 14.5, 1, 'percent']) //14.5 %
+             .call(animateNumberIncreasing, [$svg02InnerNumberHongKongAndMacao, 14.5, 1, 'percent']) //14.5 %
 
              .from($svg02NumberHongKongAndMacao, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 3.5)
     //---------------------------中國
@@ -816,7 +828,7 @@ $(document).ready(function() {
              .from($svg02TextChina, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 3.5)
              .from($svg02FlagChina, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 3.6)
 
-             .call(animateNumberIncreasing, [$svg02NumberChina, 40.1, 1, 'percent']) //40.1 %
+             .call(animateNumberIncreasing, [$svg02InnerNumberChina, 40.1, 1, 'percent']) //40.1 %
 
              .from($svg02NumberChina, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 3.9)
     //---------------------------日本
@@ -828,7 +840,7 @@ $(document).ready(function() {
              .from($svg02TextJapan, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 4)
              .from($svg02FlagJapan, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 4.1)
 
-             .call(animateNumberIncreasing, [$svg02NumberJapan, 15.6, 1, 'percent']) //15.6 %
+             .call(animateNumberIncreasing, [$svg02InnerNumberJapan, 15.6, 1, 'percent']) //15.6 %
 
              .from($svg02NumberJapan, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 4.4)
     //---------------------------東南亞
@@ -844,7 +856,7 @@ $(document).ready(function() {
              .from($svg02FlagPhilippines, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 4.9)
              .from($svg02FlagVietnam, 0.4, { scale: 0, transformOrigin: '50% 50%', ease: Back.easeOut.config(1.7) }, 5)
 
-             .call(animateNumberIncreasing, [$svg02NumberSoutheastAsia, 13.7, 1, 'percent']) //13.7 %
+             .call(animateNumberIncreasing, [$svg02InnerNumberSoutheastAsia, 13.7, 1, 'percent']) //13.7 %
 
              .from($svg02NumberSoutheastAsia, 0.4, { scale: 0, transformOrigin: '50% 50%' }, 5.3)
 
