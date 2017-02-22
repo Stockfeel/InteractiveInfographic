@@ -1059,25 +1059,35 @@
 	</g>
 </g>
 <g>
-	
-		<text id="svg05Floor05LeftNumber" transform="matrix(1 0 0 1 23.0188 231.7443)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$47.58</text>
-	
-		<text id="svg05Floor04LeftNumber" transform="matrix(1 0 0 1 49.4102 292.9279)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$30.75</text>
-	
-		<text id="svg05Floor03LeftNumber" transform="matrix(1 0 0 1 44.1406 353.8528)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$34.79</text>
-	
-		<text id="svg05Floor02LeftNumber" transform="matrix(1 0 0 1 44.1406 414.3518)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$8.17</text>
-	
-		<text id="svg05Floor01LeftNumber" transform="matrix(1 0 0 1 20.52 475.7028)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
-	
-		<text id="svg05Floor05RightNumber" transform="matrix(1 0 0 1 317.9453 231.7051)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
-	
-		<text id="svg05Floor04RightNumber" transform="matrix(1 0 0 1 293.6589 292.9282)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$2.01</text>
-	
-		<text id="svg05Floor02RightNumber" transform="matrix(1 0 0 1 304.1709 414.3526)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$7.33</text>
-	
-		<text id="svg05Floor01RightNumber" transform="matrix(1 0 0 1 295.4144 475.7027)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$1.91</text>
-	
-		<text id="svg05Floor03RightNumber" transform="matrix(1 0 0 1 302.417 353.8928)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$38.70</text>
+	<g id="svg05Floor05LeftNumber">
+		<text transform="matrix(1 0 0 1 23.0188 231.7443)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$47.58</text>
+	</g>
+	<g id="svg05Floor04LeftNumber">
+		<text transform="matrix(1 0 0 1 49.4102 292.9279)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$30.75</text>
+	</g>
+	<g id="svg05Floor03LeftNumber">
+		<text transform="matrix(1 0 0 1 44.1406 353.8528)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$34.79</text>
+	</g>
+	<g id="svg05Floor02LeftNumber">
+		<text transform="matrix(1 0 0 1 44.1406 414.3518)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$8.17</text>
+	</g>
+	<g id="svg05Floor01LeftNumber">
+		<text transform="matrix(1 0 0 1 20.52 475.7028)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
+	</g>
+	<g id="svg05Floor05RightNumber">
+		<text transform="matrix(1 0 0 1 317.9453 231.7051)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
+	</g>
+	<g id="svg05Floor04RightNumber">
+		<text transform="matrix(1 0 0 1 293.6589 292.9282)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$2.01</text>
+	</g>
+	<g id="svg05Floor02RightNumber">
+		<text transform="matrix(1 0 0 1 304.1709 414.3526)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$7.33</text>
+	</g>
+	<g id="svg05Floor01RightNumber">
+		<text transform="matrix(1 0 0 1 295.4144 475.7027)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$1.91</text>
+	</g>
+	<g id="svg05Floor03RightNumber">
+		<text transform="matrix(1 0 0 1 302.417 353.8928)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$38.70</text>
+	</g>
 </g>
 </svg>
