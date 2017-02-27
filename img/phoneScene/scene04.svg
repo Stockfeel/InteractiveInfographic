@@ -532,7 +532,7 @@
 <g>
 	<rect x="11.1" y="20.19" fill="#FFFFFF" width="352.79" height="38.46"/>
 	<g id="svg04Heading">
-		<text transform="matrix(1 0 0 1 102.8 48.2148)" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">消費習慣的差異</text>
+		<text transform="matrix(1 0 0 1 102.8 48.2148)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22px" letter-spacing="2">消費習慣的差異</text>
 	</g>
 	
 		<line id="svg04bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.5" y1="60.16" x2="367.5" y2="60.16"/>
@@ -540,10 +540,10 @@
 		<line id="svg04topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.5" y1="20.19" x2="367.5" y2="20.19"/>
 </g>
 <g id="svg04subHeading">
-	<text transform="matrix(1 0 0 1 56.5996 81.0786)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">為了找出中日旅客對台灣經濟的影響，</tspan><tspan x="-23.1" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">我們進一步觀察兩國旅客登台後鈔票的流向。</tspan></text>
+	<text transform="matrix(1 0 0 1 56.5996 81.0786)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">為了找出中日旅客對台灣經濟的影響，</tspan><tspan x="-23.1" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">我們進一步觀察兩國旅客登台後鈔票的流向。</tspan></text>
 </g>
 <g id="svg04BottomText">
-	<text transform="matrix(1 0 0 1 95.0996 574.5225)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">攤開兩國旅客花費可發現，</tspan><tspan x="-61.6" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">在「購物費」與「旅館內支出」兩個項目上，</tspan><tspan x="15.4" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">中日旅客的差異明顯。</tspan><tspan x="-30.8" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">讓我們往下探究這個現象為何發生。</tspan></text>
+	<text transform="matrix(1 0 0 1 95.0996 574.5225)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">攤開兩國旅客花費可發現，</tspan><tspan x="-61.6" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">在「購物費」與「旅館內支出」兩個項目上，</tspan><tspan x="15.4" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">中日旅客的差異明顯。</tspan><tspan x="-30.8" y="72" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">讓我們往下探究這個現象為何發生。</tspan></text>
 </g>
 <g id="svg04Plane" opacity="0">
 	<g>
@@ -1247,34 +1247,34 @@
 			<rect id="svg04Floor01LeftBar" x="17.83" y="460.5" fill="#9E9F9F" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="133.19" height="20.68"/>
 	</g>
 	<g id="svg04Floor05LeftNumber">
-		<text transform="matrix(1 0 0 1 15.8076 240.3755)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$120</text>
+		<text transform="matrix(1 0 0 1 15.8076 240.3755)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="16px">$120</text>
 	</g>
 	<g id="svg04Floor04RightNumber">
-		<text transform="matrix(1 0 0 1 298.6406 296.7148)" fill="#E74631" font-family="'Lato-Bold'" font-size="16px">$97</text>
+		<text transform="matrix(1 0 0 1 298.6406 296.7148)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="16px">$97</text>
 	</g>
 	<g id="svg04Floor05RightNumber">
-		<text transform="matrix(1 0 0 1 254.6641 240.3755)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$41</text>
+		<text transform="matrix(1 0 0 1 254.6641 240.3755)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$41</text>
 	</g>
 	<g id="svg04Floor04LeftNumber">
-		<text transform="matrix(1 0 0 1 87.9546 296.1104)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$43</text>
+		<text transform="matrix(1 0 0 1 87.9546 296.1104)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$43</text>
 	</g>
 	<g id="svg04Floor03LeftNumber">
-		<text transform="matrix(1 0 0 1 100.0806 351.8584)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$27</text>
+		<text transform="matrix(1 0 0 1 100.0806 351.8584)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$27</text>
 	</g>
 	<g id="svg04Floor02LeftNumber">
-		<text transform="matrix(1 0 0 1 98.4111 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$29</text>
+		<text transform="matrix(1 0 0 1 98.4111 401.5225)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$29</text>
 	</g>
 	<g id="svg04Floor01LeftNumber">
-		<text transform="matrix(1 0 0 1 20.8013 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
+		<text transform="matrix(1 0 0 1 20.8013 476.1777)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="16px">$227</text>
 	</g>
 	<g id="svg04Floor01RightNumber">
-		<text transform="matrix(1 0 0 1 313.0469 476.1777)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="16px">$227</text>
+		<text transform="matrix(1 0 0 1 313.0469 476.1777)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="16px">$227</text>
 	</g>
 	<g id="svg04Floor03RightNumber">
-		<text transform="matrix(1 0 0 1 252.1641 351.8389)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$39</text>
+		<text transform="matrix(1 0 0 1 252.1641 351.8389)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$39</text>
 	</g>
 	<g id="svg04Floor02RightNumber">
-		<text transform="matrix(1 0 0 1 249.9922 401.5225)" fill="#595757" font-family="'Lato-Bold'" font-size="16px">$35</text>
+		<text transform="matrix(1 0 0 1 249.9922 401.5225)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="16px">$35</text>
 	</g>
 </g>
 <g>
@@ -1293,7 +1293,7 @@
 		<polygon fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
 			231.45,260.63 142.12,260.63 141.31,256.6 232.37,256.6 		"/>
 		
-			<text transform="matrix(0.9 0 0 1 152.85 279.2129)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">旅館內支出</text>
+			<text transform="matrix(0.9 0 0 1 152.85 279.2129)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">旅館內支出</text>
 		<g>
 			<path id="XMLID_3454_" fill="#222222" d="M199.22,298.37c-0.01-0.02-0.02-0.04-0.03-0.06l-3.32-5.73
 				c0.01-0.03,0.01-0.06,0.01-0.09v-3.23c0-0.19-0.17-0.35-0.39-0.35h-2.13c-0.68-1.97-3.89-2.72-5.84-2.72s-5.15,0.74-5.84,2.72
@@ -1331,7 +1331,7 @@
 		<polygon fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
 			231.45,316.01 142.12,316.01 141.31,311.98 232.37,311.98 		"/>
 		
-			<text transform="matrix(0.9 0 0 1 152.85 335.1328)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">旅館外餐飲</text>
+			<text transform="matrix(0.9 0 0 1 152.85 335.1328)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">旅館外餐飲</text>
 		<g>
 			<path id="XMLID_3467_" fill="#222222" d="M185.65,340.61c-0.21,0-0.38,0.15-0.38,0.35v2.78c0,0.77-0.6,1.41-1.4,1.57v-4.35
 				c0-0.19-0.17-0.35-0.38-0.35s-0.38,0.15-0.38,0.35v4.35c-0.8-0.16-1.4-0.8-1.4-1.57v-2.78c0-0.19-0.17-0.35-0.38-0.35
@@ -1355,7 +1355,7 @@
 		<polygon fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
 			231.45,369.24 142.12,369.24 141.31,365.22 232.37,365.22 		"/>
 		
-			<text transform="matrix(0.9 0 0 1 159.7799 388.3145)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">境內交通</text>
+			<text transform="matrix(0.9 0 0 1 159.7799 388.3145)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">境內交通</text>
 		<g>
 			<ellipse id="XMLID_3474_" fill="#222222" cx="198.84" cy="406.73" rx="0.76" ry="0.69"/>
 			<ellipse id="XMLID_3475_" fill="#222222" cx="178.16" cy="406.73" rx="0.76" ry="0.69"/>
@@ -1444,7 +1444,7 @@
 		<polygon fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
 			231.45,205.25 142.12,205.25 141.31,201.23 232.37,201.23 		"/>
 		
-			<text transform="matrix(0.9 0 0 1 166.7101 224.4219)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">購物費</text>
+			<text transform="matrix(0.9 0 0 1 166.7101 224.4219)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">購物費</text>
 		<g>
 			<path id="XMLID_3492_" fill="#222222" d="M197.74,231.74h-20.42c-1.58,0-2.87,1.16-2.87,2.59v0.61v3.44v6.37
 				c0,1.43,1.29,2.59,2.87,2.59h20.42c1.58,0,2.87-1.16,2.87-2.59v-6.37v-3.44v-0.61C200.61,232.91,199.32,231.74,197.74,231.74z
@@ -1507,7 +1507,7 @@
 		
 			<ellipse id="XMLID_491_" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" cx="187.5" cy="426.14" rx="13.7" ry="11.54"/>
 		
-			<text transform="matrix(0.9 0 0 1 159.7802 460.5068)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">總計占比</text>
+			<text transform="matrix(0.9 0 0 1 159.7802 460.5068)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">總計占比</text>
 		<g>
 			<path fill="none" stroke="#222222" stroke-width="0.75" stroke-miterlimit="10" d="M193.04,488.69h-12.97
 				c-2.15,0-3.91-1.76-3.91-3.91v-14.02c0-2.15,1.76-3.91,3.91-3.91h12.97c2.15,0,3.91,1.76,3.91,3.91v14.02
@@ -1562,13 +1562,13 @@
 		
 			<rect x="131.72" y="168.74" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" width="110.01" height="23.02"/>
 		
-			<text id="XMLID_3811_" transform="matrix(0.9 0 0 1 145.9199 185.6191)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">來台旅客費用</text>
+			<text id="XMLID_3811_" transform="matrix(0.9 0 0 1 145.9199 185.6191)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">來台旅客費用</text>
 	</g>
 	<g id="svg04BannerChina">
 		
 			<rect x="37.4" y="152.4" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" width="74.62" height="29.27"/>
 		
-			<text id="XMLID_3812_" transform="matrix(0.9 0 0 1 45.4214 172.4102)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">中國</text>
+			<text id="XMLID_3812_" transform="matrix(0.9 0 0 1 45.4214 172.4102)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">中國</text>
 		<g>
 			<rect x="78.57" y="157.61" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="28.29" height="18.86"/>
 			<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" d="M92.72,167.04"/>
@@ -1593,8 +1593,8 @@
 			<circle id="XMLID_3818_" fill="#E50012" cx="284.01" cy="167.01" r="4.51"/>
 		</g>
 		
-			<text id="XMLID_3819_" transform="matrix(0.9 0 0 1 303.0664 172.4102)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1.11">日本</text>
+			<text id="XMLID_3819_" transform="matrix(0.9 0 0 1 303.0664 172.4102)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1.11">日本</text>
 	</g>
 </g>
-<text id="svg04LittleText" transform="matrix(1 0 0 1 115.8516 536.5293)" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px">單位：每人 / 每日消費美金</text>
+<text id="svg04LittleText" transform="matrix(1 0 0 1 115.8516 536.5293)" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px">單位：每人 / 每日消費美金</text>
 </svg>

@@ -137,7 +137,7 @@
 			<rect x="120.4" y="225.96" transform="matrix(-1 -3.235158e-11 3.235158e-11 -1 382.5118 481.4538)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.72" height="29.53"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 137.3291 246.4473)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">服飾或相關配件</text>
+				<text transform="matrix(1 0 0 1 137.3291 246.4473)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">服飾或相關配件</text>
 		</g>
 		
 			<rect x="120.59" y="253.41" transform="matrix(-1 -3.224588e-11 3.224588e-11 -1 382.5823 508.9044)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.39" height="2.08"/>
@@ -246,7 +246,7 @@
 			<rect x="120.56" y="314.24" transform="matrix(-1 -3.226498e-11 3.226498e-11 -1 382.5118 630.5608)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.39" height="2.08"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 144.9941 306.8591)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">珠寶或玉器類</text>
+				<text transform="matrix(1 0 0 1 144.9941 306.8591)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">珠寶或玉器類</text>
 		</g>
 	</g>
 </g>
@@ -365,7 +365,7 @@
 			<rect x="120.56" y="375.51" transform="matrix(-1 -3.223922e-11 3.223922e-11 -1 382.5118 753.1072)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.39" height="2.08"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 152.6943 367.5523)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">名產或特產</text>
+				<text transform="matrix(1 0 0 1 152.6943 367.5523)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">名產或特產</text>
 		</g>
 	</g>
 </g>
@@ -515,7 +515,7 @@
 			<rect x="120.62" y="436.51" transform="matrix(-1 -3.222590e-11 3.222590e-11 -1 382.5118 875.0954)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.28" height="2.08"/>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 175.7939 430.0159)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">茶葉</text>
+				<text transform="matrix(1 0 0 1 175.7939 430.0159)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">茶葉</text>
 		</g>
 	</g>
 </g>
@@ -631,7 +631,7 @@
 		
 			<rect x="120.67" y="465.99" transform="matrix(-1 -3.225121e-11 3.225121e-11 -1 382.5118 964.6658)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.17" height="32.68"/>
 		<g>
-			<text transform="matrix(1 0 0 1 144.9941 487.937)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">化妝品或香水</text>
+			<text transform="matrix(1 0 0 1 144.9941 487.937)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">化妝品或香水</text>
 		</g>
 		
 			<rect x="120.67" y="497.63" transform="matrix(-1 -3.228985e-11 3.228985e-11 -1 382.5118 997.3455)" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" width="141.17" height="2.08"/>
@@ -995,7 +995,7 @@
 <g>
 	<rect x="10.77" y="20.1" fill="#FFFFFF" width="353.46" height="40.37"/>
 	<g id="svg05Heading">
-		<text transform="matrix(1 0 0 1 7.5452 47.1747)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="20px" letter-spacing="2">中國團客</tspan><tspan x="88" y="0" font-family="'Lato-Bold'" font-size="20px" letter-spacing="2">vs.</tspan><tspan x="117.91" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="20px" letter-spacing="2">日本團客：掃些什麼貨？</tspan></text>
+		<text transform="matrix(1 0 0 1 7.5452 47.1747)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="20px" letter-spacing="2">中國團客</tspan><tspan x="88" y="0" font-family="'Lato'" font-weight='bold' font-size="20px" letter-spacing="2">vs.</tspan><tspan x="117.91" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="20px" letter-spacing="2">日本團客：掃些什麼貨？</tspan></text>
 	</g>
 	
 		<line id="svg05bottomLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.16" y1="60.48" x2="367.84" y2="60.48"/>
@@ -1003,12 +1003,12 @@
 		<line id="svg05topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.16" y1="20.1" x2="367.84" y2="20.1"/>
 </g>
 <g id="svg05BottomText">
-	<text transform="matrix(1 0 0 1 41.2 550.9964)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">發現名產或特產類的商品中日旅客皆愛買，</tspan><tspan x="15.4" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">看來美食寶島的名號果真是名不虛傳。</tspan><tspan x="23.1" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">而日客對非必買性質的商品不買單，</tspan><tspan x="26.72" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">推測是由於2015年日幣持續走弱，</tspan><tspan x="30.8" y="96" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">降低了日客海外高額消費的意願。</tspan></text>
+	<text transform="matrix(1 0 0 1 41.2 550.9964)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">發現名產或特產類的商品中日旅客皆愛買，</tspan><tspan x="15.4" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">看來美食寶島的名號果真是名不虛傳。</tspan><tspan x="23.1" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">而日客對非必買性質的商品不買單，</tspan><tspan x="26.72" y="72" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">推測是由於2015年日幣持續走弱，</tspan><tspan x="30.8" y="96" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">降低了日客海外高額消費的意願。</tspan></text>
 </g>
 <g id="svg05subHeading">
-	<text transform="matrix(1 0 0 1 60.2611 85.0788)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">為了進一步追蹤兩國旅客購物的差異，</tspan><tspan x="7.7" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">我們鎖定最具購物潛力的觀光團客，</tspan><tspan x="38.5" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">找出他們到底幫誰加了薪。</tspan></text>
+	<text transform="matrix(1 0 0 1 60.2611 85.0788)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">為了進一步追蹤兩國旅客購物的差異，</tspan><tspan x="7.7" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">我們鎖定最具購物潛力的觀光團客，</tspan><tspan x="38.5" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">找出他們到底幫誰加了薪。</tspan></text>
 </g>
-<text id="svg05LittleText" transform="matrix(1 0 0 1 107.4518 519.6389)" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">單位：每人 / 每日消費美金</text>
+<text id="svg05LittleText" transform="matrix(1 0 0 1 107.4518 519.6389)" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">單位：每人 / 每日消費美金</text>
 <g>
 	<g id="svg05BannerLong">
 		
@@ -1027,12 +1027,12 @@
 			224.75,182.27 		"/>
 		<g id="XMLID_3832_">
 			
-				<text transform="matrix(1 0 0 1 160.8813 172.0066)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">消費項目</text>
+				<text transform="matrix(1 0 0 1 160.8813 172.0066)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">消費項目</text>
 		</g>
 	</g>
 	<g id="svg05BannerChina">
 		
-			<text id="XMLID_3822_" transform="matrix(1 0 0 1 40.3564 170.8425)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">中國</text>
+			<text id="XMLID_3822_" transform="matrix(1 0 0 1 40.3564 170.8425)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">中國</text>
 		<g>
 			<rect x="81.14" y="156.35" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="31.01" height="20.68"/>
 			<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" d="M96.64,166.69"/>
@@ -1055,39 +1055,39 @@
 			<circle id="XMLID_3828_" fill="#E50012" cx="282.39" cy="165.83" r="4.94"/>
 		</g>
 		
-			<text id="XMLID_3829_" transform="matrix(1 0 0 1 310.0596 170.8425)" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">日本</text>
+			<text id="XMLID_3829_" transform="matrix(1 0 0 1 310.0596 170.8425)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">日本</text>
 	</g>
 </g>
 <g>
 	<g id="svg05Floor05LeftNumber">
-		<text transform="matrix(1 0 0 1 23.0188 231.7443)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$47.58</text>
+		<text transform="matrix(1 0 0 1 23.0188 231.7443)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="15px">$47.58</text>
 	</g>
 	<g id="svg05Floor04LeftNumber">
-		<text transform="matrix(1 0 0 1 49.4102 292.9279)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$30.75</text>
+		<text transform="matrix(1 0 0 1 49.4102 292.9279)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$30.75</text>
 	</g>
 	<g id="svg05Floor03LeftNumber">
-		<text transform="matrix(1 0 0 1 44.1406 353.8528)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$34.79</text>
+		<text transform="matrix(1 0 0 1 44.1406 353.8528)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$34.79</text>
 	</g>
 	<g id="svg05Floor02LeftNumber">
-		<text transform="matrix(1 0 0 1 44.1406 414.3518)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$8.17</text>
+		<text transform="matrix(1 0 0 1 44.1406 414.3518)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$8.17</text>
 	</g>
 	<g id="svg05Floor01LeftNumber">
-		<text transform="matrix(1 0 0 1 20.52 475.7028)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
+		<text transform="matrix(1 0 0 1 20.52 475.7028)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$16.57</text>
 	</g>
 	<g id="svg05Floor05RightNumber">
-		<text transform="matrix(1 0 0 1 317.9453 231.7051)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$16.57</text>
+		<text transform="matrix(1 0 0 1 317.9453 231.7051)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$16.57</text>
 	</g>
 	<g id="svg05Floor04RightNumber">
-		<text transform="matrix(1 0 0 1 293.6589 292.9282)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$2.01</text>
+		<text transform="matrix(1 0 0 1 293.6589 292.9282)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$2.01</text>
 	</g>
 	<g id="svg05Floor02RightNumber">
-		<text transform="matrix(1 0 0 1 304.1709 414.3526)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$7.33</text>
+		<text transform="matrix(1 0 0 1 304.1709 414.3526)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$7.33</text>
 	</g>
 	<g id="svg05Floor01RightNumber">
-		<text transform="matrix(1 0 0 1 295.4144 475.7027)" fill="#595757" font-family="'Lato-Bold'" font-size="15px">$1.91</text>
+		<text transform="matrix(1 0 0 1 295.4144 475.7027)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="15px">$1.91</text>
 	</g>
 	<g id="svg05Floor03RightNumber">
-		<text transform="matrix(1 0 0 1 302.417 353.8928)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="15px">$38.70</text>
+		<text transform="matrix(1 0 0 1 302.417 353.8928)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="15px">$38.70</text>
 	</g>
 </g>
 </svg>

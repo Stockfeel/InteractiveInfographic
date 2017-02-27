@@ -1150,10 +1150,10 @@
 		c11.94,1.8,23.32-8.04,28.5-4.59S160.81,189.44,160.81,189.44z"/>
 </g>
 <g id="svg07TextGeneralHotel">
-	<text transform="matrix(1 0 0 1 142.8334 457.8506)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">一般觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
+	<text transform="matrix(1 0 0 1 142.8334 457.8506)"><tspan x="0" y="0" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">一般觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
 </g>
 <g id="svg07TextJapan">
-	<text transform="matrix(1 0 0 1 293.0148 231.8354)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">日本</text>
+	<text transform="matrix(1 0 0 1 293.0148 231.8354)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">日本</text>
 	<g>
 		<rect x="296.77" y="191.49" fill="#FFFFFF" stroke="#231815" stroke-width="0.5368" width="27.69" height="18.46"/>
 		<path fill="#FFFFFF" stroke="#231815" stroke-width="0.5368" d="M310.61,200.72"/>
@@ -1162,7 +1162,7 @@
 </g>
 <g>
 	<g id="svg07Heading">
-		<text transform="matrix(1 0 0 1 114.9002 49.3013)" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">住客國籍統計</text>
+		<text transform="matrix(1 0 0 1 114.9002 49.3013)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22px" letter-spacing="2">住客國籍統計</text>
 	</g>
 	
 		<line id="svg07bottomLine" fill="none" stroke="#0A080C" stroke-width="2.1641" stroke-miterlimit="10" x1="7.02" y1="60.74" x2="367.98" y2="60.74"/>
@@ -1172,7 +1172,7 @@
 <line id="svg07LineChina" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="31" y1="247.97" x2="109" y2="247.97"/>
 <line id="svg07LineJapan" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" x1="271.5" y1="247" x2="349.5" y2="247"/>
 <g id="svg07TextChina">
-	<text transform="matrix(1 0 0 1 52.401 229.583)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">中國</text>
+	<text transform="matrix(1 0 0 1 52.401 229.583)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">中國</text>
 	<g>
 		<rect x="56.15" y="191.49" fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" width="27.69" height="18.46"/>
 		<path fill="#EC1C2E" stroke="#000000" stroke-width="0.0321" d="M70,200.72"/>
@@ -1189,37 +1189,37 @@
 	</g>
 </g>
 <g id="svg07subHeading">
-	<text transform="matrix(1 0 0 1 10.4001 574.5231)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">比較發現，日本旅客在追求舒適的睡眠上毫不手軟，</tspan><tspan x="30.8" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">陸客則寧願拿這些錢當作額外的血拚銀彈。</tspan><tspan x="115.5" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">進一步往下追蹤，</tspan><tspan x="69.3" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">找出兩國旅客最愛的五大酒店。</tspan></text>
+	<text transform="matrix(1 0 0 1 10.4001 574.5231)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">比較發現，日本旅客在追求舒適的睡眠上毫不手軟，</tspan><tspan x="30.8" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">陸客則寧願拿這些錢當作額外的血拚銀彈。</tspan><tspan x="115.5" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">進一步往下追蹤，</tspan><tspan x="69.3" y="72" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">找出兩國旅客最愛的五大酒店。</tspan></text>
 </g>
 <g id="svg07TextTourist">
 	
-		<text transform="matrix(1 0 0 1 151.6332 314.8398)" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">來台旅客數</text>
+		<text transform="matrix(1 0 0 1 151.6332 314.8398)" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">來台旅客數</text>
 </g>
 <g id="svg07TextInternationalHotel">
-	<text transform="matrix(1 0 0 1 142.8334 377.6064)"><tspan x="0" y="0" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">國際觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
+	<text transform="matrix(1 0 0 1 142.8334 377.6064)"><tspan x="0" y="0" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">國際觀光旅館</tspan><tspan x="7.91" y="18" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">旅館接待次數÷</tspan><tspan x="19.6" y="36" fill="#9E9F9F" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">來台旅客數</tspan></text>
 </g>
 <g id="svg07TextInternationalHotelLeft">
-	<text transform="matrix(1 0 0 1 38.7522 385.0259)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">0.4261</text>
+	<text transform="matrix(1 0 0 1 38.7522 385.0259)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px">0.4261</text>
 </g>
 <g id="svg07TextGeneralHotelLeft">
-	<text transform="matrix(1 0 0 1 38.7522 455.73)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">0.1512</text>
+	<text transform="matrix(1 0 0 1 38.7522 455.73)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px">0.1512</text>
 </g>
 <g id="svg07TextInternationalHotelRight">
-	<text transform="matrix(1 0 0 1 285.0706 387.0681)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">0.88</text>
+	<text transform="matrix(1 0 0 1 285.0706 387.0681)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">0.88</text>
 </g>
 <g id="svg07TextGeneralHotelRight">
-	<text transform="matrix(1 0 0 1 269.991 455.73)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">0.2237</text>
+	<text transform="matrix(1 0 0 1 269.991 455.73)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">0.2237</text>
 </g>
 <g id="svg07TextTouristLeft">
-	<text transform="matrix(1 0 0 1 34.4077 304.3889)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">41 8.4</text>
+	<text transform="matrix(1 0 0 1 34.4077 304.3889)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">41 8.4</text>
 </g>
 <g id="svg07TextTouristRight">
-	<text transform="matrix(1 0 0 1 285.1658 304.3889)" fill="#595757" font-family="'Lato-Bold'" font-size="20px">162.7</text>
+	<text transform="matrix(1 0 0 1 285.1658 304.3889)" fill="#595757" font-family="'Lato'" font-weight='bold' font-size="20px">162.7</text>
 </g>
 <g id="svg07TextLittleLeft">
-	<text transform="matrix(1 0 0 1 46.0012 326.9902)" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</text>
+	<text transform="matrix(1 0 0 1 46.0012 326.9902)" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px">萬人次</text>
 </g>
 <g id="svg07TextLittleRight">
-	<text transform="matrix(1 0 0 1 286.6148 326.9902)" fill="#3E3A39" font-family="'MicrosoftJhengHeiBold'" font-size="16px">萬人次</text>
+	<text transform="matrix(1 0 0 1 286.6148 326.9902)" fill="#3E3A39" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px">萬人次</text>
 </g>
 </svg>

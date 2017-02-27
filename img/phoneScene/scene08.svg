@@ -9,7 +9,7 @@
 	
 		<line id="svg08topLine" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="6.11" y1="20.29" x2="367.08" y2="20.29"/>
 	<g id="svg08Heading">
-		<text transform="matrix(1 0 0 1 114.2983 48.3525)" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">聚焦觀光旅館</text>
+		<text transform="matrix(1 0 0 1 114.2983 48.3525)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22px" letter-spacing="2">聚焦觀光旅館</text>
 	</g>
 </g>
 <g id="svg08ButtonChina">
@@ -36,7 +36,7 @@
 	</g>
 	<g id="svg08TextChinaLeft">
 		
-			<text transform="matrix(1 0 0 1 55.4336 103.9697)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">中國旅客最愛</text>
+			<text transform="matrix(1 0 0 1 55.4336 103.9697)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">中國旅客最愛</text>
 	</g>
 </g>
 <g id="svg08ButtonJapan">
@@ -54,7 +54,7 @@
 			<ellipse transform="matrix(0.927 -0.3752 0.3752 0.927 -19.1453 91.6025)" fill="#E50012" cx="225.67" cy="94.97" rx="3.91" ry="3.91"/>
 	</g>
 	<g id="svg08TextJapanRight">
-		<text transform="matrix(1 0 0 1 244.0596 103.9697)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">日本旅客最愛</text>
+		<text transform="matrix(1 0 0 1 244.0596 103.9697)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">日本旅客最愛</text>
 	</g>
 </g>
 <g id="svg08Taiwan">
@@ -72,25 +72,25 @@
 	
 		<circle fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" cx="88.94" cy="189.57" r="25"/>
 	
-		<text transform="matrix(1 0 0 1 75.8652 193.9737)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="-1">台北</text>
+		<text transform="matrix(1 0 0 1 75.8652 193.9737)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="-1">台北</text>
 </g>
 <g id="svg08BrownTaoyuan">
 	
 		<circle fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" cx="52.38" cy="213.88" r="25"/>
 	
-		<text transform="matrix(1 0 0 1 32.8477 218.2862)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="-1">桃竹苗</text>
+		<text transform="matrix(1 0 0 1 32.8477 218.2862)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="-1">桃竹苗</text>
 </g>
 <g id="svg08BrownKaohsiung">
 	
 		<circle fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" cx="53.36" cy="331.01" r="25"/>
 	
-		<text transform="matrix(1 0 0 1 40.3018 335.4107)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="-1">高雄</text>
+		<text transform="matrix(1 0 0 1 40.3018 335.4107)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="-1">高雄</text>
 </g>
 <g id="svg08BrownTaitung">
 	
 		<circle fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" cx="94.8" cy="291.33" r="25"/>
 	
-		<text transform="matrix(1 0 0 1 81.7109 295.7271)" fill="#FFFFFF" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="-1">台東</text>
+		<text transform="matrix(1 0 0 1 81.7109 295.7271)" fill="#FFFFFF" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="-1">台東</text>
 </g>
 <g id="svg08PeopleLeft">
 	<path id="XMLID_143_" fill="#FFFFFF" d="M68.78,348.39l-4.75,0.64l-6.49,1.18l-0.62,1.9l-3.61,4.82l0.81,1.19l0.26,7.46l3.7,3.87
@@ -174,7 +174,7 @@
 		48.78,412.96 51.38,409.47 47.13,402.71 44.21,407.84 	"/>
 </g>
 <g id="svg08BottomText">
-	<text transform="matrix(1 0 0 1 56.5999 504.4053)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">日客的酒店愛好排名與去年幾無二致，</tspan><tspan x="46.2" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">僅三德與晶華名次對調。</tspan><tspan x="53.9" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">酒店集中於台北地區，</tspan><tspan x="-30.8" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">大多是具有商務色彩且價位較高的精品型酒店。</tspan><tspan x="0" y="96" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">而陸客偏愛的酒店排名有較大的變化。</tspan><tspan x="-30.8" y="120" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">酒店位置分散各地，較多觀光景點導向的酒店，</tspan><tspan x="-43.37" y="144" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">陸客超過8成的觀光比例在此便留下了清晰的足跡。</tspan></text>
+	<text transform="matrix(1 0 0 1 56.5999 504.4053)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">日客的酒店愛好排名與去年幾無二致，</tspan><tspan x="46.2" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">僅三德與晶華名次對調。</tspan><tspan x="53.9" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">酒店集中於台北地區，</tspan><tspan x="-30.8" y="72" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">大多是具有商務色彩且價位較高的精品型酒店。</tspan><tspan x="0" y="96" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">而陸客偏愛的酒店排名有較大的變化。</tspan><tspan x="-30.8" y="120" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">酒店位置分散各地，較多觀光景點導向的酒店，</tspan><tspan x="-43.37" y="144" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">陸客超過8成的觀光比例在此便留下了清晰的足跡。</tspan></text>
 </g>
 <g>
 	<g id="svg08BrownTaipeiTooltipChina">
@@ -476,28 +476,28 @@ GABKOJEYwymWlgAAAABJRU5ErkJggg==" transform="matrix(0.2576 0 0 0.2576 157.8166 2
 			c-0.12,0.09-0.2,0.14-0.35,0.02c-2.02-1.56-4.06-3.09-5.96-4.8c-1.38-1.24-2.66-2.58-3.67-4.15c-0.83-1.29-1.48-2.66-1.62-4.2
 			c-0.23-2.46,0.68-4.4,2.81-5.7c2.44-1.49,5.65-1.04,7.58,1.06c0.33,0.36,0.58,0.8,0.87,1.21
 			C340.77,236.75,340.81,236.83,340.85,236.9z"/>
-		<text transform="matrix(1 0 0 1 193.0225 242.7725)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">神旺大飯店</text>
+		<text transform="matrix(1 0 0 1 193.0225 242.7725)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">神旺大飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 193.0234 261.0625)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12.2399px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 193.0234 261.0625)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12.2399px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 193.0225 182.8213)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">圓山大飯店</text>
+		<text transform="matrix(1 0 0 1 193.0225 182.8213)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">圓山大飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 193.0234 200.709)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12.2399px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 193.0234 200.709)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12.2399px" letter-spacing="1">平均房價</text>
 		</g>
 		
-			<text id="XMLID_203_" transform="matrix(1 0 0 1 336.6855 249.042)" opacity="0.88" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">3</text>
+			<text id="XMLID_203_" transform="matrix(1 0 0 1 336.6855 249.042)" opacity="0.88" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">3</text>
 		
-			<text id="XMLID_202_" transform="matrix(1 0 0 1 336.6855 190.3242)" opacity="0.88" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">4</text>
+			<text id="XMLID_202_" transform="matrix(1 0 0 1 336.6855 190.3242)" opacity="0.88" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">4</text>
 		
-			<text transform="matrix(1 0 0 1 288.958 200.709)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 288.958 200.709)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">NTD</text>
 		
-			<text transform="matrix(1 0 0 1 288.958 261.0625)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 288.958 261.0625)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">NTD</text>
 		
-			<text id="svg08NumberChina4" transform="matrix(1 0 0 1 249.9688 200.71)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">4,259</text>
+			<text id="svg08NumberChina4" transform="matrix(1 0 0 1 249.9688 200.71)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">4,259</text>
 		
-			<text id="svg08NumberChina3" transform="matrix(1 0 0 1 249.9688 261.0625)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">3,068</text>
+			<text id="svg08NumberChina3" transform="matrix(1 0 0 1 249.9688 261.0625)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">3,068</text>
 	</g>
 	<g id="svg08BrownTaoyuanTooltip">
 		<path opacity="0.88" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -723,17 +723,17 @@ GABKOJEYwymWlgAAAABJRU5ErkJggg==" transform="matrix(0.2576 0 0 0.2576 157.8166 2
 			c-0.4,1.81-1.35,3.34-2.48,4.76c-1.3,1.63-2.86,3.01-4.48,4.32c-1.36,1.1-2.75,2.16-4.13,3.24c-0.12,0.09-0.2,0.14-0.35,0.02
 			c-2.02-1.56-4.06-3.09-5.96-4.8c-1.38-1.24-2.66-2.58-3.67-4.15c-0.83-1.29-1.48-2.66-1.62-4.2c-0.23-2.46,0.68-4.4,2.81-5.7
 			c2.44-1.49,5.65-1.04,7.58,1.06c0.33,0.36,0.58,0.8,0.87,1.21C340.77,303.62,340.81,303.71,340.85,303.78z"/>
-		<text transform="matrix(1 0 0 1 193.0225 306.4985)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">晶悅國際飯店</text>
+		<text transform="matrix(1 0 0 1 193.0225 306.4985)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">晶悅國際飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 193.0234 326.4077)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12.2399px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 193.0234 326.4077)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12.2399px" letter-spacing="1">平均房價</text>
 		</g>
 		
-			<text id="XMLID_167_" transform="matrix(1 0 0 1 336.6855 315.2446)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">1</text>
+			<text id="XMLID_167_" transform="matrix(1 0 0 1 336.6855 315.2446)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">1</text>
 		
-			<text transform="matrix(1 0 0 1 288.958 326.4067)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 288.958 326.4067)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">NTD</text>
 		
-			<text id="svg08NumberChina1" transform="matrix(1 0 0 1 249.9678 326.4067)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">1,644</text>
+			<text id="svg08NumberChina1" transform="matrix(1 0 0 1 249.9678 326.4067)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">1,644</text>
 	</g>
 	<g id="svg08BrownTaitungTooltip">
 		<path opacity="0.88" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -789,17 +789,17 @@ GABKOJEYwymWlgAAAABJRU5ErkJggg==" transform="matrix(0.2576 0 0 0.2576 157.8166 2
 			c-0.12,0.09-0.2,0.14-0.35,0.02c-2.02-1.56-4.06-3.09-5.96-4.8c-1.38-1.24-2.66-2.58-3.67-4.15c-0.83-1.29-1.48-2.66-1.62-4.2
 			c-0.23-2.46,0.68-4.4,2.81-5.7c2.44-1.49,5.65-1.04,7.58,1.06c0.33,0.36,0.58,0.8,0.87,1.21
 			C340.77,368.31,340.81,368.4,340.85,368.47z"/>
-		<text transform="matrix(1 0 0 1 193.0225 370.9717)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">娜路彎大酒店</text>
+		<text transform="matrix(1 0 0 1 193.0225 370.9717)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">娜路彎大酒店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 193.0234 388.7451)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12.2399px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 193.0234 388.7451)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12.2399px" letter-spacing="1">平均房價</text>
 		</g>
 		
-			<text id="XMLID_149_" transform="matrix(1 0 0 1 336.6855 379.6621)" opacity="0.88" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">2</text>
+			<text id="XMLID_149_" transform="matrix(1 0 0 1 336.6855 379.6621)" opacity="0.88" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">2</text>
 		
-			<text transform="matrix(1 0 0 1 288.958 388.7451)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 288.958 388.7451)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">NTD</text>
 		
-			<text id="svg08NumberChina2" transform="matrix(1 0 0 1 249.9678 388.7451)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">3,704</text>
+			<text id="svg08NumberChina2" transform="matrix(1 0 0 1 249.9678 388.7451)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">3,704</text>
 	</g>
 	<g id="svg08BrownKaohsiungTooltip">
 		<path opacity="0.88" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -839,17 +839,17 @@ GABKOJEYwymWlgAAAABJRU5ErkJggg==" transform="matrix(0.2576 0 0 0.2576 157.8166 2
 			c-0.12,0.09-0.2,0.14-0.35,0.02c-2.02-1.56-4.06-3.09-5.96-4.8c-1.38-1.24-2.66-2.58-3.67-4.15c-0.83-1.29-1.48-2.66-1.62-4.2
 			c-0.23-2.46,0.68-4.4,2.81-5.7c2.44-1.49,5.65-1.04,7.58,1.06c0.33,0.36,0.58,0.8,0.87,1.21
 			C340.77,428.07,340.81,428.15,340.85,428.22z"/>
-		<text transform="matrix(1 0 0 1 193.0234 433.5303)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">高雄國賓大酒店</text>
+		<text transform="matrix(1 0 0 1 193.0234 433.5303)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">高雄國賓大酒店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 193.0234 451.6738)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12.2399px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 193.0234 451.6738)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12.2399px" letter-spacing="1">平均房價</text>
 		</g>
 		
-			<text id="XMLID_144_" transform="matrix(1 0 0 1 337.1006 440.4688)" opacity="0.88" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">5</text>
+			<text id="XMLID_144_" transform="matrix(1 0 0 1 337.1006 440.4688)" opacity="0.88" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">5</text>
 		
-			<text transform="matrix(1 0 0 1 288.958 451.6738)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 288.958 451.6738)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">NTD</text>
 		
-			<text id="svg08NumberChina5" transform="matrix(1 0 0 1 249.9688 452.3779)" fill="#888888" font-family="'Lato-Bold'" font-size="12.2399px" letter-spacing="1">2,169</text>
+			<text id="svg08NumberChina5" transform="matrix(1 0 0 1 249.9688 452.3779)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12.2399px" letter-spacing="1">2,169</text>
 	</g>
 	<path id="svg08LineTaipeiTooltipChina" fill="none" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" d="M145.5,217.24
 		h-6.69c-3.76,0-6.81-3.05-6.81-6.81v-2.61c0-3.76-3.05-6.81-6.81-6.81H99"/>
@@ -1058,57 +1058,57 @@ GABKOJEYwymWlgAAAABJRU5ErkJggg==" transform="matrix(0.2576 0 0 0.2576 157.8166 2
 			c-0.4,1.81-1.35,3.34-2.48,4.76c-1.3,1.63-2.86,3.01-4.48,4.32c-1.36,1.1-2.75,2.16-4.13,3.24c-0.12,0.09-0.2,0.14-0.35,0.02
 			c-2.02-1.56-4.06-3.09-5.96-4.8c-1.38-1.24-2.66-2.58-3.67-4.15c-0.83-1.29-1.48-2.66-1.62-4.2c-0.23-2.46,0.68-4.4,2.81-5.7
 			c2.44-1.49,5.65-1.04,7.58,1.06c0.33,0.36,0.58,0.8,0.87,1.21C341.86,428.4,341.9,428.49,341.94,428.56z"/>
-		<text transform="matrix(1 0 0 1 198.2715 184.9487)" font-family="'MicrosoftJhengHeiBold'" font-size="17px" letter-spacing="1">台北凱薩飯店</text>
+		<text transform="matrix(1 0 0 1 198.2715 184.9487)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px" letter-spacing="1">台北凱薩飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 198.2715 202.3413)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 198.2715 202.3413)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 198.2715 245.9917)" font-family="'MicrosoftJhengHeiBold'" font-size="17px" letter-spacing="1">國賓大飯店</text>
+		<text transform="matrix(1 0 0 1 198.2715 245.9917)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px" letter-spacing="1">國賓大飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 198.2715 263.5469)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 198.2715 263.5469)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 198.2715 368.0762)" font-family="'MicrosoftJhengHeiBold'" font-size="17px" letter-spacing="1">晶華酒店</text>
+		<text transform="matrix(1 0 0 1 198.2715 368.0762)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px" letter-spacing="1">晶華酒店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 198.2715 385.958)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 198.2715 385.958)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 198.2715 307.0322)" font-family="'MicrosoftJhengHeiBold'" font-size="17px" letter-spacing="1">三德大飯店</text>
+		<text transform="matrix(1 0 0 1 198.2715 307.0322)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px" letter-spacing="1">三德大飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 198.2715 324.752)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 198.2715 324.752)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 198.2715 429.1182)" font-family="'MicrosoftJhengHeiBold'" font-size="17px" letter-spacing="1">台北華國大飯店</text>
+		<text transform="matrix(1 0 0 1 198.2715 429.1182)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="17px" letter-spacing="1">台北華國大飯店</text>
 		<g>
 			
-				<text transform="matrix(1 0 0 1 198.2715 447.165)" fill="#888888" font-family="'MicrosoftJhengHeiBold'" font-size="12px" letter-spacing="1">平均房價</text>
+				<text transform="matrix(1 0 0 1 198.2715 447.165)" fill="#888888" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="12px" letter-spacing="1">平均房價</text>
 		</g>
-		<text transform="matrix(1 0 0 1 337.8701 248.8091)" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">2</text>
+		<text transform="matrix(1 0 0 1 337.8701 248.8091)" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">2</text>
 		
-			<text transform="matrix(1 0 0 1 337.8701 189.7891)" fill="#FFFFFF" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">1</text>
-		<text transform="matrix(1 0 0 1 337.8701 317.3037)" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">3</text>
-		<text transform="matrix(1 0 0 1 336.8701 380.6533)" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">4</text>
-		<text transform="matrix(1 0 0 1 337.8701 440.79)" font-family="'Lato-Bold'" font-size="14px" letter-spacing="1">5</text>
+			<text transform="matrix(1 0 0 1 337.8701 189.7891)" fill="#FFFFFF" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">1</text>
+		<text transform="matrix(1 0 0 1 337.8701 317.3037)" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">3</text>
+		<text transform="matrix(1 0 0 1 336.8701 380.6533)" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">4</text>
+		<text transform="matrix(1 0 0 1 337.8701 440.79)" font-family="'Lato'" font-weight='bold' font-size="14px" letter-spacing="1">5</text>
 		
-			<text transform="matrix(1 0 0 1 290.4629 202.3413)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 290.4629 202.3413)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">NTD</text>
 		
-			<text transform="matrix(1 0 0 1 290.4629 264.8101)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 290.4629 264.8101)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">NTD</text>
 		
-			<text transform="matrix(1 0 0 1 290.4629 324.5889)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 290.4629 324.5889)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">NTD</text>
 		
-			<text transform="matrix(1 0 0 1 290.4629 385.958)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 290.4629 385.958)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">NTD</text>
 		
-			<text transform="matrix(1 0 0 1 290.4629 447.1641)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">NTD</text>
+			<text transform="matrix(1 0 0 1 290.4629 447.1641)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">NTD</text>
 		
-			<text id="svg08NumberJapan1" transform="matrix(1 0 0 1 251.6924 202.3413)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">3,722</text>
+			<text id="svg08NumberJapan1" transform="matrix(1 0 0 1 251.6924 202.3413)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">3,722</text>
 		
-			<text id="svg08NumberJapan2" transform="matrix(1 0 0 1 251.6924 263.5469)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">3,917</text>
+			<text id="svg08NumberJapan2" transform="matrix(1 0 0 1 251.6924 263.5469)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">3,917</text>
 		
-			<text id="svg08NumberJapan3" transform="matrix(1 0 0 1 252.2891 447.416)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">3,286</text>
+			<text id="svg08NumberJapan3" transform="matrix(1 0 0 1 252.2891 447.416)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">3,286</text>
 		
-			<text id="svg08NumberJapan4" transform="matrix(1 0 0 1 251.6924 386.5537)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">5,732</text>
+			<text id="svg08NumberJapan4" transform="matrix(1 0 0 1 251.6924 386.5537)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">5,732</text>
 		
-			<text id="svg08NumberJapan5" transform="matrix(1 0 0 1 252.2891 324.5889)" fill="#888888" font-family="'Lato-Bold'" font-size="12px" letter-spacing="1">2,660</text>
+			<text id="svg08NumberJapan5" transform="matrix(1 0 0 1 252.2891 324.5889)" fill="#888888" font-family="'Lato'" font-weight='bold' font-size="12px" letter-spacing="1">2,660</text>
 	</g>
 </g>
 </svg>

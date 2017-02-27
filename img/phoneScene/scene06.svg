@@ -5,7 +5,7 @@
 <g>
 	<rect x="10.63" y="19.82" fill="#FFFFFF" width="353.74" height="39.95"/>
 	<g id="svg06Heading01">
-		<text transform="matrix(1 0 0 1 37.9495 46.7075)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">中國</tspan><tspan x="48.4" y="0" font-family="'Lato-Bold'" font-size="22px" letter-spacing="2">vs.</tspan><tspan x="81.3" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="22px" letter-spacing="2">日本：喜歡住哪裡？</tspan></text>
+		<text transform="matrix(1 0 0 1 37.9495 46.7075)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22px" letter-spacing="2">中國</tspan><tspan x="48.4" y="0" font-family="'Lato'" font-weight='bold' font-size="22px" letter-spacing="2">vs.</tspan><tspan x="81.3" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="22px" letter-spacing="2">日本：喜歡住哪裡？</tspan></text>
 	</g>
 	
 		<line id="svg06bottomLine01" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="59.5" x2="367.98" y2="59.5"/>
@@ -13,10 +13,10 @@
 		<line id="svg06topLine01" fill="none" stroke="#0A080C" stroke-width="2" stroke-miterlimit="10" x1="7.02" y1="19.55" x2="367.98" y2="19.55"/>
 </g>
 <g id="svg06subHeading02">
-	<text transform="matrix(1 0 0 1 25.8 622.5228)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">從旅客的角度來看，兩者在房價上有較大差異，</tspan><tspan x="53.9" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">國際觀光旅館的房價約高三成。</tspan></text>
+	<text transform="matrix(1 0 0 1 25.8 622.5228)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">從旅客的角度來看，兩者在房價上有較大差異，</tspan><tspan x="53.9" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">國際觀光旅館的房價約高三成。</tspan></text>
 </g>
 <g id="svg06subHeading01">
-	<text transform="matrix(1 0 0 1 25.8002 85.0789)"><tspan x="0" y="0" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">除了購物費，旅館內支出的差異也是看點十足。</tspan><tspan x="17.44" y="24" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">我們以最具規模、最受規範的住宿業類別─</tspan><tspan x="71.34" y="48" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">觀光旅館業─為探討對象，</tspan><tspan x="-7.7" y="72" font-family="'MicrosoftJhengHeiBold'" font-size="14px" letter-spacing="1">依法又可分為國際觀光旅館業與一般觀光旅館業。</tspan></text>
+	<text transform="matrix(1 0 0 1 25.8002 85.0789)"><tspan x="0" y="0" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">除了購物費，旅館內支出的差異也是看點十足。</tspan><tspan x="17.44" y="24" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">我們以最具規模、最受規範的住宿業類別─</tspan><tspan x="71.34" y="48" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">觀光旅館業─為探討對象，</tspan><tspan x="-7.7" y="72" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14px" letter-spacing="1">依法又可分為國際觀光旅館業與一般觀光旅館業。</tspan></text>
 </g>
 <g>
 	<path id="svg06GroundRight" opacity="0.32" fill="#B8834E" d="M156.9,377.36h141.9c20.68,0,37.44-16.76,37.44-37.44v0
@@ -275,7 +275,7 @@
 				<rect x="59.06" y="459.9" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="130.67" height="28.37"/>
 			<g id="XMLID_803_">
 				
-					<text transform="matrix(1 0 0 1 71.4258 480.7041)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">一般觀光旅館</text>
+					<text transform="matrix(1 0 0 1 71.4258 480.7041)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">一般觀光旅館</text>
 			</g>
 		</g>
 	</g>
@@ -473,7 +473,7 @@
 				<rect x="189.76" y="287.97" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" width="130.67" height="28.37"/>
 			<g id="XMLID_800_">
 				
-					<text transform="matrix(1 0 0 1 202.4971 307.8647)" font-family="'MicrosoftJhengHeiBold'" font-size="16px" letter-spacing="1">國際觀光旅館</text>
+					<text transform="matrix(1 0 0 1 202.4971 307.8647)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px" letter-spacing="1">國際觀光旅館</text>
 			</g>
 		</g>
 	</g>
@@ -483,7 +483,7 @@
 		
 			<ellipse id="XMLID_810_" fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" cx="211.35" cy="448.56" rx="12.08" ry="7.44"/>
 		
-			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 215.3139 453.6791)" font-family="'MicrosoftJhengHeiBold'" font-size="14.778px" letter-spacing="1.03">$</text>
+			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 215.3139 453.6791)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14.778px" letter-spacing="1.03">$</text>
 	</g>
 	<g id="svg06MoneyLeft">
 		
@@ -491,7 +491,7 @@
 		
 			<ellipse id="XMLID_814_" fill="#B8834E" stroke="#000000" stroke-width="0.75" stroke-miterlimit="10" cx="169.39" cy="214.94" rx="12.08" ry="7.44"/>
 		
-			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 173.3604 220.0704)" font-family="'MicrosoftJhengHeiBold'" font-size="14.778px" letter-spacing="1.03">$</text>
+			<text transform="matrix(0.1335 -0.9572 0.9872 0.1598 173.3604 220.0704)" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="14.778px" letter-spacing="1.03">$</text>
 	</g>
 	
 		<path id="svg06Bling02" opacity="0" fill="#FFFFFF" stroke="#000000" stroke-width="0.75" stroke-linejoin="bevel" stroke-miterlimit="10" d="
@@ -1107,14 +1107,14 @@
 		</g>
 	</g>
 	<g id="svg06HotelLeftText">
-		<text transform="matrix(1 0 0 1 56.5977 239.7119)" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="16px">平均房價</text>
+		<text transform="matrix(1 0 0 1 56.5977 239.7119)" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px">平均房價</text>
 		
-			<text id="svg06HotelLeftNumber" transform="matrix(1 0 0 1 30.5552 266.5806)" fill="#E74631" font-family="'Lato-Bold'" font-size="25px">3,981NTD</text>
+			<text id="svg06HotelLeftNumber" transform="matrix(1 0 0 1 30.5552 266.5806)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="25px">3,981NTD</text>
 	</g>
 	<g id="svg06HotelRightText">
-		<text transform="matrix(1 0 0 1 268.2012 442.4326)" fill="#E74631" font-family="'MicrosoftJhengHeiBold'" font-size="16px">平均房價</text>
+		<text transform="matrix(1 0 0 1 268.2012 442.4326)" fill="#E74631" font-family="'Lato', 'Heiti TC', '儷黑 Pro', LiHei Pro', '微軟正黑體', 'Microsoft JhengHei'" font-weight='bold' font-size="16px">平均房價</text>
 		
-			<text id="svg06HotelRightNumber" transform="matrix(1 0 0 1 239.8369 469.3008)" fill="#E74631" font-family="'Lato-Bold'" font-size="26px">3,060NTD</text>
+			<text id="svg06HotelRightNumber" transform="matrix(1 0 0 1 239.8369 469.3008)" fill="#E74631" font-family="'Lato'" font-weight='bold' font-size="26px">3,060NTD</text>
 	</g>
 </g>
 </svg>
